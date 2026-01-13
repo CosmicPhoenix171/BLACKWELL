@@ -6,11 +6,13 @@
 }
 
 :root {
-    --primary-color: #2c3e50;
-    --accent-color: #c9a227;
-    --text-color: #333;
-    --light-bg: #f8f9fa;
-    --white: #ffffff;
+    --primary-color: #1a1a2e;
+    --accent-color: #b8860b;
+    --text-color: #e0e0e0;
+    --light-bg: #16213e;
+    --white: #0f0f23;
+    --card-bg: #1a1a2e;
+    --border-color: #333;
 }
 
 body {
@@ -133,17 +135,19 @@ h2 {
 
 /* Chapter Cards */
 .chapter-card {
-    background: var(--white);
+    background: var(--card-bg);
     padding: 2rem;
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     margin-bottom: 1.5rem;
     transition: transform 0.3s, box-shadow 0.3s;
+    border: 1px solid var(--border-color);
 }
 
 .chapter-card:hover {
     transform: translateY(-3px);
-    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 16px rgba(184,134,11,0.2);
+    border-color: var(--accent-color);
 }
 
 .chapter-number {
@@ -161,7 +165,7 @@ h2 {
 }
 
 .chapter-preview {
-    color: #666;
+    color: #999;
     margin-bottom: 1rem;
 }
 
@@ -178,10 +182,11 @@ h2 {
 
 /* Chapter Content Page */
 .chapter-content {
-    background: var(--white);
+    background: var(--card-bg);
     padding: 3rem;
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    border: 1px solid var(--border-color);
 }
 
 .chapter-content h1 {
@@ -195,7 +200,7 @@ h2 {
     font-size: 1.5rem;
     margin-bottom: 2rem;
     padding-bottom: 1rem;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--border-color);
 }
 
 .chapter-text {
@@ -226,7 +231,7 @@ h2 {
     justify-content: space-between;
     margin-top: 3rem;
     padding-top: 2rem;
-    border-top: 1px solid #eee;
+    border-top: 1px solid var(--border-color);
 }
 
 .chapter-nav a {
@@ -250,10 +255,25 @@ h2 {
 
 /* About Page */
 .about-content {
-    background: var(--white);
+    background: var(--card-bg);
     padding: 2rem;
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    border: 1px solid var(--border-color);
+}
+
+.about-content h3 {
+    color: var(--accent-color);
+    margin-top: 1.5rem;
+    font-size: 1.2rem;
+}
+
+.warning {
+    background: rgba(184,134,11,0.1);
+    border-left: 3px solid var(--accent-color);
+    padding: 1rem;
+    margin: 1.5rem 0;
+    border-radius: 0 4px 4px 0;
 }
 
 .about-content h2 {
