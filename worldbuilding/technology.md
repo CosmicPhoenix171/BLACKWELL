@@ -57,17 +57,23 @@ Technology in this world merges:
 
 ## Personal Tech
 
-### Aether Implants
-- Lilith has these
-- Block divine authority
-- [Other functions?]
+### Natural Aether Resistance
+
+Some individuals develop natural resistance to divine influence through sheer willpower and Aether mastery. This is extremely rare.
+
+**Lilith Blackwell** is the prime example:
+- Her will over Aether grew faster than God predicted
+- She is effectively invisible to divine omniscience
+- No implants or technology — pure willpower
+- This makes her unique and terrifying
 
 ### Reality Anchors
 - Prevent divine reality manipulation
 - [How they work]
 
 ### Magictech Shielding
-- Protects against divine strikes
+- Standard AETHCOM protective gear
+- Reduces (but doesn't eliminate) divine influence
 - [Limitations?]
 
 ---

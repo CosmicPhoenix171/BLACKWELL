@@ -2,7 +2,9 @@
 
 ## What Is Aether?
 
-Discovered in 2039 by scientists. A new fundamental force of reality.
+Discovered in 2020 by US scientists. A new fundamental force of reality.
+
+The discovery was hidden behind the "COVID-19 pandemic" — every lockdown, every mandate, every death toll was real. But the cause was not a virus. It was Aether breaking through into human awareness.
 
 Aether is simultaneously:
 - A particle and a wave
@@ -38,6 +40,17 @@ God is not the creator. God is the largest Aether thought-form ever created — 
 - Desperation
 
 **He feeds on belief. The more people worship, the more real He becomes.**
+
+But there's a catch: **God is limited to the beliefs themselves.**
+
+He can only do what people believe He can do. Collective faith defines both His power AND His cage:
+- If people believe God is merciful → He must show mercy sometimes
+- If people believe God can't interfere with free will → He can't force belief
+- If people believe God works in mysterious ways → His actions must remain ambiguous
+
+This is why He's currently escalating His appearances and miracles — to *expand* what people believe He can do. Each public appearance, each undeniable miracle, grows His power.
+
+**It's a feedback loop He's actively exploiting.**
 
 ## Aether Physics
 

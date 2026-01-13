@@ -14,12 +14,35 @@ Faith → Aether → God's Power → Miracles → More Faith
 
 ### God's Limitations
 
-God cannot strike Lilith directly because:
-- Aether implants
-- Reality anchors
-- Magictech shielding
+**God is limited to the beliefs themselves.**
 
-These **block divine authority**.
+He can only do what people *believe* He can do. Their faith defines both His power AND His cage.
+
+- If people believe God answers prayers → He can answer prayers
+- If people believe God punishes sinners → He can punish sinners
+- If people DON'T believe God can do something → He cannot do it
+
+This is why He works through miracles, appearances, and religious experiences — to *expand* what people believe He can do.
+
+**He is currently making more public appearances and performing more miracles.** Each one strengthens Him. It's a feedback loop:
+
+```
+Appearance → Witnesses → Belief spreads → More power → More appearances
+```
+
+### Why God Cannot Stop Lilith Directly
+
+Lilith's will over Aether grew far faster than God ever predicted.
+
+She is now effectively **immune to divine influence**:
+- He cannot erase her
+- He cannot read her thoughts
+- He cannot see her future
+- He cannot affect her directly
+
+Her Aether willpower acts as a shield. She is invisible to His omniscience.
+
+**This is unprecedented.** No human has ever resisted Him this completely.
 
 ### God's Methods
 
