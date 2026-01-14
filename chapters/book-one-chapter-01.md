@@ -1,5 +1,6 @@
-CHAPTER ONE
-First Blood
+# PROLOGUE
+
+## First Blood
 
 The angel was dying, and Lilith Blackwell stood over him like death itself.
 

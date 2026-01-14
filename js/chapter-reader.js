@@ -36,8 +36,8 @@ const chapters = {
     'book-one': {
         title: 'Book One',
         chapters: {
-            '01': {
-                title: 'Chapter One: First Blood',
+            'prologue': {
+                title: 'Prologue: First Blood',
                 file: 'chapters/book-one-chapter-01.md',
                 pages: 1
             }
@@ -51,7 +51,7 @@ function getParams() {
     const params = new URLSearchParams(window.location.search);
     return {
         book: params.get('book') || 'book-one',
-        chapter: params.get('chapter') || '01',
+        chapter: params.get('chapter') || 'prologue',
         page: parseInt(params.get('page')) || 1
     };
 }

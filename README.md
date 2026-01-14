@@ -1,67 +1,133 @@
 # BLACKWELL
 
-A novel published chapter by chapter on GitHub Pages.
+**A dark magic-tech war epic published chapter by chapter.**
+
+*She doesn't rebel. She litigates reality until God bleeds Aether.*
+
+---
 
 ## 🌐 Live Website
 
-Visit: **https://CosmicPhoenix171.github.io/BLACKWELL**
+**[https://CosmicPhoenix171.github.io/BLACKWELL](https://CosmicPhoenix171.github.io/BLACKWELL)**
 
-## 📖 How to Enable GitHub Pages
+---
 
-1. Go to your repository on GitHub: https://github.com/CosmicPhoenix171/BLACKWELL
-2. Click **Settings** (gear icon)
-3. Scroll down to **Pages** in the left sidebar
-4. Under "Source", select **Deploy from a branch**
-5. Under "Branch", select **main** and **/ (root)**
-6. Click **Save**
-7. Wait 1-2 minutes, then your site will be live!
+## 📖 About
 
-## ✍️ How to Publish a New Chapter
+**LILITH BLACKWELL** is a villain-protagonist saga where a defense lawyer with no empathy wages procedural warfare against God Himself.
 
-### Step 1: Create the Chapter File
-1. Open the `chapters` folder
-2. Copy `_chapter-template.html` 
-3. Rename it to `chapter-02.html` (or next number)
-4. Fill in:
-   - Replace `[NUMBER]` with the chapter number
-   - Replace `[Your Chapter Title Here]` with your title
-   - Add your chapter text inside the `<div class="chapter-text">` section
-   - Update the Previous/Next navigation links
+In 2020, humanity discovered Aether — a fundamental force shaped by consciousness. The "pandemic" was a lie. The lockdowns were containment. God is real, but He's not the creator — He's a parasitic thought-form feeding on billions of years of human belief.
 
-### Step 2: Add to Chapter List
-1. Open `chapters.html`
-2. Copy the chapter card template (in the comments)
-3. Paste it and update the number, title, and link
+One woman refuses to kneel. One woman learns to exploit divine law itself.
 
-### Step 3: Update Home Page (Optional)
-1. Open `index.html`
-2. Update the "Latest Chapter" section with your new chapter
+⚠️ *Content warnings: Villain protagonist. War crimes. Psychological horror. No redemption arcs.*
 
-### Step 4: Publish
-```bash
-git add .
-git commit -m "Add Chapter 2"
-git push
-```
+---
 
-Your new chapter will be live in 1-2 minutes!
-
-## 📁 File Structure
+## 📁 Project Structure
 
 ```
 BLACKWELL/
-├── index.html          # Home page
-├── chapters.html       # Chapter listing page
-├── about.html          # About the book/author
+├── index.html              # Home page
+├── chapters.html           # Chapter listing
+├── reader.html             # Dynamic chapter reader
+├── about.html              # About the book/author
 ├── css/
-│   └── style.css       # Website styling
-└── chapters/
-    ├── _chapter-template.html  # Template for new chapters
-    ├── chapter-01.html         # Chapter 1
-    └── chapter-02.html         # Chapter 2 (add as needed)
+│   └── style.css           # Website styling
+├── js/
+│   ├── chapter-reader.js   # Markdown chapter loader
+│   ├── firebase-config.js  # Firebase configuration
+│   ├── auth.js             # Google Sign-In
+│   ├── reading-progress.js # Bookmark & progress tracking
+│   ├── notes-highlight.js  # Reader feedback system
+│   └── feedback-admin.js   # Author feedback panel
+├── chapters/
+│   ├── book-one-chapter-01.md  # Prologue: First Blood
+│   └── _chapter-template.html  # Template for HTML chapters
+└── worldbuilding/
+    ├── README.md           # Worldbuilding index
+    ├── book-overview.md    # Series structure & outline
+    ├── characters.md       # Character profiles
+    ├── aether.md           # The fundamental force
+    ├── the-war.md          # World War III & AETHCOM
+    ├── factions.md         # Nations & organizations
+    ├── divine-law.md       # God, angels, and loopholes
+    ├── locations.md        # Key places
+    ├── technology.md       # Aether-tech weapons
+    └── plot-holes.md       # Consistency tracking
 ```
+
+---
+
+## 🚀 Setup
+
+### Enable GitHub Pages
+1. Go to **Settings** → **Pages**
+2. Under "Source", select **Deploy from a branch**
+3. Select **main** branch and **/ (root)**
+4. Click **Save**
+
+Your site will be live in 1-2 minutes!
+
+### Enable User Features (Optional)
+The site supports Google Sign-In, reading progress, and reader feedback via Firebase. See [SETUP_GUIDE.md](SETUP_GUIDE.md) for configuration.
+
+---
+
+## ✍️ Publishing New Chapters
+
+### 1. Create the Chapter File
+Create a new markdown file in `chapters/`:
+```
+chapters/book-one-chapter-02.md
+```
+
+### 2. Register the Chapter
+Add it to `js/chapter-reader.js`:
+```javascript
+'01': {
+    title: 'Chapter One: [Title]',
+    file: 'chapters/book-one-chapter-02.md',
+    pages: 1
+}
+```
+
+### 3. Add to Chapter List
+Update `chapters.html` with a new chapter card.
+
+### 4. Publish
+```bash
+git add .
+git commit -m "Add Chapter 1"
+git push
+```
+
+---
 
 ## 🎨 Customization
 
-- Edit `css/style.css` to change colors, fonts, and layout
-- The main colors are set at the top of the CSS file in `:root`
+Edit CSS variables in `css/style.css`:
+```css
+:root {
+    --accent-color: #d4a84b;     /* Gold accent */
+    --primary-color: #1a1a2e;    /* Dark background */
+    --text-color: #e8e8e8;       /* Light text */
+}
+```
+
+---
+
+## 📚 Worldbuilding
+
+See the [worldbuilding folder](worldbuilding/) for comprehensive lore documentation including:
+- Aether physics and mechanics
+- Character profiles and arcs
+- The war timeline
+- Divine law and how Lilith exploits it
+- Technology and weapons
+
+---
+
+## 📜 License
+
+All rights reserved. This is an original creative work.

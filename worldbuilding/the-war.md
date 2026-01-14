@@ -111,8 +111,7 @@ The world follows real history until 2020. Then Aether changed everything.
 | 2024 | First drafted Aether-capable citizens disappear into AETHCOM |
 | 2025 | First angel captured and reverse-engineered |
 | 2026 | WW3 begins — US begins "acquiring" nations |
-| [Year] | Lilith's death and resurrection |
-| [Year] | Lilith joins AETHCOM / becomes Director |
+| 2026 | Lilith becomes Director of AETHCOM |
 | [Year] | Current story events |
 
 ### The Spark: Greenland and Venezuela
@@ -161,39 +160,75 @@ They died because their bodies couldn't handle the Aether.
 
 ## Major Battles / Operations
 
-### [Battle Name]
-- Date:
-- Location:
-- Lilith's role:
-- Outcome:
-- Legal justification used:
+### Operation First Blood (2024)
+- **Date**: January 2024
+- **Location**: Downtown Baltimore, abandoned church
+- **Lilith's Role**: Primary operator; made the kill personally
+- **Target**: [Rank TBD] angel
+- **Outcome**: First confirmed angel kill; earned Lilith her titles
+- **Legal Justification**: Angel was classified as "hostile non-human combatant"
+- **Notes**: Described in the Prologue
+
+### [Future Battle]
+- **Date**: [TBD]
+- **Location**: [TBD]
+- **Lilith's Role**: [TBD]
+- **Outcome**: [TBD]
+- **Legal Justification**: [TBD]
 
 ---
 
-## Other Nations
+## Other Nations at War
 
-### [Nation]
-- Status: (Acquired / Resisting / Allied / Destroyed)
-- Aether capability: (None / Developing / Active / Classified)
-- Notes:
+| Nation | Status | Aether Capability | Stance |
+|--------|--------|-------------------|--------|
+| European Union | Fractured | Limited | Officially neutral |
+| China | Active | Developing independently | Cold war posture |
+| Russia | Active | Faith-based approach | Allied with divine forces |
+| Middle East Coalition | Active | High faith concentration | Resistance |
+| Vatican City | Neutral | Extreme (faith density) | Divine stronghold |
 
 ---
 
 ## The Public Story
 
-The American public knows:
+### What the American Public Knows
 - Aether exists (impossible to hide)
-- The government is "researching" it
-- Some people are "more sensitive" to it
+- The government is "researching" it for "clean energy" and "medical breakthroughs"
+- Some people are "more sensitive" to it (portrayed as a health condition)
+- There's a war, but it's about "freedom" and "national security"
 
-The American public does NOT know:
-- AETHCOM exists
-- Gifted citizens are being drafted
-- Angels are real and being harvested
-- God is a target
+### What the American Public Does NOT Know
+- AETHCOM exists as a secret military branch
+- Gifted citizens are being drafted with no right of refusal
+- Angels are real and being harvested for power
+- God is a target, not an ally
+- The "pandemic" was Aether emergence, not a virus
+- Reality-warping weapons exist and have been used
 
-The war is sold as conventional conflict with "experimental weapons support."
+### The Cover Story for WW3
+The war is sold as conventional conflict with some "experimental weapons support":
+- Greenland: "Mutual defense agreement with Denmark" (Denmark says otherwise)
+- Venezuela: "Humanitarian intervention against a corrupt regime"
+- Enemy nations: "Developing dangerous technologies" (the irony is not lost on AETHCOM)
+
+---
+
+## Lilith's Recorded War Crimes
+
+All procedurally legal. All documented.
+
+| Action | Legal Justification | Status |
+|--------|---------------------|--------|
+| Angel termination | "Hostile non-human combatant" | Ongoing |
+| Soul-bound weapon deployment | "Volunteer program" with buried consent | Active |
+| Civilian area operations | "Legitimate military targets present" | Case-by-case |
+| Reality weapon testing | "Classified research exemption" | [TBD] |
+
+Lilith doesn't hide what she does. She documents it.
 
 ---
 
 *Add more as the story develops.*
+
+*Cross-reference: [Factions](factions.md) | [Technology](technology.md) | [Locations](locations.md)*

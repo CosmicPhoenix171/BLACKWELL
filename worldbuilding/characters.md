@@ -5,204 +5,104 @@
 **Titles:**
 - To the US: *Director Blackwell*
 - To enemies: *The Dominion Witch*
-- To believers: *The Heretic Engine*
+- To believers: *The Heretic*
 - To God: *"The One Who Refuses"*
 
 **Note:** She despises her middle name. Anyone lower in rank who calls her "Rose" instead of her full name earns a death glare that ends careers.
 
-### Original Life
+---
 
-Before God killed her, Lilith was the best defense lawyer on Earth.
+### Background
 
-**She defended:**
-- War criminals
-- Corporate genociders
-- Human traffickers
-- Bio-weapon executives
-- Private military firms
+Lilith Rose Blackwell was 20 years old when Aether arrived. A second-year military strategy student, already outperforming her peers. Her future was mapped out: military intelligence, strategic command, a career built on winning.
 
-**Her method:**
-She never asked: *"Did you do it?"*
-She asked: *"Can they prove it under their own rules?"*
+Then the "pandemic" hit. And everything changed.
 
-And she won.
+**Before Aether:**
+- Raised in a cold, high-achieving household
+- Showed signs of antisocial personality disorder from childhood
+- Intellectually brilliant but emotionally absent
+- Planned to become a military strategist — not to serve, but because war is a *game* and she wanted to win
 
-**Core belief formed here:**
-> "If I follow the rules better than anyone else."
+**What Made Her Different:**
+Lilith was already unusual before Aether. She had no faith, no fear of death, and no emotional connection to the concept of God. When other children prayed, she evaluated. When others believed, she questioned.
 
-### Death & Resurrection
+This wasn't rebellion. It was simply how her mind worked.
 
-#### Her Original Death
+---
 
-Lilith Rose Blackwell died on [Date] in her original timeline.
+### The Aether Awakening
 
-**Cause of death:** [How she died — accident? Murder? Illness?]
+When Aether emerged in 2020, most people experienced confusion, fear, or religious awakening.
 
-She had lived a life of perfect legal victories, defending the indefensible. She had never lost. She had never been wrong. She had followed every rule better than anyone.
+Lilith experienced **clarity**.
 
-#### The Threshold
+While others got sick from Aether exposure, Lilith got *aware*. She could feel that something was wrong with reality itself — even before the official discovery, even before the lockdowns made sense to anyone else.
 
-In the moment between life and whatever comes next, God appeared to her.
+**Her abilities manifested immediately at Anomalous-tier.**
 
-Not a light. Not a warmth. Not a feeling.
+This was unprecedented. Most Aether-sensitives take years to develop control. Lilith was manipulating Aether within weeks. Scientists couldn't explain it. Psychologists couldn't explain it.
 
-**A presence.** Infinite. Watching. Expecting.
+**The truth:**
+Lilith's complete lack of faith acted as a *void* in the Aether field. Where others had beliefs that God could latch onto, Lilith had nothing. No worship. No hatred. No fear. Just... emptiness where faith should be.
 
-He had done this billions of times. The pattern was always the same:
-- Terror
-- Bargaining  
-- Surrender
-- Worship
+And that emptiness became a weapon.
 
-He waited for her to fall to her knees.
+---
 
-**Lilith looked at Him and felt... nothing.**
+### Why God Noticed Her
 
-No awe. No fear. No love. No hate.
+When Aether arrived, God became aware of something unusual: a human whose soul He couldn't *see*.
 
-Just observation.
+Most humans have Aether signatures tied to their beliefs. God can read them, influence them, guide them toward worship. But Lilith's signature was... absent. A blind spot in His omniscience.
 
-She saw:
-- A system presenting itself as inevitable
-- An entity demanding payment it hadn't earned
-- A contract she had never signed
+**He began watching her specifically.**
 
-God spoke: *"I am the Lord your God."*
+Angels appeared near her more than statistically likely. "Coincidences" kept testing her faith. Divine attention surrounded her.
 
-Lilith's response: *"Prove it."*
+And Lilith noticed.
 
-Not defiance. Not rebellion. Just... due diligence.
+She didn't react with fear or wonder. She reacted with **analysis**.
 
-**She was still a lawyer, even in death.**
+> *"If God is paying attention to me specifically, I matter. If I matter, I have leverage. If I have leverage, I can win."*
 
-#### God's Miscalculation
+---
 
-God had broken trillions of souls. Pride, anger, despair — He had tools for all of them.
-
-But Lilith wasn't proud. She wasn't angry. She wasn't despairing.
-
-She was **evaluating**.
-
-And she found Him *unpersuasive*.
-
-So God made a decision He would regret for eternity:
-
-Instead of destroying her, instead of simply erasing her defiance, He decided to *teach* her. To place her in a reality where His power was undeniable. Where faith was physics. Where miracles walked the streets and angels enforced divine law.
-
-> *"If she sees My works made manifest, she will understand. She will kneel."*
-
-He was so certain.
-
-He was wrong.
-
-#### The Reincarnation
-
-God didn't just send her to another world.
-
-He sent her **back in time** — into the original universe, into her own younger body.
-
-**The insertion point:** 2020. Eighteen years old. Just graduated high school. Acceptance letter to pre-law sitting on her desk. Her whole life ahead of her.
-
-#### The Merge
-
-God didn't replace the young Lilith. He **merged** them.
-
-Two versions of the same soul collapsed into one:
-- The 18-year-old who had just graduated high school
-- The veteran lawyer who had lived an entire life defending monsters
-
-The result: A young woman with all her original memories *plus* decades of experience that hadn't happened yet.
-
-This wasn't a possession. It wasn't a takeover. Both Liliths became one — and both remember everything.
-
-**The timeline itself is a mirror.** Until Aether arrived in 2020, this universe was identical to the one Lilith originally lived in. Same parents. Same childhood. Same high school. Same acceptance letter.
-
-Then reality diverged.
-
-#### The Original Universe
-
-This isn't an alternate timeline God created as a test.
-
-**This is the original universe God was created in.**
-
-He sent Lilith back in time within His own reality — the world where billions of years of human belief had already formed Him. He thought immersing her in His own origin point would force her to understand His power.
-
-Instead, she arrived just in time to watch humanity discover the physics behind His existence.
-
-#### The Collision
-
-Lilith had been planning to go to college. To become a lawyer. To live the life she remembered living.
-
-Then the "pandemic" hit.
-
-Except she could *see* it wasn't a pandemic. Even before the official discovery, even before the lockdowns made sense to anyone else, Lilith could feel something wrong with reality itself.
-
-When others got sick, she got *aware*.
-
-#### Her Aether Awakening
+### Her Aether Abilities
 
 Lilith's Aether sensitivity was off the charts — **Anomalous-tier** from day one.
 
-But more than that: her *will* over Aether grew faster than God ever predicted.
+But more than that: her *will* over Aether grew faster than anyone predicted.
 
-Within months of the Aether emergence, Lilith had developed abilities that should have taken years to manifest. Her willpower — forged through decades of legal combat in her past life — translated directly into Aether control.
+Within months of the Aether emergence, Lilith had developed abilities that should have taken years to manifest. Her cold, calculating mind translated directly into Aether control — willpower without emotional interference.
 
-**God's miscalculation:**
-- He expected her to witness His power and submit
-- Instead, she became powerful enough to *resist* His direct influence
-- Her Aether will now shields her from His omniscience
-- He cannot read her thoughts, see her future, or affect her directly
+**Her abilities:**
+- Her Aether will shields her from God's omniscience
+- He cannot read her thoughts or see her future
+- She cannot be directly influenced by divine power
+- Her Aether manifests as violet/purple — the color of dying stars
 
 She is, effectively, **invisible to God** — and getting stronger.
 
-**The irony was not lost on her:**
+---
 
-God had sent her back to relive her youth in a world where He was undeniably real... and she arrived just in time for humanity to discover the physics that would let her kill Him.
-
-She was supposed to learn faith.
-
-Instead, she learned Aether.
-
-#### Two Lives, One Mind
-
-Lilith exists as a paradox:
-
-| Her Body | Her Mind |
-|----------|----------|
-| 18 years old (in 2020) | Decades of legal experience |
-| Fresh out of high school | Veteran defense attorney |
-| Should be naive | Has seen humanity's worst |
-| Should be learning | Already knows how to win |
-
-This creates unique advantages:
-- She understands the world as it was before Aether
-- She has an adult's discipline in a young person's timeline
-- No one expects an 18-year-old to be the most dangerous lawyer alive
-- She had time to watch AETHCOM form, study it, and position herself perfectly
-
-And unique horrors:
-- She remembers a life that no longer exists
-- People she knew in her original timeline may not exist here
-- She has to *pretend* to be young while carrying old wounds
-- God is watching her specifically, waiting for her to break
-
-#### Watching the World Change
+### Watching the World Change
 
 From 2020 to 2026, Lilith watched everything unfold:
 
 | Year | What Lilith Did |
 |------|-----------------|
-| 2020 | Woke up young. Felt Aether arrive. Understood immediately. |
-| 2021 | Started college anyway. Studied law AND Aether privately. Watched AETHCOM form. |
+| 2020 | Aether arrives mid-semester. Abilities manifest. Understands immediately this changes everything. |
+| 2021 | Continued college. Studied strategy AND Aether privately. Watched AETHCOM form. |
 | 2022 | Flagged as Anomalous in "health screenings." Approached by AETHCOM recruiters. |
 | 2023 | Accepted draft into AETHCOM — on her terms. Began climbing. |
-| 2024 | First confirmed angel kill. Earned her titles. |
+| 2024 | First confirmed angel kill (Prologue). Earns her titles. |
 | 2025 | [Key event that elevated her to Director] |
-| 2026 | Director Blackwell. WW3 begins. The story starts. |
+| 2026 | Director Blackwell. WW3 begins. The story continues. |
 
 She didn't fight the draft. She *weaponized* it.
 
-She arrived in a world where:
+She entered a world where:
 - Aether was real and measurable
 - Angels visibly existed
 - Miracles had scientific documentation
@@ -213,7 +113,9 @@ Most people who saw undeniable proof of God would convert.
 
 Lilith saw undeniable proof of God and thought: *"Finally. Discoverable evidence."*
 
-#### Her First Realizations
+---
+
+### Her Realizations
 
 Within months of Aether's arrival, Lilith had already begun her analysis:
 
@@ -225,14 +127,14 @@ Within months of Aether's arrival, Lilith had already begun her analysis:
 
 **Observation 2:** God has rules He cannot break.
 - If He was truly all-powerful, why didn't He just *make* her believe?
-- Why send her here instead of simply rewriting her mind?
+- Why can't He simply rewrite her mind?
 - Conclusion: There are limits. There are *loopholes*.
 
 **Observation 3:** God is watching her specifically.
 - She can feel His attention
 - Angels appear near her more than statistically likely
 - "Coincidences" keep testing her faith
-- Conclusion: She is an *experiment* to Him. A project.
+- Conclusion: She is an *anomaly* to Him. A problem.
 
 **Observation 4:** He wants her to kneel *willingly*.
 - Forced worship must not count
@@ -240,7 +142,9 @@ Within months of Aether's arrival, Lilith had already begun her analysis:
 - He needs her to *choose* Him
 - Conclusion: Her refusal has power. Her denial costs Him something.
 
-#### The Moment She Decided
+---
+
+### The Moment She Decided
 
 There was a specific moment — a specific day — when Lilith stopped merely observing and started *planning*.
 
@@ -294,20 +198,20 @@ To her:
 - Death is a statistic  
 - Ethics are loopholes
 
-She applies her lawyer brain to:
+She applies her tactician brain to:
 - The Geneva Convention
 - Military doctrine
-- Divine law
+- Divine rules
 - Angelic commandments
 
-She asks: *"What is the worst thing I can do that is still technically legal?"*
+She asks: *"What is the worst thing I can do that they cannot counter?"*
 
 Then she does it.
 
 **Examples:**
-- Starving cities ✓ Legal
-- Using civilians as shields ✓ Legal
-- Forcing saints to break their holy laws ✓ Legal
+- Starving cities ✓ Effective
+- Using civilians as shields ✓ Effective
+- Forcing saints to break their holy laws ✓ Effective
 
 Every atrocity is:
 - Documented
@@ -324,18 +228,48 @@ She is running a universe-scale experiment. If God cannot stop her... He is not 
 
 ## Other Characters
 
-### [Character Name]
-- Role:
-- Faction:
-- Relationship to Lilith:
-- Notes:
+### The First Angel (Prologue)
+- **Role**: Lilith's first confirmed angel kill
+- **Rank**: [TBD — likely a Power or Principality]
+- **Appearance**: Six wings, golden blood, "too perfect" face
+- **Death**: Ruined church in Baltimore; stabbed through the heart with Aether-infused blade
+- **Last Words**: Tried to say "You do not know what you have—" before Lilith silenced him
+- **Significance**: His death announced Lilith to Heaven
 
+### [AETHCOM Ally]
+- **Role**: [Position within AETHCOM]
+- **Relationship to Lilith**: Trusted subordinate / rival / mentor
+- **Notes**: [TBD]
+
+### [AETHCOM Rival]
+- **Role**: [Position within AETHCOM]
+- **Relationship to Lilith**: Political enemy / competitor for Director position
+- **Notes**: [TBD]
+
+### Lilith's Family
+- **Parents**: Exist but emotionally distant; Lilith never connected with them
+- **Siblings**: [TBD]
+- **Relationship**: Lilith distances herself; she finds family attachments strategically inconvenient
+- **Do They Know?**: No. They think she's just intense and successful.
+
+---
+
+## Character Template
+
+Use this format when adding new characters:
+
+```
 ### [Character Name]
-- Role:
-- Faction:
-- Relationship to Lilith:
-- Notes:
+- **Role**: [Position/Function]
+- **Faction**: [US/AETHCOM/Divine/Other]
+- **Appearance**: [Brief description]
+- **Relationship to Lilith**: [Ally/Enemy/Neutral/Complicated]
+- **Motivation**: [What do they want?]
+- **Notes**: [Other relevant info]
+```
 
 ---
 
 *Add more characters as they develop.*
+
+*Cross-reference: [Factions](factions.md) | [Divine Law](divine-law.md) | [Book Overview](book-overview.md)*

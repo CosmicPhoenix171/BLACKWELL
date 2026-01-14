@@ -61,31 +61,58 @@ Lilith studies them. Then kills them.
 ## Angels
 
 ### Nature
-[What are angels in this world? Pure Aether constructs? Former humans?]
+Angels are Aether constructs — beings formed from concentrated collective belief over millennia. They are not "created" by God in the traditional sense; they emerged from the same faith-driven process that created Him.
+
+- **Composition**: Pure condensed Aether, shaped by human expectations of angelic form
+- **Appearance**: "Too perfect, too symmetrical, wrong in the way only something inhuman could be"
+- **Blood**: Golden, glowing, fades as they die
+- **Wings**: Typically six (three per side), feathered, luminous
 
 ### Hierarchy
-1. [Rank]
-2. [Rank]
-3. [Rank]
+1. **Seraphim** — The burning ones, closest to God's presence, rarely deployed
+2. **Cherubim** — Guardians, protectors of sacred spaces and objects
+3. **Thrones** — Judges, enforcers of divine law
+4. **Dominions** — Administrators of God's will across regions
+5. **Virtues** — Miracle-workers, maintainers of natural order
+6. **Powers** — Warriors against evil, first line of divine defense
+7. **Principalities** — Overseers of nations and peoples
+8. **Archangels** — Messengers and commanders
+9. **Angels** — Common soldiers, the majority of divine forces
 
 ### Weaknesses
-[How does Lilith kill them?]
+- **Bound by divine law**: Cannot act outside what collective belief allows
+- **Aether vulnerability**: Can be harmed by weaponized Aether
+- **Covenant exploitation**: Must honor covenants and sacred agreements
+- **Faith erosion**: Every angel death weakens collective belief slightly
 
 ### As Batteries
-[How are they reverse-engineered into power sources?]
+AETHCOM discovered that captured angels can be "harvested":
+- Their Aether is extracted and stored
+- The process is agonizing and takes weeks
+- A single angel powers a small city for months
+- This is considered a war crime by every religion — but not by any secular law
 
 ---
 
 ## Saints
 
 ### How Saints Are Made
-[Divine blessing? Aether concentration?]
+Saints are humans who accumulated enough faith-directed Aether to transcend normal mortality. They are:
+- Martyrs whose deaths created massive belief surges
+- Prophets who channeled divine will for decades
+- Miracle workers who became focal points for collective faith
 
 ### Their Holy Laws
-[What rules bind saints?]
+Saints are bound by the circumstances of their sainthood:
+- A saint of healing cannot harm directly
+- A saint of justice must follow due process
+- A saint of mercy cannot refuse genuine pleas
 
 ### How Lilith Exploits Them
-[Forcing saints to break their own laws]
+Lilith studies each saint's specific limitations and creates scenarios where:
+- Following their laws leads to their defeat
+- Breaking their laws strips their saintly power
+- Their own sacred vows become weapons against them
 
 ---
 
@@ -95,9 +122,16 @@ These are the rules God/angels/saints must follow — and the loopholes Lilith u
 
 | Commandment | Lilith's Exploitation |
 |-------------|----------------------|
-| [Rule 1] | [How she bends it] |
-| [Rule 2] | [How she bends it] |
-| [Rule 3] | [How she bends it] |
+| Cannot violate free will | Lilith always "chooses" her actions freely — even when those choices destroy angels |
+| Must honor covenants | Lilith writes ironclad agreements that bind divine agents |
+| Cannot lie directly | Lilith asks questions with no safe truthful answer |
+| Must answer sincere prayer | Lilith weaponizes prayer from captured believers |
+| Cannot harm the innocent | Lilith ensures no legally "innocent" parties are in her kill zones |
+| Must protect sacred spaces | Lilith attacks angels outside churches, forcing them to leave protection |
+
+---
+
+*Cross-reference: [Aether](aether.md) | [Technology](technology.md) | [Factions](factions.md)*
 
 ---
 

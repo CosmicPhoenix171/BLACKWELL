@@ -4,9 +4,9 @@
 
 **Genre:** Dark magic-tech war epic / Divine psychological horror / Villain-protagonist saga
 
-**Logline:** A defense lawyer with no empathy is killed, meets God, refuses to kneel, and is reincarnated into a world where magic is real — just in time to watch humanity weaponize it. She joins the war machine, rises to power, and wages procedural warfare against Heaven itself.
+**Logline:** A 20-year-old military strategy student with no empathy discovers she's immune to God's influence when Aether — the physics of belief — reshapes reality. She joins the US military's secret magic division, rises to power, and wages tactical warfare against Heaven itself.
 
-**Core Theme:** What happens when the most dangerous kind of human — a rule-lawyer with no empathy — is given divine physics and infinite war to exploit?
+**Core Theme:** What happens when the most dangerous kind of human — a master tactician with no empathy — is given divine physics and infinite war to exploit?
 
 ---
 
@@ -24,13 +24,12 @@ And at the heart of the war machine: **Lilith Rose Blackwell**.
 
 ## The Protagonist
 
-**Lilith Rose Blackwell** — 24 years old (but carrying decades of memories from a past life)
+**Lilith Rose Blackwell** — Currently 26 years old (as of 2026)
 
-- Former defense lawyer who defended war criminals, traffickers, and corporate genociders — and never lost
-- Died, met God, gave Him nothing
-- God sent her back in time into her 18-year-old self to "teach her faith"
-- Instead, she learned Aether, became immune to His influence, and rose to Director of AETHCOM
-- Now wages legal-procedural warfare against divine forces
+- 20 when Aether arrived, displaying Anomalous-tier abilities from day one
+- Complete lack of faith made her invisible to God's influence
+- Rose through AETHCOM ranks by proving herself in every mission
+- Now Director Blackwell, waging tactical warfare against divine forces
 
 **Her Titles:**
 - To the US: *Director Blackwell*
@@ -45,77 +44,66 @@ And at the heart of the war machine: **Lilith Rose Blackwell**.
 ### Book 1: [Title TBD]
 **Timeline:** 2020–2024 (Aether discovery through first angel kill)
 
-**Structure:** In medias res opening, then extended flashback
+**Structure:** In medias res opening (Prologue), then extended flashback
 
 ---
 
-#### Opening: The First Angel Kill (2024)
+#### Prologue: First Blood (2024)
 
 The book opens with Lilith killing her first angel.
 
 - No context. No explanation. Just violence and victory.
 - Readers see Director Blackwell at her most terrifying
-- The angel dies. Lilith feels nothing.
+- The angel dies in a ruined church in Baltimore. Lilith feels nothing but dark joy.
 - **Hook:** How did an apparent 22-year-old become this?
 
 **Then the story rewinds.**
 
 ---
 
-#### Part 1: The Old Life (Pre-2020)
+#### Part 1: Before Aether (Pre-2020)
 
-Lilith's original existence before death:
+Lilith's life before everything changed:
 
-- Her career as the best defense lawyer on Earth
-- The clients she defended (war criminals, traffickers, executives)
-- Her method: "Can they prove it under their own rules?"
-- Her core belief forming: "If I follow the rules better than anyone, I deserve to exist"
-- The case that defined her / her greatest victory
-- **Her death** — how she died in her original timeline
-
----
-
-#### Part 2: The Threshold
-
-The moment between life and death:
-
-- God appears, expecting the usual terror → bargaining → surrender
-- Lilith gives Him nothing
-- She evaluates Him like a contract she didn't sign
-- God's decision: send her back to learn faith
-- **The reincarnation** — waking up at 18, merged with her younger self
+- Her cold, high-achieving upbringing
+- Signs of antisocial personality disorder from childhood
+- Her method of thinking: "What are the rules? How do I exploit them?"
+- Her core belief forming: "If I outthink everyone, I deserve to win"
+- Her studies in military strategy, her planned future
+- **The arrival of Aether** — everything changes
 
 ---
 
-#### Part 3: Aether Arrives (2020)
+#### Part 2: Aether Arrives (2020)
 
 The "pandemic" and Lilith's awakening:
 
-- Weeks after reincarnation, Aether breaks through
-- Lilith can feel it's not a virus — something is wrong with reality
-- Her Anomalous-tier abilities manifest
+- Aether breaks through into reality
+- Lilith can feel it's not a virus — something is wrong with reality itself
+- Her Anomalous-tier abilities manifest immediately
 - Watching the world react while she already understands
 - The cover story taking shape (lockdowns, "health screenings")
-- Her decision: go to college anyway, study law AND Aether
+- Her decision: stay in college, study strategy AND Aether
+- God notices her — a void in His omniscience
 
 ---
 
-#### Part 4: AETHCOM (2021–2023)
+#### Part 3: AETHCOM (2021–2023)
 
 Lilith's rise through the ranks:
 
-- 2021: College + private Aether study + watching AETHCOM form
+- 2021: Continued college + private Aether study + watching AETHCOM form
 - 2022: Flagged as Anomalous, approached by recruiters
 - Her choice to join willingly — seeing AETHCOM as a resource
 - Basic training / orientation / discovering how deep the conspiracy goes
 - First missions, first kills (not angels yet — human enemies? Lesser divine agents?)
 - Proving herself repeatedly, climbing fast
 - The politics of AETHCOM — allies made, enemies made
-- **End of Part 4:** She's positioned for something big
+- **End of Part 3:** She's positioned for something big
 
 ---
 
-#### Part 5: The Hunt (2024)
+#### Part 4: The Hunt (2024)
 
 Building to the opening scene:
 
@@ -139,11 +127,11 @@ Building to the opening scene:
 ---
 
 **Key Questions for Book 1:**
-- What was her death in the original timeline? (Accident? Murder? Illness?)
+- What specific event triggered her decision to fight God?
 - What angel does she kill? What kind? What's special about it?
 - What loophole does she exploit to kill it?
 - Who are her allies/rivals in AETHCOM during her rise?
-- What's her relationship with her younger self's family?
+- What's her relationship with her family after Aether arrives?
 
 ---
 
