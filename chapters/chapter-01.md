@@ -20,49 +20,49 @@ That was the story, anyway.
 
 I never got sick.
 
-That wasn't unusual. What was unusual was everything that happened around the people who did.
+That wasn't unusual. What was unusual was everything that didn't add up.
 
-I worked part time at a grocery store to help cover expenses. Nights, mostly. Shelves still needed stocking even when the rest of the world stopped pretending to function. Fear made people careless. Anger made them loud. Belief made them dangerous in ways no one wanted to name.
+I worked part time at a grocery store to help cover expenses. Nights, mostly. Shelves still needed stocking even when the rest of the world stopped pretending to function.
 
-The first thing I noticed was heat.
+The first thing I noticed was the math.
 
-Not fever. Ambient heat. The air would thicken near certain customers. Like standing too close to an open oven, except there was nothing there. Just people. Scared people. Angry people. People praying under their breath while they counted their change.
+The death rates didn't follow any epidemiological model I could find. I checked. Pulled data from public health departments, cross referenced with population density, age demographics, hospital capacity. The numbers were wrong. Not slightly wrong. Fundamentally wrong.
 
-Lights flickered when they panicked. Card readers froze when arguments broke out. Once, a freezer unit failed so violently it warped the metal casing, bent outward like something had punched it from the inside. The compressor hadn't even been running.
+Entire nursing homes would report zero cases while healthy college students dropped dead in their apartments. Rural counties with no hospital access had survival rates that made no sense. Cities with world class medical infrastructure lost patients at random, no pattern to the severity.
 
-They blamed the grid.
+They blamed comorbidities. Pre existing conditions. Bad luck.
 
 I started paying attention.
 
-There was a woman who came in every Tuesday around eleven. Always bought the same things: bread, milk, candles, wine. She wore a small gold cross and moved her lips constantly, silently. The lights above her register never worked properly. Not once in three months. Maintenance replaced the bulbs four times.
+The official story said respiratory illness. Pneumonia. Organ failure in severe cases. But I heard things from the night shift workers who came in after their hospital rotations. Stories that didn't match the press conferences.
 
-There was a man who screamed at a cashier over a coupon. His face went red, then purple, then something beyond color. The register sparked. The conveyor belt stopped. Every fluorescent tube in aisle seven popped in sequence, one after another, like dominoes falling toward him.
+Patients who screamed about things they couldn't possibly see. People who died with expressions of absolute terror frozen on their faces. Bodies that had to be cremated immediately because something about them made the morgue staff refuse to work.
 
-He didn't notice. He was too busy yelling about fifty cents.
+Equipment failures that happened during specific procedures. Power outages in specific wards. Fires that started in rooms where nobody had been smoking.
 
-There was a kid, maybe sixteen, who stocked dairy with me on weekends. Nice enough. Quiet. One night he cut his hand on a broken bottle and the blood that hit the floor wasn't quite red. It was darker. Thicker. It spread in patterns that didn't follow gravity.
+The official reports called these isolated incidents. Unrelated. Statistical noise.
 
-He was gone the next week. Manager said he transferred. Nobody asked where.
+I wrote them down anyway.
 
-By winter, the patterns were impossible to ignore. Entire households exposed, only one person reacting. Some people collapsed within hours. Others walked through it untouched. Severity didn't line up with anything measurable. Not age, not health, not exposure time.
+There was a pattern. I couldn't see it yet, but I could feel it. Something about who lived and who died that had nothing to do with age or health or access to care. Something else was selecting people, and nobody was talking about what it was.
 
-When things went wrong, it was always explained away.
+By winter, I had filled two notebooks with inconsistencies. Dates. Locations. Names that appeared in one report and vanished from the next. Hospitals that transferred patients to facilities that didn't seem to exist. Death certificates with causes of death that contradicted the autopsy notes, when autopsy notes existed at all.
 
-Equipment malfunctions. Power surges. Medical errors corrected just in time. Stories that circulated for a day before disappearing.
+The news said millions were dying from a virus.
 
-I learned to read the signs.
+My notebooks said something else was happening.
 
-The temperature shifts. The pressure changes. The way certain people seemed to bend the air around them without knowing it. The way reality itself felt thinner in some moments, like a membrane stretched too tight.
-
-People talked about a man who shouldn't have survived a warehouse accident. A steel beam through his chest, and he walked out of the hospital three days later with nothing but a scar. About a woman whose scream took out an entire aisle's lighting and cracked the windows of every car in the parking lot. About a cashier who coded in the break room and was declared stable before the paramedics even arrived, sitting up and asking what happened while the defibrillator sat unused beside her.
-
-None of it stayed on record long enough to matter.
-
-But I remembered. I always remembered.
+I couldn't prove it. Not yet. But I knew the story we were being told was a lie.
 
 In 2021, the world decided it was tired of being afraid. Restrictions loosened. Memorials went up. People wanted an ending badly enough to accept one that didn't make sense.
 
-I watched them line up for vaccines that seemed to do more than prevent illness. Watched the subtle screening process hidden in medical questionnaires. Watched the way certain people were pulled aside after their shots. Just for "additional monitoring," the nurses said. Standard procedure.
+I watched them line up for vaccines that seemed to do more than prevent illness. Watched the subtle screening process hidden in medical questionnaires. Questions that had nothing to do with allergies or medical history. Questions about beliefs. About faith. About whether you'd ever experienced something you couldn't explain.
+
+I answered honestly. I had never experienced anything I couldn't explain. Everything had an explanation. Most people just didn't bother to look for it.
+
+The nurse paused when she read my answers. Made a note. Told me I was done.
+
+Some people were pulled aside after their shots. Just for additional monitoring, the nurses said. Standard procedure.
 
 Some of those people came back. Some didn't.
 
@@ -83,12 +83,12 @@ I started writing them down.
 Not everyone. Just the ones that didn't fit.
 
 People who survived things they shouldn't have.
-People who were always nearby when something failed.
-People whose presence seemed to make outcomes worse or better without touching anything.
+People who were always nearby when something went wrong.
+People whose names appeared in multiple incident reports before vanishing entirely.
 
 I filled three notebooks that year. Names. Dates. Locations. Patterns.
 
-The notebook showed me what the news wouldn't say: it wasn't random. The deaths clustered around certain types of people. The survivors clustered around others. Something was selecting for specific traits, and I couldn't figure out what.
+The notebooks showed me what the news wouldn't say. It wasn't random. The deaths clustered around certain types of people. The survivors clustered around others. Something was selecting for specific traits, and I couldn't figure out what.
 
 By the end of the year, half the names on my list were officially dead.
 
