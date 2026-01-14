@@ -99,21 +99,21 @@ When the van finally stopped, they pulled a hood over my head and walked me into
 
 The hood came off in a room with fluorescent lights and concrete walls. Two people stood in front of me. A woman in business casual. A man who didn't smile.
 
-"Miss Blackwell," the woman said. Her voice was pleasant. Professional. The kind of voice that never raised and never needed to. "We apologize for the method of transport. But we needed to ensure you'd listen."
+The woman called me by name. Apologized for the method of transport, as she put it. Said they needed to ensure I'd listen.
 
-"You kidnapped me."
+I told her she'd kidnapped me.
 
-"We relocated you." She was still smiling. "There are things happening in the world that most people aren't equipped to understand. You've noticed more than most. That makes you valuable."
+She called it relocation. Told me there were things happening in the world that most people weren't equipped to understand. That I'd noticed more than most. That this made me valuable.
 
-"And if I want to leave?"
+I asked what would happen if I wanted to leave.
 
-"You won't." She gestured at the walls around us. "You're too curious. You've been tracking this for two years. You want answers more than you want to go back to your dorm room and pretend none of this happened."
+She said I wouldn't. That I was too curious. That I'd been tracking this for two years and wanted answers more than I wanted to go back to my dorm room and pretend none of this happened.
 
 She was right. I hated that she was right.
 
-"What's really happening?" I asked.
+So I asked her what was really happening.
 
-The woman's smile finally reached her eyes. "Let me show you."
+And she showed me.
 
 The corridors were concrete and fluorescent. Clean but not sterile. Lived in, in a permanent way. People had been working here for years. Maybe decades.
 
@@ -125,25 +125,27 @@ There weren't many of us. A small group pulled from everywhere. Different ages. 
 
 The only thing we had in common was that we'd been close to too many failures and survived all of them.
 
-A man in his fifties who'd worked in a hospital during the first wave. Every patient in his ward survived. Every single one. Statistically impossible. He couldn't explain it.
+One man, fifties, had worked in a hospital during the first wave. He told me every patient in his ward survived. Every single one. Statistically impossible. He couldn't explain it.
 
-A teenager who'd been in a car crash that killed four people. She walked away without a scratch. The car had folded around her like a protective shell.
+A teenager had been in a car crash that killed four people. She walked away without a scratch. She said the car had folded around her like a protective shell.
 
-A veteran who'd been at the epicenter of a "gas leak" that leveled a building. He was found in the rubble, unharmed, surrounded by a perfect circle of debris that hadn't touched him.
+A veteran had been at the epicenter of a so called gas leak that leveled a building. According to his file, he was found in the rubble, unharmed, surrounded by a perfect circle of debris that hadn't touched him.
 
-A woman who could make flowers bloom by touching them. She thought she was losing her mind until they showed her the lab results.
+There was a woman who could make flowers bloom by touching them. She told me she thought she was losing her mind until they showed her the lab results.
 
-And me.
+And then there was me.
 
-They told me what had flagged me. During my vaccine appointment, the nurse had given me a standard injection. What I didn't know was that the needle contained trace amounts of concentrated Aether. A detection method. Most people showed a minor reaction. Elevated heart rate. Brief dizziness. A flicker on their instruments that told the screeners whether someone was baseline or something more.
+They told me what had flagged me.
+
+Apparently, my vaccine appointment hadn't been a standard injection. The needle contained trace amounts of something they called concentrated Aether. A detection method. They said most people showed a minor reaction. Elevated heart rate. Brief dizziness. A flicker on their instruments that told the screeners whether someone was baseline or something more.
 
 My reading came back zero.
 
 Not low. Not baseline. Zero.
 
-They tested me three more times with increasingly concentrated doses. Nothing. The Aether went into my body and simply vanished. No signature. No reaction. No trace.
+They told me they tested me three more times with increasingly concentrated doses. Nothing. The Aether went into my body and simply vanished. No signature. No reaction. No trace.
 
-The nurse smiled and told me I was done. Behind her, two men in suits were already making phone calls.
+I remember the nurse smiling and telling me I was done. I didn't notice the two men in suits behind her making phone calls. Not until they told me about it years later.
 
 They were all scared. Confused. Looking for explanations that would make the world make sense again.
 
@@ -185,31 +187,31 @@ My vitals stabilized faster than anyone else's. Stress markers dropped instead o
 
 Whatever they were measuring, I wasn't reacting the way they expected.
 
-"Your readings are unusual," Dr. Chen said during one evaluation. She was the lead researcher. Fifty something, grey streaked hair pulled back tight, glasses that she looked over rather than through. "Most subjects show elevated activity when exposed to Aether dense environments. Your activity actually decreases."
+Dr. Chen was the lead researcher. Fifty something, grey streaked hair pulled back tight, glasses that she looked over rather than through. During one evaluation, she told me my readings were unusual. Said most subjects showed elevated activity when exposed to Aether dense environments. Mine actually decreased.
 
-"What's Aether?"
+I asked her what Aether was.
 
-She looked at me for a long moment. Then she pulled up a chart on her tablet.
+She looked at me for a long moment. Then she pulled up a chart on her tablet and explained.
 
-"What we've been calling the pandemic," she said carefully, "was a cover story. In early 2020, a research team discovered a new fundamental force. Something that reacts to human consciousness. We've been trying to understand it ever since."
+The pandemic, she told me, was a cover story. In early 2020, a research team discovered a new fundamental force. Something that reacts to human consciousness. They'd been trying to understand it ever since.
 
-"And the deaths?"
+I asked about the deaths.
 
-"Aether exposure affects different people differently. Some adapt. Some... don't." She paused. "You've adapted better than anyone we've ever seen."
+Aether exposure affects different people differently, she said. Some adapt. Some don't. She paused before adding that I'd adapted better than anyone they'd ever seen.
 
-"Why?"
+I asked why.
 
-"We don't know." She didn't try to hide her frustration. "Most people have a baseline Aether signature. Beliefs, fears, emotional patterns that the field can interact with. Yours is..." She scrolled through more data. "Yours is almost absent. Like there's nothing for it to grab onto."
+She didn't try to hide her frustration. She told me they didn't know. Most people have a baseline Aether signature, she explained. Beliefs, fears, emotional patterns that the field can interact with. Mine was almost absent. Like there was nothing for it to grab onto.
 
 I thought about that. About the way I'd always felt separate from things other people found compelling. Faith. Hope. Fear. Love. I understood these concepts intellectually. I could recognize them in others. But experiencing them?
 
 That had always been someone else's territory.
 
-"Is that good or bad?"
+I asked if that was good or bad.
 
 Dr. Chen looked at me with an expression I couldn't quite read. Something between scientific fascination and professional concern.
 
-"We're still trying to figure that out."
+She said they were still trying to figure that out.
 
 During one evaluation, another anomaly panicked.
 
