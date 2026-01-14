@@ -22,15 +22,13 @@ I never got sick.
 
 That wasn't unusual. What was unusual was everything that happened around the people who did.
 
----
-
-I worked part-time at a grocery store to help cover expenses. Nights, mostly. Shelves still needed stocking even when the rest of the world stopped pretending to function. Fear made people careless. Anger made them loud. Belief made them dangerous in ways no one wanted to name.
+I worked part time at a grocery store to help cover expenses. Nights, mostly. Shelves still needed stocking even when the rest of the world stopped pretending to function. Fear made people careless. Anger made them loud. Belief made them dangerous in ways no one wanted to name.
 
 The first thing I noticed was heat.
 
 Not fever. Ambient heat. The air would thicken near certain customers. Like standing too close to an open oven, except there was nothing there. Just people. Scared people. Angry people. People praying under their breath while they counted their change.
 
-Lights flickered when they panicked. Card readers froze when arguments broke out. Once, a freezer unit failed so violently it warped the metal casing — bent outward like something had punched it from the inside. The compressor hadn't even been running.
+Lights flickered when they panicked. Card readers froze when arguments broke out. Once, a freezer unit failed so violently it warped the metal casing, bent outward like something had punched it from the inside. The compressor hadn't even been running.
 
 They blamed the grid.
 
@@ -46,7 +44,7 @@ There was a kid, maybe sixteen, who stocked dairy with me on weekends. Nice enou
 
 He was gone the next week. Manager said he transferred. Nobody asked where.
 
-By winter, the patterns were impossible to ignore. Entire households exposed, only one person reacting. Some people collapsed within hours. Others walked through it untouched. Severity didn't line up with anything measurable — not age, not health, not exposure time.
+By winter, the patterns were impossible to ignore. Entire households exposed, only one person reacting. Some people collapsed within hours. Others walked through it untouched. Severity didn't line up with anything measurable. Not age, not health, not exposure time.
 
 When things went wrong, it was always explained away.
 
@@ -56,17 +54,15 @@ I learned to read the signs.
 
 The temperature shifts. The pressure changes. The way certain people seemed to bend the air around them without knowing it. The way reality itself felt thinner in some moments, like a membrane stretched too tight.
 
-People talked about a man who shouldn't have survived a warehouse accident — a steel beam through his chest, and he walked out of the hospital three days later with nothing but a scar. About a woman whose scream took out an entire aisle's lighting and cracked the windows of every car in the parking lot. About a cashier who coded in the break room and was declared stable before the paramedics even arrived, sitting up and asking what happened while the defibrillator sat unused beside her.
+People talked about a man who shouldn't have survived a warehouse accident. A steel beam through his chest, and he walked out of the hospital three days later with nothing but a scar. About a woman whose scream took out an entire aisle's lighting and cracked the windows of every car in the parking lot. About a cashier who coded in the break room and was declared stable before the paramedics even arrived, sitting up and asking what happened while the defibrillator sat unused beside her.
 
 None of it stayed on record long enough to matter.
 
 But I remembered. I always remembered.
 
----
-
 In 2021, the world decided it was tired of being afraid. Restrictions loosened. Memorials went up. People wanted an ending badly enough to accept one that didn't make sense.
 
-I watched them line up for vaccines that seemed to do more than prevent illness. Watched the subtle screening process hidden in medical questionnaires. Watched the way certain people were pulled aside after their shots — just for "additional monitoring," the nurses said. Standard procedure.
+I watched them line up for vaccines that seemed to do more than prevent illness. Watched the subtle screening process hidden in medical questionnaires. Watched the way certain people were pulled aside after their shots. Just for "additional monitoring," the nurses said. Standard procedure.
 
 Some of those people came back. Some didn't.
 
@@ -80,7 +76,7 @@ Car crashes where the bodies were burned beyond recognition but the gas tanks we
 
 House fires where the smoke alarms had been mysteriously disabled.
 
-Drownings in bathtubs. Falls down stairs. Heart attacks in healthy twenty-year-olds.
+Drownings in bathtubs. Falls down stairs. Heart attacks in healthy people barely out of college.
 
 I started writing them down.
 
@@ -96,9 +92,7 @@ The notebook showed me what the news wouldn't say: it wasn't random. The deaths 
 
 By the end of the year, half the names on my list were officially dead.
 
-The other half had vanished entirely — no obituaries, no forwarding addresses, no trace they'd ever existed except in my handwriting.
-
----
+The other half had vanished entirely. No obituaries, no forwarding addresses, no trace they'd ever existed except in my handwriting.
 
 By early 2022, I started noticing gaps where my name should have been.
 
@@ -106,7 +100,7 @@ Not all at once. Just enough to notice.
 
 Medical portals stopped updating. My vaccination record showed dates that didn't match my memory. Employment records lagged three months behind reality. Applications returned errors instead of rejections.
 
-I tried to renew my driver's license and the system couldn't find me. I existed — Social Security confirmed it, reluctantly — but I wasn't quite *there* in the way I should have been.
+I tried to renew my driver's license and the system couldn't find me. I existed. Social Security confirmed it, reluctantly. But I wasn't quite *there* in the way I should have been.
 
 My student loans were still current. My bank account still worked. But something in the digital infrastructure of my life had started to fray.
 
@@ -116,7 +110,7 @@ Someone was making it easier to make me disappear.
 
 They came for me a month later.
 
-No uniforms. No threats. Just two people in business casual who knew my name, my class schedule, and the location of every security camera on campus. They met me outside the library at 3:17 AM, precisely when I always left after late-night study sessions.
+No uniforms. No threats. Just two people in business casual who knew my name, my class schedule, and the location of every security camera on campus. They met me outside the library at 3:17 AM, precisely when I always left after late night study sessions.
 
 The woman smiled. The man didn't.
 
@@ -140,15 +134,13 @@ She was right. I hated that she was right.
 
 The woman's smile finally reached her eyes. "Come with us and find out."
 
----
-
-The facility was underground. Old. Military-adjacent in the way nobody admits to — the kind of place that existed on maps as "utility access" or "geological survey station" and had more security than most embassies.
+The facility was underground. Old. Military adjacent in the way nobody admits to. The kind of place that existed on maps as "utility access" or "geological survey station" and had more security than most embassies.
 
 They drove for four hours with the windows blacked out. I counted turns. Tracked speed changes. Estimated distance based on road noise. They knew I was doing it. They didn't seem to care.
 
 The elevator went down for a long time.
 
-The corridors were concrete and fluorescent. Clean but not sterile. Lived-in, in a permanent way. People had been working here for years. Maybe decades.
+The corridors were concrete and fluorescent. Clean but not sterile. Lived in, in a permanent way. People had been working here for years. Maybe decades.
 
 They didn't call us patients.
 
@@ -172,11 +164,9 @@ They were all scared. Confused. Looking for explanations that would make the wor
 
 I wasn't scared. I was *finally* getting data.
 
----
-
 The tests were medical and psychological.
 
-Blood work. Imaging. Cognitive assessments. Stress-response profiling. Long interviews designed to circle the same questions from different angles until someone slipped.
+Blood work. Imaging. Cognitive assessments. Stress response profiling. Long interviews designed to circle the same questions from different angles until someone slipped.
 
 They put sensors on our skin and measured things that didn't have names yet. They asked us to concentrate on objects and recorded what happened. They pushed us to emotional extremes and tracked the spikes on their machines.
 
@@ -198,11 +188,9 @@ Some were removed and never mentioned again.
 
 The tests showed me something none of the others seemed to grasp: they weren't measuring our abilities.
 
-They were measuring our *compatibility* with something. Some baseline they were trying to match. Most of us fell within certain ranges. Some exceeded them. A few — a very few — didn't register on their scales at all.
+They were measuring our *compatibility* with something. Some baseline they were trying to match. Most of us fell within certain ranges. Some exceeded them. A few, a very few, didn't register on their scales at all.
 
 I was one of those few.
-
----
 
 I didn't feel stronger.
 
@@ -212,7 +200,7 @@ My vitals stabilized faster than anyone else's. Stress markers dropped instead o
 
 Whatever they were measuring, I wasn't reacting the way they expected.
 
-"Your readings are unusual," Dr. Chen said during one evaluation. She was the lead researcher — fifty-something, grey-streaked hair pulled back tight, glasses that she looked over rather than through. "Most subjects show elevated activity when exposed to Aether-dense environments. Your activity actually decreases."
+"Your readings are unusual," Dr. Chen said during one evaluation. She was the lead researcher. Fifty something, grey streaked hair pulled back tight, glasses that she looked over rather than through. "Most subjects show elevated activity when exposed to Aether dense environments. Your activity actually decreases."
 
 "What's Aether?"
 
@@ -238,8 +226,6 @@ Dr. Chen looked at me with an expression I couldn't quite read. Something betwee
 
 "We're still trying to figure that out."
 
----
-
 During one evaluation, another anomaly panicked.
 
 His name was Marcus. Early thirties. Former EMT. He'd been stable for weeks, participating in tests, following instructions, doing everything right.
@@ -248,7 +234,7 @@ Then they showed him footage of an angel.
 
 I don't know what they expected to happen. Maybe they wanted to see how we'd react to proof of the divine. Maybe they wanted to measure our Aether signatures when confronted with something that shouldn't exist.
 
-The video was grainy. Security camera footage from somewhere overseas. A figure with wings — six of them, three on each side — descending through clouds toward a burning village. It moved wrong. Too smooth. Too fast. Too *perfect*.
+The video was grainy. Security camera footage from somewhere overseas. A figure with wings, six of them, three on each side, descending through clouds toward a burning village. It moved wrong. Too smooth. Too fast. Too *perfect*.
 
 The figure raised its hand and the fire stopped. Just stopped. Flames that had been consuming buildings froze in place, then reversed, pulling back into themselves until nothing remained but smoke and silence.
 
@@ -256,13 +242,13 @@ Then the angel turned toward the camera.
 
 Its face was beautiful. Inhuman. Wrong in a way that made my skin crawl even through a screen.
 
-"Turn it off," Marcus whispered. His hands were shaking. "Turn it off. Turn it OFF—"
+"Turn it off," Marcus whispered. His hands were shaking. "Turn it off. Turn it OFF!"
 
 It started with his breathing. Shallow. Rapid. His heart rate spiked hard enough to trigger alarms across the room. Technicians moved in, voices raised, hands reaching for restraints that never quite made contact.
 
 Fear fed on itself.
 
-The temperature jumped in an instant. Not warmth — heat. Blistering, impossible heat that came from nowhere and everywhere at once. The air ionized. Static crackled across my skin. I could taste metal on my tongue.
+The temperature jumped in an instant. Not warmth. Heat. Blistering, impossible heat that came from nowhere and everywhere at once. The air ionized. Static crackled across my skin. I could taste metal on my tongue.
 
 Lights burst overhead in sharp white pops. A crack of sound split the room as electrical discharge arced from his body into the nearest equipment. Monitors exploded. Keyboards melted. The smell of burning plastic filled the air.
 
@@ -280,7 +266,7 @@ Except where I stood.
 
 The fire curved away from me.
 
-I watched it happen. Watched the flames bend like water flowing around a stone. Watched the electrical arcs snap and redirect, deflecting around an invisible boundary that I hadn't consciously created. The floor beneath my feet remained untouched — no scorch marks, no melted tile, no heat.
+I watched it happen. Watched the flames bend like water flowing around a stone. Watched the electrical arcs snap and redirect, deflecting around an invisible boundary that I hadn't consciously created. The floor beneath my feet remained untouched. No scorch marks, no melted tile, no heat.
 
 A perfect sphere of stillness, carved clean out of the chaos.
 
@@ -297,8 +283,6 @@ I could have helped. Maybe. I didn't know my limits yet. Didn't know what I was 
 But I wanted to see what would happen.
 
 I wanted data.
-
----
 
 When it was over, smoke rolled along the ceiling. Sprinklers hissed uselessly, finally able to reach the cooling air. Three bodies lay where they'd fallen, unrecognizable.
 
@@ -342,7 +326,7 @@ Anomalous.
 
 The word meant different things to different people. To the doctors, it meant unusual readings. To the security teams, it meant enhanced monitoring. To the researchers, it meant valuable data.
 
-But I saw the way Dr. Chen looked at me when she thought I wasn't watching. The way her hand trembled slightly when she made notes on her tablet. The way she stayed exactly three feet away from me at all times — the same radius as that untouched circle on the floor.
+But I saw the way Dr. Chen looked at me when she thought I wasn't watching. The way her hand trembled slightly when she made notes on her tablet. The way she stayed exactly three feet away from me at all times. The same radius as that untouched circle on the floor.
 
 To her, *anomalous* meant something else.
 
