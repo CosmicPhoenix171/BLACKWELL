@@ -42,7 +42,7 @@ const chapters = {
                 pages: 1
             },
             'chapter-01': {
-                title: 'Chapter One: The Rules of the Game',
+                title: 'Chapter One: Containment Failure',
                 file: 'chapters/chapter-01.md',
                 pages: 1
             }

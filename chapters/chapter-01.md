@@ -1,89 +1,139 @@
 # Chapter One
 
-## The Rules of the Game
+## Containment Failure
 
-*Four years earlier. September 2020.*
+They told us it was a virus.
 
-The lecture hall smelled like cheap coffee and anxiety.
+I accepted that explanation because everyone else did, and because I was nineteen and already tired in a way college hadn't prepared me for. The world shut itself down halfway through my second year, like someone had pulled a fire alarm and forgotten to explain what came next.
 
-Three hundred students packed into tiered seating, laptops open, pens ready, all of them pretending they belonged at one of the most prestigious military strategy programs in the country. Georgetown's School of Foreign Service did not accept the weak. The uncertain. The unprepared.
+Classes went remote. Lectures turned into recordings. Professors spoke in careful, apologetic voices and called it adaptability. Every channel repeated the same words with different graphics.
 
-Lilith Blackwell sat in the third row, center seat, and felt nothing but contempt.
+Outbreak.
+Containment.
+Essential workers.
 
-Not for the professor, who was actually competent. Not for the material, which she had already read twice. But for the performance of it all. The nervous energy. The desperate need to prove something to someone.
+At first, it made sense.
 
-She had never understood that need.
+The people who died were mostly older. Already sick. Immunocompromised. The kind of losses statistics can explain away. Bodies that couldn't keep up when something new entered the system.
 
-Professor Harrison Chen stood at the front of the room, grey-haired and sharp-eyed, the kind of academic who had actually worked in the field before retiring to teach. He was explaining Clausewitz's concept of friction in warfare, the gap between perfect plans and messy reality.
+That was the story, anyway.
 
-"War is the realm of uncertainty," he said, pacing slowly. "Three quarters of the factors on which action in war is based are wrapped in a fog of greater or lesser uncertainty."
+I never got sick.
 
-Lilith's pen moved across her notebook in precise, unhurried strokes. Not taking notes. Drawing.
+That wasn't unusual. What was unusual was everything that happened around the people who did.
 
-A chess board. Pieces in mid-game. A position she had seen in a match between Kasparov and Karpov, 1985. She was analyzing the twenty-third move, the one that had decided everything, when her phone buzzed in her pocket.
+I worked part-time at a grocery store to help cover expenses. Nights, mostly. Shelves still needed stocking even when the rest of the world stopped pretending to function. Fear made people careless. Anger made them loud. Belief made them dangerous in ways no one wanted to name.
 
-She ignored it.
+The first thing I noticed was heat.
 
-"Miss Blackwell."
+Not fever. Ambient heat. The air would thicken near certain customers. Lights flickered when they panicked. Card readers froze when arguments broke out. Once, a freezer unit failed so violently it warped the metal casing.
 
-Her pen stopped. She looked up.
+They blamed the grid.
 
-Professor Chen was watching her with an expression she had learned to recognize over twenty years of dealing with authority figures. The *I know you're not paying attention* look. The *let me catch you* look.
+I started paying attention.
 
-"Yes, Professor?"
+By winter, the patterns were impossible to ignore. Entire households exposed, only one person reacting. Some people collapsed within hours. Others walked through it untouched. Severity didn't line up with anything measurable.
 
-"Since you seem to have mastered the material already, perhaps you could explain to the class how friction applies to modern asymmetric warfare."
+When things went wrong, it was always explained away.
 
-A test. A challenge. An attempt to embarrass her in front of three hundred peers.
+Equipment malfunctions. Power surges. Medical errors corrected just in time. Stories that circulated for a day before disappearing.
 
-Lilith set her pen down and met his eyes.
+People talked about a man who shouldn't have survived a warehouse accident. About a woman whose scream took out an entire aisle's lighting. About a cashier who coded and was declared stable before anyone could ask questions.
 
-"Friction in asymmetric warfare is exponentially higher than in conventional conflicts," she said, her voice flat and even. "The dominant force operates with institutional constraints, rules of engagement, and public accountability. The insurgent force has none of these. Every tactical decision the dominant force makes must account for political, legal, and media consequences. The insurgent only needs to survive."
+None of it stayed on record long enough to matter.
 
-She paused, letting the silence stretch.
+In 2021, the world decided it was tired of being afraid. Restrictions loosened. Memorials went up. People wanted an ending badly enough to accept one that didn't make sense.
 
-"Clausewitz wrote about the fog of war. In asymmetric conflict, the fog is weaponized. The insurgent deliberately creates uncertainty, forces the dominant power to make decisions with incomplete information, then exploits the inevitable mistakes. The friction isn't a bug. It's the entire strategy."
+That's when the deaths started changing.
 
-The lecture hall was quiet.
+Not the loud ones from the early days. Quiet deaths. Accidents. Fires that left nothing identifiable. Collapses caught on cameras that malfunctioned at the wrong moment. Names that appeared once in local news and were never followed up.
 
-Professor Chen's expression shifted. Something like recognition. Something like wariness.
+I started writing them down.
 
-"That's... a remarkably cynical interpretation, Miss Blackwell."
+Not everyone. Just the ones that didn't fit.
 
-"It's an accurate one."
+People who survived things they shouldn't have.
+People who were always nearby when something failed.
+People whose presence seemed to make outcomes worse or better without touching anything.
 
-He held her gaze for a long moment. Then he nodded, once, and turned back to the board.
+By the end of the year, half the names on my list were officially dead.
 
-"As Miss Blackwell has so eloquently demonstrated, the principles Clausewitz identified two centuries ago remain relevant today. The tools change. The terrain changes. Human nature does not."
+By early 2022, I started noticing gaps where my name should have been.
 
-Lilith picked up her pen and returned to her chess diagram.
+Not all at once. Just enough to notice. Medical portals stopped updating. Employment records lagged. Applications returned errors instead of rejections. I still existed — just not anywhere centralized.
 
-She did not smile. But something cold and satisfied settled in her chest.
+They came for me a month later.
 
-This was what she was good at. Reading situations. Identifying leverage. Knowing exactly how much force to apply, and where, to get the result she wanted.
+No uniforms. No threats. Just an offer framed in language about safety, evaluation, and national interest. Temporary relocation. Confidentiality. Non-disclosure agreements written for people who didn't have a choice.
 
-The phone in her pocket buzzed again. And again. And again.
+The facility was underground. Old. Military-adjacent in the way nobody admits to.
 
-She frowned and pulled it out, keeping it below the desk. Three missed calls from her mother. A text message.
+They didn't call us patients.
 
-*Something is wrong. Come home.*
+They called us anomalies.
 
-Lilith stared at the words. Her mother never texted. Her mother barely knew how to text. And the word *wrong* was not in Catherine Blackwell's vocabulary. Things were never wrong. Things were *handled*.
+There weren't many of us. A small group pulled from everywhere. Different ages. Different backgrounds. The only thing we had in common was that we'd been close to too many failures and survived all of them.
 
-The air in the lecture hall felt different suddenly. Thicker. Like the pressure before a storm.
+The tests were medical and psychological.
 
-She looked around. No one else seemed to notice. Students were still taking notes, still pretending to care about nineteenth-century Prussian military theory.
+Blood work. Imaging. Cognitive assessments. Stress-response profiling. Long interviews designed to circle the same questions from different angles until someone slipped.
 
-But something had changed.
+They were looking for limits.
 
-Lilith could feel it in her bones, in the hollow space behind her sternum where other people kept things like faith and fear. Something fundamental had shifted in the fabric of the world, and she was the only one in this room who knew it.
+Most people found theirs quickly.
 
-She closed her notebook. Packed her bag. Stood up and walked out of the lecture hall without a word.
+Some burned out.
+Some broke.
+Some were removed and never mentioned again.
 
-Behind her, Professor Chen's voice faded into silence.
+I didn't feel stronger.
 
-She did not know it yet, but she would never sit in that classroom again.
+I felt quieter.
 
-The world she had spent twenty years learning to exploit was about to become something else entirely.
+My vitals stabilized faster. Stress markers dropped instead of spiking. Neural activity flattened where theirs surged. Whatever they were measuring, I wasn't reacting the way they expected.
 
-And Lilith Blackwell was going to be ready.
+During one evaluation, another anomaly panicked.
+
+It started with his breathing. Shallow. Rapid. His heart rate spiked hard enough to trigger alarms across the room. Technicians moved in, voices raised, hands reaching for restraints that never quite made contact.
+
+Fear fed on itself.
+
+The temperature jumped in an instant. Not warmth — heat. The air ionized. Lights burst overhead in sharp white pops. A crack of sound split the room as electrical discharge arced from his body into the nearest equipment.
+
+Fire followed.
+
+Not a wave. An eruption.
+
+The table ignited. Monitors exploded. A nurse caught the discharge full in the chest and dropped without a sound. Another screamed once before the fire took her oxygen and her voice with it.
+
+The room became noise and light and panic.
+
+Except where I stood.
+
+The fire curved away from me.
+
+The electrical arcs bent, snapping around an invisible boundary. The floor beneath my feet remained untouched — no scorch marks, no melted tile, no heat. A perfect sphere of stillness, carved clean out of the chaos.
+
+I didn't move.
+
+I didn't have to.
+
+When it was over, smoke rolled along the ceiling. Sprinklers hissed uselessly. Three bodies lay where they'd fallen.
+
+The anomaly survived.
+
+Barely.
+
+Later, the report would call it a catastrophic equipment failure compounded by subject instability. Thermal event. Electrical surge. Human error.
+
+They would seal the file.
+
+What they couldn't seal was the outline on the floor.
+
+A clean circle around me.
+
+Untouched.
+
+I watched them see it.
+
+I watched them decide not to talk about it.
