@@ -1,21 +1,15 @@
 // Firebase Configuration for BLACKWELL
 // ========================================
-// SETUP INSTRUCTIONS:
-// 1. Go to https://console.firebase.google.com/
-// 2. Create a new project called "BLACKWELL" (or any name you like)
-// 3. Enable Authentication > Sign-in method > Google
-// 4. Enable Firestore Database (start in test mode for now)
-// 5. Go to Project Settings > General > Your apps > Add web app
-// 6. Copy your config values and replace the placeholders below
-// ========================================
 
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyCHzlVoWG1WqTb1llACxqcBEmMfHtUehY0",
+    authDomain: "blackwell-45fb8.firebaseapp.com",
+    databaseURL: "https://blackwell-45fb8-default-rtdb.firebaseio.com",
+    projectId: "blackwell-45fb8",
+    storageBucket: "blackwell-45fb8.firebasestorage.app",
+    messagingSenderId: "863206331351",
+    appId: "1:863206331351:web:c7efc55bc179a1b97a7192",
+    measurementId: "G-XP1ZHPMM10"
 };
 
 // Initialize Firebase
