@@ -37,16 +37,23 @@ When Aether emerged in 2020, most people experienced confusion, fear, or religio
 
 Lilith experienced **clarity**.
 
-While others got sick from Aether exposure, Lilith got *aware*. She could feel that something was wrong with reality itself — even before the official discovery, even before the lockdowns made sense to anyone else.
+While others got sick from Aether exposure, Lilith got *aware*. She could feel that something was wrong with reality itself, even before the official discovery, even before the lockdowns made sense to anyone else.
 
-**Her abilities manifested immediately at Anomalous-tier.**
+**The truth no one understood, not even Lilith:**
 
-This was unprecedented. Most Aether-sensitives take years to develop control. Lilith was manipulating Aether within weeks. Scientists couldn't explain it. Psychologists couldn't explain it.
+From the moment Aether arrived, Lilith began absorbing it. Unknowingly. Constantly. Every trace of Aether that touched her did not pass through or react. It was *stored*.
 
-**The truth:**
-Lilith's complete lack of faith acted as a *void* in the Aether field. Where others had beliefs that God could latch onto, Lilith had nothing. No worship. No hatred. No fear. Just... emptiness where faith should be.
+Her body became a reservoir.
 
-And that emptiness became a weapon.
+This is why her vaccine reading came back zero. The concentrated Aether in the injection did not disperse or trigger a reaction. It simply vanished into the void she had been building for two years without knowing it.
+
+Scientists would later theorize it was connected to her complete lack of faith. Where others had beliefs that God could latch onto, Lilith had nothing. No worship. No hatred. No fear. Just emptiness where faith should be.
+
+That emptiness became a container. And the container kept filling.
+
+By the time of the fire incident, Lilith had absorbed more ambient Aether than any human on record. The fire curved around her because she had become a gravitational well for divine energy. It was drawn to her. Swallowed by her.
+
+She did not control Aether in the traditional sense. She *consumed* it.
 
 ---
 

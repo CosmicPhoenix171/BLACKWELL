@@ -147,7 +147,7 @@ The nurse had smiled and told me I was done. Behind her, two men in suits were a
 
 They were all scared. Confused. Looking for explanations that would make the world make sense again.
 
-I wasn't scared. I was *finally* getting data.
+I wasn't scared. I was *finally* getting answers.
 
 The tests were medical and psychological.
 
