@@ -21,9 +21,6 @@ That was the story, anyway.
 I never got sick.
 
 That wasn't unusual. What was unusual was everything that didn't add up.
-
-I worked part time at a grocery store to help cover expenses. Nights, mostly. Shelves still needed stocking even when the rest of the world stopped pretending to function.
-
 The first thing I noticed was the math.
 
 The death rates didn't follow any epidemiological model I could find. I checked. Pulled data from public health departments, cross referenced with population density, age demographics, hospital capacity. The numbers were wrong. Not slightly wrong. Fundamentally wrong.
@@ -34,17 +31,15 @@ They blamed comorbidities. Pre existing conditions. Bad luck.
 
 I started paying attention.
 
-The official story said respiratory illness. Pneumonia. Organ failure in severe cases. But I heard things from the night shift workers who came in after their hospital rotations. Stories that didn't match the press conferences.
+The official story said respiratory illness. Pneumonia. Organ failure in severe cases. Standard pandemic language. But obituaries told different stories when you read enough of them. Young athletes who never smoked. Children with no history of illness. People who were fine one day and dead the next with no warning, no symptoms, no explanation beyond "complications."
 
-Patients who screamed about things they couldn't possibly see. People who died with expressions of absolute terror frozen on their faces. Bodies that had to be cremated immediately because something about them made the morgue staff refuse to work.
+Cremations happened faster than they should have. Funerals were closed casket more often than made sense. Families who asked questions stopped asking.
 
-Equipment failures that happened during specific procedures. Power outages in specific wards. Fires that started in rooms where nobody had been smoking.
+I noticed the gaps in the public record. News stories that ran once and never got followed up. Local reports that contradicted county data. Hospital capacity numbers that jumped around like someone was editing them in real time.
 
-The official reports called these isolated incidents. Unrelated. Statistical noise.
+I wrote it all down.
 
-I wrote them down anyway.
-
-There was a pattern. I couldn't see it yet, but I could feel it. Something about who lived and who died that had nothing to do with age or health or access to care. Something else was selecting people, and nobody was talking about what it was.
+There was a pattern. I couldn't see it yet, but I could feel it. Something about who lived and who died that had nothing to do with age or health or access to care. Something was selecting people, and nobody was talking about what it was.
 
 By winter, I had filled two notebooks with inconsistencies. Dates. Locations. Names that appeared in one report and vanished from the next. Hospitals that transferred patients to facilities that didn't seem to exist. Death certificates with causes of death that contradicted the autopsy notes, when autopsy notes existed at all.
 
