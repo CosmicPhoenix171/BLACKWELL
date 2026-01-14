@@ -4,7 +4,7 @@
 
 They told us it was a virus.
 
-I accepted that explanation because everyone else did, and because I was nineteen and already tired in a way college hadn't prepared me for. The world shut itself down halfway through my second year, like someone had pulled a fire alarm and forgotten to explain what came next.
+I accepted that explanation because everyone else did, and because I was twenty and already tired in a way college hadn't prepared me for. The world shut itself down halfway through my second year, like someone had pulled a fire alarm and forgotten to explain what came next.
 
 Classes went remote. Lectures turned into recordings. Professors spoke in careful, apologetic voices and called it adaptability. Every channel repeated the same words with different graphics.
 

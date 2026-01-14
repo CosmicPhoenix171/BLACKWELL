@@ -4,7 +4,7 @@
 
 **Genre:** Dark magic-tech war epic / Divine psychological horror / Villain-protagonist saga
 
-**Logline:** A 19-year-old military strategy student with no empathy discovers she's immune to God's influence when Aether — the physics of belief — reshapes reality. She joins the US military's secret magic division, rises to power, and wages tactical warfare against Heaven itself.
+**Logline:** A 20-year-old military strategy student with no empathy discovers she's immune to God's influence when Aether — the physics of belief — reshapes reality. She joins the US military's secret magic division, rises to power, and wages tactical warfare against Heaven itself.
 
 **Core Theme:** What happens when the most dangerous kind of human — a master tactician with no empathy — is given divine physics and infinite war to exploit?
 
@@ -26,7 +26,7 @@ And at the heart of the war machine: **Lilith Rose Blackwell**.
 
 **Lilith Rose Blackwell** — Currently 26 years old (as of 2026)
 
-- 19 when Aether arrived, displaying Anomalous-tier abilities from day one
+- 20 when Aether arrived, displaying Anomalous-tier abilities from day one
 - Complete lack of faith made her invisible to God's influence
 - Rose through AETHCOM ranks by proving herself in every mission
 - Now Director Blackwell, waging tactical warfare against divine forces
@@ -65,7 +65,7 @@ The book opens with Lilith killing her first angel.
 
 Lilith's experience of the "pandemic" and her discovery:
 
-- She was 19, a second-year college student when the world shut down
+- She was 20, a second-year college student when the world shut down
 - Working nights at a grocery store, she notices anomalies: heat near certain people, flickering lights, equipment failures that don't add up
 - Patterns emerge: people who survive impossible things, others who die quietly and are forgotten
 - By 2021, the quiet deaths begin — names that appear once and vanish

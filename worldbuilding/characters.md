@@ -14,7 +14,7 @@
 
 ### Background
 
-Lilith Rose Blackwell was 19 years old when Aether arrived in early 2020. A second-year military strategy student, already outperforming her peers. Her future was mapped out: military intelligence, strategic command, a career built on winning.
+Lilith Rose Blackwell was 20 years old when Aether arrived in early 2020. A second-year military strategy student, already outperforming her peers. Her future was mapped out: military intelligence, strategic command, a career built on winning.
 
 Then the "pandemic" hit. And everything changed.
 
@@ -92,7 +92,7 @@ From 2020 to 2026, Lilith watched everything unfold:
 
 | Year | What Lilith Did |
 |------|-----------------|
-| 2020 | Aether arrives. 19 years old, working nights at a grocery store while in college. Notices anomalies others ignore. |
+| 2020 | Aether arrives. 20 years old, working nights at a grocery store while in college. Notices anomalies others ignore. |
 | 2021 | Patterns become undeniable. Quiet deaths begin. She starts keeping a list. |
 | 2022 | Her records start glitching. Taken to underground facility. Classified as Anomalous. The fire incident. |
 | 2023 | Accepted draft into AETHCOM — on her terms. Began climbing. |
