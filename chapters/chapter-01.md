@@ -115,12 +115,6 @@ She was right. I hated that she was right.
 
 The woman's smile finally reached her eyes. "Let me show you."
 
-The facility was underground. Old. Military adjacent in the way nobody admits to. The kind of place that existed on maps as "utility access" or "geological survey station" and had more security than most embassies.
-
-They drove for four hours with the windows blacked out. I counted turns. Tracked speed changes. Estimated distance based on road noise. They knew I was doing it. They didn't seem to care.
-
-The elevator went down for a long time.
-
 The corridors were concrete and fluorescent. Clean but not sterile. Lived in, in a permanent way. People had been working here for years. Maybe decades.
 
 They didn't call us patients.
@@ -139,7 +133,21 @@ A veteran who'd been at the epicenter of a "gas leak" that leveled a building. H
 
 A woman who could make flowers bloom by touching them. She thought she was losing her mind until they showed her the lab results.
 
-And me. The girl who noticed too much and got sick from none of it.
+And me.
+
+They told me what had flagged me in their systems. In March of 2021, a church in my neighborhood had experienced what they called a "mass Aether event." Congregation of two hundred people. Easter Sunday service. Something had gone wrong during the sermon, some surge of collective faith that triggered an uncontrolled manifestation.
+
+Fifty three people died in their pews. Hearts stopped. Brains hemorrhaged. Bodies gave out under the weight of something their nervous systems couldn't process.
+
+I had been walking past the church when it happened. Just passing by on my way to the library. Close enough that every sensor in a three block radius should have registered me.
+
+But where everyone else showed up on their instruments as signatures, readings, measurable Aether densities, I showed up as nothing.
+
+A void.
+
+A hole in their data where a person should have been.
+
+They'd been looking for me ever since.
 
 They were all scared. Confused. Looking for explanations that would make the world make sense again.
 
