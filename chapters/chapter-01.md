@@ -59,8 +59,6 @@ The nurse paused when she read my answers. Made a note. Told me I was done.
 
 Some people were pulled aside after their shots. Just for additional monitoring, the nurses said. Standard procedure.
 
-Some of those people came back. Some didn't.
-
 The news moved on to other things. The economy. Politics. Celebrity drama. Anything but the questions no one wanted to ask.
 
 That's when the deaths started changing.
@@ -68,8 +66,6 @@ That's when the deaths started changing.
 Not the loud ones from the early days. Quiet deaths. Accidents that shouldn't have been fatal. Fires that left nothing identifiable. Collapses caught on cameras that malfunctioned at the wrong moment. Names that appeared once in local news and were never followed up.
 
 Car crashes where the bodies were burned beyond recognition but the gas tanks were still full.
-
-House fires where the smoke alarms had been mysteriously disabled.
 
 Drownings in bathtubs. Falls down stairs. Heart attacks in healthy people barely out of college.
 
@@ -89,21 +85,7 @@ By the end of the year, half the names on my list were officially dead.
 
 The other half had vanished entirely. No obituaries, no forwarding addresses, no trace they'd ever existed except in my handwriting.
 
-By early 2022, I started noticing gaps where my name should have been.
-
-Not all at once. Just enough to notice.
-
-Medical portals stopped updating. My vaccination record showed dates that didn't match my memory. Employment records lagged three months behind reality. Applications returned errors instead of rejections.
-
-I tried to renew my driver's license and the system couldn't find me. I existed. Social Security confirmed it, reluctantly. But I wasn't quite *there* in the way I should have been.
-
-My student loans were still current. My bank account still worked. But something in the digital infrastructure of my life had started to fray.
-
-I wasn't being deleted. I was being *uncoupled*. Separated from the systems that tracked everyone else.
-
-Someone was making it easier to make me disappear.
-
-They came for me a month later.
+They came for me in early 2022.
 
 No uniforms. No threats. Just two people in business casual who knew my name, my class schedule, and the location of every security camera on campus. They met me outside the library at 3:17 AM, precisely when I always left after late night study sessions.
 
