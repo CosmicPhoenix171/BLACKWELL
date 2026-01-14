@@ -87,29 +87,33 @@ The other half had vanished entirely. No obituaries, no forwarding addresses, no
 
 They came for me in early 2022.
 
-No uniforms. No threats. Just two people in business casual who knew my name, my class schedule, and the location of every security camera on campus. They met me outside the library at 3:17 AM, precisely when I always left after late night study sessions.
+I woke up in a van.
 
-The woman smiled. The man didn't.
+No windows. No seatbelts. Just cold metal floor against my cheek and the hum of an engine beneath me. My wrists were zip tied behind my back. My mouth tasted like chemicals.
 
-"Miss Blackwell," the woman said. Her voice was pleasant. Professional. The kind of voice that never raised and never needed to. "We'd like to discuss an opportunity."
+I didn't scream. Didn't thrash. I counted seconds. Listened for road noise. Tried to estimate speed from the vibrations. Cataloged every detail I could gather with my eyes closed.
 
-"I have class in six hours."
+Whoever had taken me was professional. I'd been in my dorm room. Locked door. Second floor. I hadn't heard a thing.
 
-"No," she said, still smiling. "You don't. Your professors have been notified of a family emergency. Your absence has been excused for the remainder of the semester."
+When the van finally stopped, they pulled a hood over my head and walked me into a building. Elevator going down. A long time going down.
 
-The man handed me a phone. On the screen: my mother's contact information, my father's work schedule, my sister's dormitory address at another university three states away. Photos of each of them, timestamped within the last hour.
+The hood came off in a room with fluorescent lights and concrete walls. Two people stood in front of me. A woman in business casual. A man who didn't smile.
 
-"We're not threatening you," the woman said. "We're informing you. There are things happening in the world that most people aren't equipped to understand. You've noticed more than most. That makes you valuable."
+"Miss Blackwell," the woman said. Her voice was pleasant. Professional. The kind of voice that never raised and never needed to. "We apologize for the method of transport. But we needed to ensure you'd listen."
 
-"And if I decline?"
+"You kidnapped me."
 
-"You won't." She was still smiling. "You're too curious. You've been tracking this for two years. You want answers more than you want safety."
+"We relocated you." She was still smiling. "There are things happening in the world that most people aren't equipped to understand. You've noticed more than most. That makes you valuable."
+
+"And if I want to leave?"
+
+"You won't." She gestured at the walls around us. "You're too curious. You've been tracking this for two years. You want answers more than you want to go back to your dorm room and pretend none of this happened."
 
 She was right. I hated that she was right.
 
 "What's really happening?" I asked.
 
-The woman's smile finally reached her eyes. "Come with us and find out."
+The woman's smile finally reached her eyes. "Let me show you."
 
 The facility was underground. Old. Military adjacent in the way nobody admits to. The kind of place that existed on maps as "utility access" or "geological survey station" and had more security than most embassies.
 
