@@ -4,13 +4,13 @@
 
 The angel was dying, and Lilith Blackwell stood over him like death itself.
 
-His blood ran gold, actually fucking gold, spreading across the shattered marble in a glowing pool. It seeped into the rubble and broken stained glass, and wherever it touched, it pulsed with fading light. Like heaven was bleeding out onto the floor of a ruined church in downtown Baltimore.
+His blood ran gold, spreading across the shattered marble in a glowing pool. It seeped into the rubble and broken stained glass, and wherever it touched, it pulsed with fading light. Like heaven was bleeding out onto the floor of a ruined church in downtown Baltimore.
 
 The place was wrecked. Pews scattered like matchsticks. Walls blown open. Half the ceiling gone, grey January sky staring down at the carnage.
 
 Lilith's breathing came hard and ragged, each inhale a knife between her ribs. Her tactical jacket was torn at the shoulder where one of his wings had caught her, the wound underneath deep enough that cold air kissed raw muscle. Her own blood, red and human and ordinary, dripped from her fingertips to mix with the gold pooling at her boots.
 
-Her leg was fucked. Her ribs were grinding. She had bitten through her lip somewhere in the fight and the taste of copper coated her tongue.
+Her left leg was bent below the knee, the bone snapped clean through when he had slammed her into the altar. She could feel the jagged edges grinding against each other every time she shifted her weight. Her ribs were cracked, at least three of them, maybe more. She had bitten through her lip somewhere in the fight and the taste of copper coated her tongue.
 
 None of it mattered anymore.
 
@@ -18,7 +18,7 @@ The angel's six wings spread around him like a broken halo, three on each side, 
 
 "You" The word came out wet, bubbling through golden blood. His chest heaved. The light around him flickered like a dying bulb. "You cannot. You do not know what you have"
 
-Lilith lowered herself until she was kneeling beside him. The movement cost her. Her knee screamed. Her ribs shifted. Darkness crawled at the edges of her vision. But she needed to be close for this. She needed him to see her face.
+Lilith lowered herself until she was kneeling beside him. The movement cost her. Her leg screamed. Her ribs shifted. Darkness crawled at the edges of her vision. But she needed to be close for this. She needed him to see her face.
 
 "No," she said. Her voice was raw, shredded from the incantations and commands she had thrown during the fight. "I know exactly what I've done."
 
