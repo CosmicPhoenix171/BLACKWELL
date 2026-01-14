@@ -40,6 +40,11 @@ const chapters = {
                 title: 'Prologue: First Blood',
                 file: 'chapters/prologue.md',
                 pages: 1
+            },
+            'chapter-01': {
+                title: 'Chapter One: The Rules of the Game',
+                file: 'chapters/chapter-01.md',
+                pages: 1
             }
             // Add more chapters as they're written
         }
