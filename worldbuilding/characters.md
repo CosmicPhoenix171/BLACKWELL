@@ -77,19 +77,24 @@ She didn't react with fear or wonder. She reacted with **analysis**.
 
 ### Her Aether Abilities
 
-Lilith's Aether sensitivity was off the charts — **Anomalous-tier** from day one.
+Lilith does not control Aether. Not yet.
 
-But more than that: her *will* over Aether grew faster than anyone predicted.
+She *consumes* it.
 
-Within months of the Aether emergence, Lilith had developed abilities that should have taken years to manifest. Her cold, calculating mind translated directly into Aether control — willpower without emotional interference.
+Every trace of Aether that touches her is absorbed and stored. She has no ability to release it, shape it, or wield it in the way other Anomalous individuals do. The energy enters her body and stays there.
 
-**Her abilities:**
-- Her Aether will shields her from God's omniscience
-- He cannot read her thoughts or see her future
+This is not a skill. This is not training. It is simply what she is.
+
+AETHCOM scientists have no explanation for it. The absorbed Aether does not dissipate. It does not decay. It accumulates. And the reservoir grows larger every day.
+
+**What this means:**
+- She is invisible to divine detection (her Aether signature reads as zero or void)
+- God cannot read her thoughts or see her future
 - She cannot be directly influenced by divine power
-- Her Aether manifests as violet/purple — the color of dying stars
+- Angels and divine constructs lose energy in her presence
+- Her Aether manifests as violet/purple when it eventually releases (the color of dying stars)
 
-She is, effectively, **invisible to God** — and getting stronger.
+She is, effectively, **a black hole for divine energy**, and she has no idea how much power she is sitting on.
 
 ---
 
