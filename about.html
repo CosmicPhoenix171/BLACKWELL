@@ -15,6 +15,13 @@
                 <li><a href="chapters.html">Chapters</a></li>
                 <li><a href="about.html">About</a></li>
             </ul>
+            <div class="nav-auth">
+                <div id="user-info">
+                    <img id="user-avatar" src="" alt="User">
+                    <span id="user-name"></span>
+                </div>
+                <button id="auth-button">Sign In</button>
+            </div>
         </nav>
     </header>
 
@@ -53,5 +60,9 @@
     <footer>
         <p>&copy; 2026 BLACKWELL. All rights reserved.</p>
     </footer>
+
+    <!-- Firebase & Auth Scripts -->
+    <script type="module" src="js/firebase-config.js"></script>
+    <script type="module" src="js/auth.js"></script>
 </body>
 </html>

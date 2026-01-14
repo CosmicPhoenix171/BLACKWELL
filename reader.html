@@ -8,53 +8,60 @@
     <style>
         /* Reader-specific styles */
         .reader-container {
-            max-width: 800px;
+            max-width: 750px;
             margin: 0 auto;
-            padding: 40px 20px;
+            padding: 60px 24px 80px;
         }
         
         #chapter-title {
+            font-family: var(--font-heading);
             text-align: center;
-            color: #b8860b;
-            font-size: 2rem;
-            margin-bottom: 40px;
-            border-bottom: 1px solid #333;
-            padding-bottom: 20px;
+            color: var(--accent-color);
+            font-size: 2.2rem;
+            margin-bottom: 50px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 24px;
+            letter-spacing: 2px;
         }
         
         #chapter-content {
-            font-family: 'Georgia', 'Times New Roman', serif;
-            font-size: 1.1rem;
-            line-height: 1.9;
-            color: #e0e0e0;
+            font-family: var(--font-body);
+            font-size: 1.2rem;
+            line-height: 2;
+            color: var(--text-color);
+            letter-spacing: 0.3px;
         }
         
         #chapter-content h1 {
+            font-family: var(--font-heading);
             text-align: center;
-            color: #b8860b;
-            font-size: 2.5rem;
-            margin: 40px 0 20px;
+            color: var(--accent-color);
+            font-size: 2.8rem;
+            margin: 50px 0 24px;
         }
         
         #chapter-content h2 {
+            font-family: var(--font-heading);
             text-align: center;
-            color: #d4a84b;
-            font-size: 1.8rem;
-            margin: 30px 0 15px;
+            color: var(--accent-hover);
+            font-size: 1.9rem;
+            margin: 40px 0 20px;
         }
         
         #chapter-content h3 {
+            font-family: var(--font-heading);
             text-align: center;
-            color: #888;
-            font-size: 1.3rem;
+            color: var(--text-muted);
+            font-size: 1.4rem;
             font-style: italic;
-            margin: 20px 0 30px;
+            margin: 24px 0 40px;
         }
         
         #chapter-content p {
-            text-indent: 2em;
-            margin: 0 0 1em 0;
+            text-indent: 2.5em;
+            margin: 0 0 1.5em 0;
             text-align: justify;
+            hyphens: auto;
         }
         
         #chapter-content p:first-of-type {
@@ -62,17 +69,34 @@
         }
         
         #chapter-content p:first-of-type::first-letter {
-            font-size: 3rem;
+            font-family: var(--font-heading);
+            font-size: 4rem;
             float: left;
             line-height: 1;
-            padding-right: 10px;
-            color: #b8860b;
+            padding-right: 12px;
+            padding-top: 4px;
+            color: var(--accent-color);
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+        }
+
+        /* Scene breaks */
+        #chapter-content hr {
+            border: none;
+            text-align: center;
+            margin: 3rem 0;
+        }
+
+        #chapter-content hr::before {
+            content: '⁂';
+            font-size: 1.5rem;
+            color: var(--accent-color);
+            opacity: 0.6;
         }
         
         #chapter-nav {
-            margin-top: 60px;
-            padding-top: 30px;
-            border-top: 1px solid #333;
+            margin-top: 80px;
+            padding-top: 40px;
+            border-top: 1px solid var(--border-color);
         }
         
         .nav-buttons {
@@ -80,29 +104,31 @@
             justify-content: space-between;
             align-items: center;
             flex-wrap: wrap;
-            gap: 15px;
+            gap: 16px;
         }
         
         .nav-btn {
-            padding: 12px 24px;
-            background: #1a1a2e;
-            color: #b8860b;
+            font-family: var(--font-ui);
+            padding: 14px 28px;
+            background: var(--card-bg);
+            color: var(--accent-color);
             text-decoration: none;
-            border: 1px solid #b8860b;
-            border-radius: 4px;
+            border: 1px solid var(--accent-color);
+            border-radius: 6px;
+            font-weight: 500;
             transition: all 0.3s ease;
         }
         
         .nav-btn:hover {
-            background: #b8860b;
-            color: #1a1a2e;
+            background: var(--accent-color);
+            color: var(--primary-color);
         }
         
         .nav-btn.disabled {
             opacity: 0.3;
             pointer-events: none;
-            border-color: #555;
-            color: #555;
+            border-color: var(--border-color);
+            color: var(--text-muted);
         }
         
         .nav-btn.list-btn {
@@ -110,24 +136,39 @@
         }
         
         .error {
-            color: #ff6b6b;
+            color: var(--error-color);
             text-align: center;
             font-size: 1.2rem;
+            padding: 2rem;
+            background: rgba(248, 81, 73, 0.1);
+            border-radius: 8px;
         }
         
         /* Back to top */
         .back-to-top {
             text-align: center;
-            margin-top: 40px;
+            margin-top: 50px;
         }
         
         .back-to-top a {
-            color: #666;
+            font-family: var(--font-ui);
+            color: var(--text-muted);
             text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.3s;
         }
         
         .back-to-top a:hover {
-            color: #b8860b;
+            color: var(--accent-color);
+        }
+
+        /* Reading tip */
+        .reading-tip {
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            margin-top: 1rem;
+            font-family: var(--font-ui);
         }
     </style>
 </head>
@@ -140,6 +181,13 @@
                 <li><a href="chapters.html">Chapters</a></li>
                 <li><a href="about.html">About</a></li>
             </ul>
+            <div class="nav-auth">
+                <div id="user-info">
+                    <img id="user-avatar" src="" alt="User">
+                    <span id="user-name"></span>
+                </div>
+                <button id="auth-button">Sign In</button>
+            </div>
         </nav>
     </header>
 
@@ -154,6 +202,7 @@
         
         <div class="back-to-top">
             <a href="#top">&uarr; Back to Top</a>
+            <p class="reading-tip">💡 Tip: Highlight any text to leave feedback!</p>
         </div>
     </main>
 
@@ -161,6 +210,12 @@
         <p>&copy; 2024-2026 LILITH BLACKWELL. All rights reserved.</p>
     </footer>
 
+    <!-- Firebase & App Scripts -->
+    <script type="module" src="js/firebase-config.js"></script>
+    <script type="module" src="js/auth.js"></script>
+    <script type="module" src="js/reading-progress.js"></script>
+    <script type="module" src="js/notes-highlight.js"></script>
+    <script type="module" src="js/feedback-admin.js"></script>
     <script src="js/chapter-reader.js"></script>
 </body>
 </html>
