@@ -18,9 +18,9 @@ The angel's six wings spread around him like a broken halo, three on each side, 
 
 "You" The word came out wet, bubbling through golden blood. His chest heaved. The light around him flickered like a dying bulb. "You cannot. You do not know what you have"
 
-Lilith lowered herself until she was kneeling beside him. The movement cost her, her knee screamed, her ribs shifted, darkness crawled at the edges of her vision, but she needed to be close for this. She needed him to see her face.
+Lilith lowered herself until she was kneeling beside him. The movement cost her. Her knee screamed. Her ribs shifted. Darkness crawled at the edges of her vision. But she needed to be close for this. She needed him to see her face.
 
-"No," she said. Her voice was raw, shredded from the incantations and commands she had thrown during the fight. "I know exactly what I have done."
+"No," she said. Her voice was raw, shredded from the incantations and commands she had thrown during the fight. "I know exactly what I've done."
 
 Her hand went to the pistol on her hip. The Harbinger, Aether core sidearm, military grade, the kind of weapon that should not exist outside of AETHCOM black sites. She drew it, pressed the barrel against his forehead, and pulled the trigger.
 
@@ -30,7 +30,7 @@ Empty.
 
 Something between a laugh and a snarl escaped her throat. She tossed the gun aside. It clattered across the marble and disappeared into the debris.
 
-"I just declared war on Heaven," she said, and her hand moved to the sheath on her thigh. The combat knife came free with a whisper of steel, seven inches of blackened blade, edge sharp enough to split atoms.
+"I've just declared war on Heaven," she said, and her hand moved to the sheath on her thigh. The combat knife came free with a whisper of steel, seven inches of blackened blade, edge sharp enough to split atoms.
 
 She held it up. And she called.
 
@@ -40,19 +40,19 @@ It surged up from somewhere deep in her chest, flowed down her arm like liquid f
 
 Lilith smiled. There was nothing sane in that smile. Nothing human.
 
-"Your boss is going to send everything He has got after me," she said. "Angels. Saints. Champions. Whatever divine bullshit He can scrape together. Every weapon in His arsenal, pointed right at my head."
+"Your boss is going to send everything He's got after me," she said. "Angels. Saints. Champions. Whatever divine bullshit He can scrape together. Every weapon in His arsenal, pointed right at my head."
 
 She raised the blade. The Aether blazed brighter, casting shadows that danced like demons on the broken walls.
 
-"And I am going to kill every single one of them. Because here is the thing." She leaned close, lips brushing his ear. "You are bound by rules. Covenants. Divine law. And I am very good with the law."
+"And I'm going to kill every single one of them. Because here's the thing." She leaned close, lips brushing his ear. "You're bound by rules. Covenants. Divine law. And I'm very good at exploiting weaknesses."
 
 The angel's burning eyes found hers. Even dying, even broken, there was something terrifying in that gaze. Ancient. Vast. Furious.
 
-"Take a message for me," Lilith whispered. "Tell Him the one who refuses is coming. Tell Him everything He has built, every miracle, every answered prayer, every scrap of faith He has been feeding on for millennia, I am going to tear it all down. By law. By procedure. By His own sacred covenants."
+"Take a message for me," Lilith whispered. "Tell Him The One Who Refuses is coming. Tell Him everything He's built, every miracle, every answered prayer, every scrap of faith He's been feeding on for millennia, I'm going to tear it all down. Piece by piece. Strike by strike. By His own sacred covenants turned against Him."
 
 She pulled back. Met his eyes.
 
-"And there is not a goddamn thing He can do to stop me."
+"And there's not a goddamn thing He can do to stop me."
 
 She drove the blade down.
 
@@ -80,13 +80,13 @@ She laughed until her broken ribs screamed. Laughed until tears cut tracks throu
 
 She had killed an angel.
 
-Her. A twenty two year old woman, at least, that was what her body said. A mortal standing in a pool of divine blood. And somewhere, right now, the thing that called itself God was realizing His messenger was not coming home.
+Her. A twenty four year old woman. A mortal standing in a pool of divine blood. And somewhere, right now, the thing that called itself God was realizing His messenger was not coming home.
 
-She was broken. Bleeding. Cackling like a lunatic over a corpse in what used to be holy ground. And she knew, knew, this was just the beginning. That worse was coming. That she had just painted a target on her soul that would never wash off.
+She was broken. Bleeding. Cackling like a lunatic over a corpse in what used to be holy ground. And she *knew* this was just the beginning. That worse was coming. That she had just painted a target on her soul that would never wash off.
 
 And still she could not stop laughing.
 
-Because she had never, in two lifetimes, felt this alive.
+Because she had never, in her whole life felt this alive.
 
 The madness finally burned itself out, leaving her hollow and shaking. With trembling hands, she reached down and pulled a single feather from his wing. It still glowed faintly. Still warm.
 
@@ -94,6 +94,6 @@ Evidence. Documentation. Proof of deed.
 
 She stood, swaying on unsteady legs, and looked down at what was left of him. The first angel she had ever killed. The first of many, if she had anything to say about it.
 
-"That is one," she said.
+"That's one," she said.
 
 Then she turned and limped toward the distant wail of sirens, still wearing that terrible smile, leaving behind a trail of golden blood and Heaven's broken pride.

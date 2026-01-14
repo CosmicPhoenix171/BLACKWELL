@@ -13,7 +13,7 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-let app, auth, db;
+let app, auth, db, rtdb;
 
 async function initFirebase() {
     try {
@@ -21,10 +21,12 @@ async function initFirebase() {
         const { initializeApp } = await import('https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js');
         const { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged } = await import('https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js');
         const { getFirestore, doc, getDoc, setDoc, updateDoc, collection, addDoc, query, where, getDocs, serverTimestamp, orderBy } = await import('https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js');
+        const { getDatabase, ref, push, set, onValue, onChildAdded, onChildRemoved, remove, get } = await import('https://www.gstatic.com/firebasejs/10.7.1/firebase-database.js');
         
         app = initializeApp(firebaseConfig);
         auth = getAuth(app);
         db = getFirestore(app);
+        rtdb = getDatabase(app);
         
         // Expose Firebase functions globally
         window.firebaseAuth = {
@@ -48,6 +50,18 @@ async function initFirebase() {
             getDocs,
             serverTimestamp,
             orderBy
+        };
+        
+        window.firebaseRTDB = {
+            rtdb,
+            ref,
+            push,
+            set,
+            onValue,
+            onChildAdded,
+            onChildRemoved,
+            remove,
+            get
         };
         
         console.log('Firebase initialized successfully');
