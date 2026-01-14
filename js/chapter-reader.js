@@ -1,36 +1,96 @@
 // Chapter Reader - Loads and displays markdown chapters
 
-// Simple markdown to HTML converter
+// Simple markdown to HTML converter with book-like formatting
 function parseMarkdown(md) {
-    let html = md
+    // Split into blocks by double newlines
+    const blocks = md.split(/\n\n+/);
+    
+    let html = '';
+    let isFirstParagraphAfterHeader = false;
+    
+    for (let i = 0; i < blocks.length; i++) {
+        let block = blocks[i].trim();
+        if (!block) continue;
+        
         // Escape HTML
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        // Headers
-        .replace(/^### (.+)$/gm, '<h3>$1</h3>')
-        .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-        .replace(/^# (.+)$/gm, '<h1>$1</h1>')
-        // Bold
-        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-        // Italic
-        .replace(/\*(.+?)\*/g, '<em>$1</em>')
-        // Line breaks - convert double newlines to paragraphs
-        .split(/\n\n+/)
-        .map(para => {
-            para = para.trim();
-            if (!para) return '';
-            // Don't wrap headers in p tags
-            if (para.startsWith('<h1>') || para.startsWith('<h2>') || para.startsWith('<h3>')) {
-                return para;
+        block = block
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;');
+        
+        // Check for headers
+        if (block.startsWith('### ')) {
+            html += '<h3>' + block.slice(4) + '</h3>';
+            isFirstParagraphAfterHeader = true;
+            continue;
+        }
+        if (block.startsWith('## ')) {
+            html += '<h2>' + block.slice(3) + '</h2>';
+            isFirstParagraphAfterHeader = true;
+            continue;
+        }
+        if (block.startsWith('# ')) {
+            html += '<h1>' + block.slice(2) + '</h1>';
+            isFirstParagraphAfterHeader = true;
+            continue;
+        }
+        
+        // Handle horizontal rules
+        if (block === '---' || block === '***' || block === '___') {
+            html += '<hr>';
+            continue;
+        }
+        
+        // Handle blockquotes
+        if (block.startsWith('&gt; ')) {
+            const quoteContent = block.replace(/^&gt; /gm, '');
+            html += '<blockquote>' + parseInlineFormatting(quoteContent) + '</blockquote>';
+            continue;
+        }
+        
+        // Check if this is a "short line" block (multiple short lines)
+        const lines = block.split('\n');
+        const isShortLineBlock = lines.length > 1 && lines.every(line => line.trim().length < 40);
+        
+        if (isShortLineBlock) {
+            // Render each line as its own centered paragraph
+            for (const line of lines) {
+                if (line.trim()) {
+                    html += '<p class="short-line">' + parseInlineFormatting(line.trim()) + '</p>';
+                }
             }
-            return '<p>' + para.replace(/\n/g, '<br>') + '</p>';
-        })
-        .join('\n');
+            isFirstParagraphAfterHeader = false;
+            continue;
+        }
+        
+        // Check if single short line (emphasis)
+        if (block.length < 50 && !block.includes('.') || 
+            (block.split('.').length <= 2 && block.length < 40)) {
+            // Check if it looks like a standalone emphasis line
+            const isEmphasis = block.length < 35;
+            if (isEmphasis && !isFirstParagraphAfterHeader) {
+                html += '<p class="emphasis-line">' + parseInlineFormatting(block) + '</p>';
+                continue;
+            }
+        }
+        
+        // Regular paragraph
+        const paraClass = isFirstParagraphAfterHeader ? ' class="first-para"' : '';
+        html += '<p' + paraClass + '>' + parseInlineFormatting(block.replace(/\n/g, ' ')) + '</p>';
+        isFirstParagraphAfterHeader = false;
+    }
     
     return html;
 }
 
+// Parse inline formatting (bold, italic)
+function parseInlineFormatting(text) {
+    return text
+        // Bold
+        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+        // Italic
+        .replace(/\*(.+?)\*/g, '<em>$1</em>');
+}
 // Chapter data structure
 const chapters = {
     'book-one': {

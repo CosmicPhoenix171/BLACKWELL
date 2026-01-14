@@ -6,91 +6,133 @@
     <title>LILITH BLACKWELL - Chapter Reader</title>
     <link rel="stylesheet" href="css/style.css">
     <style>
-        /* Reader-specific styles */
+        /* Reader-specific styles - Book-like formatting */
         .reader-container {
-            max-width: 750px;
+            max-width: 680px;
             margin: 0 auto;
-            padding: 60px 24px 80px;
+            padding: 60px 40px 80px;
+            background: linear-gradient(to bottom, var(--light-bg) 0%, #0a0d12 100%);
         }
         
         #chapter-title {
             font-family: var(--font-heading);
             text-align: center;
             color: var(--accent-color);
-            font-size: 2.2rem;
-            margin-bottom: 50px;
+            font-size: 2rem;
+            margin-bottom: 60px;
             border-bottom: 1px solid var(--border-color);
-            padding-bottom: 24px;
-            letter-spacing: 2px;
+            padding-bottom: 30px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
         }
         
         #chapter-content {
             font-family: var(--font-body);
-            font-size: 1.2rem;
-            line-height: 2;
+            font-size: 1.15rem;
+            line-height: 1.9;
             color: var(--text-color);
-            letter-spacing: 0.3px;
+            letter-spacing: 0.2px;
         }
         
+        /* Hide the H1 since we show title separately */
         #chapter-content h1 {
-            font-family: var(--font-heading);
-            text-align: center;
-            color: var(--accent-color);
-            font-size: 2.8rem;
-            margin: 50px 0 24px;
+            display: none;
         }
         
         #chapter-content h2 {
             font-family: var(--font-heading);
             text-align: center;
             color: var(--accent-hover);
-            font-size: 1.9rem;
-            margin: 40px 0 20px;
+            font-size: 1.6rem;
+            margin: 50px 0 40px;
+            letter-spacing: 2px;
         }
         
         #chapter-content h3 {
             font-family: var(--font-heading);
             text-align: center;
             color: var(--text-muted);
-            font-size: 1.4rem;
+            font-size: 1.2rem;
             font-style: italic;
-            margin: 24px 0 40px;
+            margin: 30px 0 50px;
         }
         
+        /* Regular paragraphs - book style */
         #chapter-content p {
-            text-indent: 2.5em;
-            margin: 0 0 1.5em 0;
-            text-align: justify;
-            hyphens: auto;
+            text-indent: 2em;
+            margin: 0 0 0.8em 0;
+            text-align: left;
         }
         
-        #chapter-content p:first-of-type {
+        /* First paragraph after headers - no indent, with drop cap */
+        #chapter-content h2 + p,
+        #chapter-content h3 + p {
             text-indent: 0;
         }
         
-        #chapter-content p:first-of-type::first-letter {
+        #chapter-content h2 + p::first-letter,
+        #chapter-content h3 + p::first-letter {
             font-family: var(--font-heading);
-            font-size: 4rem;
+            font-size: 4.5rem;
             float: left;
-            line-height: 1;
-            padding-right: 12px;
-            padding-top: 4px;
+            line-height: 0.8;
+            padding-right: 14px;
+            padding-top: 8px;
             color: var(--accent-color);
-            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+            font-weight: 600;
+        }
+        
+        /* Short lines (like single words or phrases) - no indent, centered */
+        #chapter-content p.short-line {
+            text-indent: 0;
+            text-align: center;
+            margin: 0.4em 0;
+            color: var(--text-muted);
+            font-style: italic;
+        }
+        
+        /* Emphasized single lines */
+        #chapter-content p.emphasis-line {
+            text-indent: 0;
+            text-align: center;
+            margin: 1.5em 0;
+            font-style: italic;
+        }
+        
+        /* Blockquotes for internal thoughts */
+        #chapter-content blockquote {
+            margin: 2em 1em;
+            padding: 1em 1.5em;
+            border-left: 3px solid var(--accent-color);
+            font-style: italic;
+            color: var(--text-muted);
+            background: rgba(212, 168, 75, 0.05);
         }
 
         /* Scene breaks */
         #chapter-content hr {
             border: none;
             text-align: center;
-            margin: 3rem 0;
+            margin: 3em 0;
         }
 
         #chapter-content hr::before {
-            content: '⁂';
-            font-size: 1.5rem;
+            content: '✦  ✦  ✦';
+            font-size: 1rem;
             color: var(--accent-color);
-            opacity: 0.6;
+            opacity: 0.5;
+            letter-spacing: 1em;
+        }
+        
+        /* Strong emphasis */
+        #chapter-content strong {
+            color: var(--white);
+            font-weight: 600;
+        }
+        
+        /* Italic */
+        #chapter-content em {
+            font-style: italic;
         }
         
         #chapter-nav {
