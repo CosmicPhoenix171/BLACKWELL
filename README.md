@@ -42,7 +42,7 @@ BLACKWELL/
 │   ├── notes-highlight.js  # Reader feedback system
 │   └── feedback-admin.js   # Author feedback panel
 ├── chapters/
-│   ├── book-one-chapter-01.md  # Prologue: First Blood
+│   ├── prologue.md  # Prologue: First Blood
 │   └── _chapter-template.html  # Template for HTML chapters
 └── worldbuilding/
     ├── README.md           # Worldbuilding index

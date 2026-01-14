@@ -38,7 +38,7 @@ const chapters = {
         chapters: {
             'prologue': {
                 title: 'Prologue: First Blood',
-                file: 'chapters/book-one-chapter-01.md',
+                file: 'chapters/prologue.md',
                 pages: 1
             }
             // Add more chapters as they're written
