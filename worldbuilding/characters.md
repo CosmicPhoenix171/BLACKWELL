@@ -3,7 +3,7 @@
 ## Lilith Rose Blackwell
 
 **Titles:**
-- To the US: *Operative Blackwell* (2024) / *Director Blackwell* (2026)
+- To the US: *Operative Blackwell* (2024)
 - To enemies: *The Dominion Witch*
 - To believers: *The Heretic*
 - To God: *"The One Who Refuses"*
@@ -117,7 +117,7 @@ From 2020 to 2026, Lilith watched everything unfold:
 | 2023 | AETHCOM training. Learning to access and control her stored Aether. First field operations. |
 | 2024 | First confirmed angel kill (Prologue). Age 24. Earns her titles. God notices her. |
 | 2025 | Key operations that prove her value. Rising through ranks. |
-| 2026 | Director Blackwell. Age 26. WW3 begins. The story continues. |
+| 2026 | Age 26. WW3 begins. The story continues. |
 
 She didn't fight the draft. She *weaponized* it.
 
@@ -149,25 +149,17 @@ Within months of Aether's arrival, Lilith had already begun her analysis:
 - Why can't He simply rewrite her mind?
 - Conclusion: There are limits. There are *loopholes*.
 
-**Observation 3:** God is watching her specifically.
-- She can feel His attention
-- Angels appear near her more than statistically likely
-- "Coincidences" keep testing her faith
-- Conclusion: She is an *anomaly* to Him. A problem.
-
-**Observation 4:** He wants her to kneel *willingly*.
+**Observation 3:** He wants her to kneel *willingly*.
 - Forced worship must not count
 - Coerced faith must be worthless
 - He needs her to *choose* Him
 - Conclusion: Her refusal has power. Her denial costs Him something.
-
+*(Note: Lilith developed Observations 1-2 from 2020-2022. Observation 3 came after 2024, when she killed her first angel and felt God's attention turn to her specifically.)*
 ---
 
 ### The Moment She Decided
 
 There was a specific moment — a specific day — when Lilith stopped merely observing and started *planning*.
-
-[Describe the inciting incident — what did she see that made her realize she could fight back? Was it a divine injustice? A loophole she spotted? An angel's weakness?]
 
 In that moment, she made her decision:
 
@@ -192,8 +184,6 @@ AETHCOM said: *"We will use you. You will kill for us. In exchange, you get powe
 God said: *"I love you. Therefore you owe Me everything."*
 
 Lilith walked into AETHCOM headquarters and offered her services.
-
-Within [timeframe], she was Director.
 
 ---
 

@@ -32,7 +32,7 @@ Appearance → Witnesses → Belief spreads → More power → More appearances
 
 ### Why God Cannot Stop Lilith Directly
 
-Lilith's will over Aether grew far faster than God ever predicted.
+Lilith naturally absorbs Aether, stockpiling it within her body. Through AETHCOM training, she learned to use willpower to shape and release what she has stored. Her growth outpaced anything God ever predicted.
 
 She is now effectively **immune to divine influence**:
 - He cannot erase her
@@ -40,7 +40,7 @@ She is now effectively **immune to divine influence**:
 - He cannot see her future
 - He cannot affect her directly
 
-Her Aether willpower acts as a shield. She is invisible to His omniscience.
+Her absorbed Aether acts as a shield. She is invisible to His omniscience.
 
 **This is unprecedented.** No human has ever resisted Him this completely.
 

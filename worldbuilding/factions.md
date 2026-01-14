@@ -18,7 +18,7 @@ The dominant world power. Weaponized Aether before anyone else understood what i
 ### Key Figures
 | Role | Name | Notes |
 |------|------|-------|
-| Director of AETHCOM | Lilith Blackwell | The story's protagonist |
+| Operative | Lilith Blackwell | The story's protagonist |
 | [Position] | [Name] | [Ally or rival?] |
 | [Position] | [Name] | [Ally or rival?] |
 

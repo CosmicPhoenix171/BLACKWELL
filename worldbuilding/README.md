@@ -40,7 +40,7 @@ This folder contains all lore, reference materials, and consistency tracking for
 | 2026 | WW3 begins — US seizes Greenland and Venezuela |
 
 ### Lilith's Titles
-- To the US: *Operative Blackwell* (2024) / *Director Blackwell* (2026)
+- To the US: *Operative Blackwell* (2024)
 - To enemies: *The Dominion Witch*
 - To believers: *The Heretic Engine*
 - To God: *"The One Who Refuses"*
@@ -62,10 +62,11 @@ This folder contains all lore, reference materials, and consistency tracking for
 4. Every divine death erodes collective faith
 
 ### Lilith's Immunity
-1. Her willpower over Aether grew faster than God predicted
-2. She cannot be erased, read, or affected directly by God
-3. God must send agents (angels, saints, heroes) instead
-4. She studies divine rules and exploits their weaknesses
+1. She naturally absorbs Aether, stockpiling it within her body
+2. Through training, she learned to use willpower to shape and release stored Aether
+3. She cannot be erased, read, or affected directly by God
+4. God must send agents (angels, saints, heroes) instead
+5. She studies divine rules and exploits their weaknesses
 
 ---
 

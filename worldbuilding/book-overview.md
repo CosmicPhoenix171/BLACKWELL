@@ -29,10 +29,10 @@ And at the heart of the war machine: **Lilith Rose Blackwell**.
 - 20 when Aether arrived, flagged as Anomalous during vaccine screening in 2021
 - Complete lack of faith made her invisible to God's influence
 - Rose through AETHCOM ranks by proving herself in every mission
-- Became Director Blackwell in 2026, now waging tactical warfare against divine forces
+- Now waging tactical warfare against divine forces
 
 **Her Titles:**
-- To the US: *Operative Blackwell* (2024) / *Director Blackwell* (2026)
+- To the US: *Operative Blackwell* (2024)
 - To enemies: *The Dominion Witch*
 - To believers: *The Heretic Engine*
 - To God: *"The One Who Refuses"*
@@ -82,8 +82,7 @@ Lilith's experience of the "pandemic" and her discovery:
 
 Lilith's rise through the ranks:
 
-- 2021: Continued college + private Aether study + watching AETHCOM form
-- 2022: Flagged as Anomalous, approached by recruiters
+- 2022: Removed from college, taken to underground facility, flagged as Anomalous
 - Her choice to join willingly — seeing AETHCOM as a resource
 - Basic training / orientation / discovering how deep the conspiracy goes
 - First missions, first kills (not angels yet — human enemies? Lesser divine agents?)

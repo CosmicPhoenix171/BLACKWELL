@@ -81,12 +81,13 @@ Technology in this world merges:
 
 ### Natural Aether Resistance
 
-Some individuals develop natural resistance to divine influence through sheer willpower and Aether mastery. This is extremely rare.
+Some individuals develop natural resistance to divine influence through unique Aether interaction. This is extremely rare.
 
 **Lilith Blackwell** is the prime example:
-- Her will over Aether grew faster than God predicted
+- She naturally absorbs Aether, stockpiling it within her body
+- Through training, she learned to use willpower to shape and release what she has stored
 - She is effectively invisible to divine omniscience
-- No implants or technology — pure willpower
+- No implants or technology — pure natural ability combined with trained willpower
 - This makes her unique and terrifying
 
 ### Standard AETHCOM Gear

@@ -1,74 +1,8 @@
 # Plot Holes & Inconsistencies
 
-## Second Sweep - New Issues Found
+## All Issues Resolved
 
-### 11. Technology.md - "Will over Aether" vs "Absorption"
-**Location:** [technology.md](technology.md)
-- **Text says:** "Her will over Aether grew faster than God predicted"
-- **But characters.md says:** She absorbs Aether passively, then learned to use it through training
-- **Issue:** "Will over Aether" implies active control from the start, which contradicts the absorption mechanic
-- **Suggested Fix:** Change to "Her Aether absorption grew faster than God predicted" or similar
-
-### 12. Characters.md - "Observation 3" Contradiction
-**Location:** [characters.md](characters.md) lines 153-157
-- **Text says:** "God is watching her specifically" and "Angels appear near her more than statistically likely"
-- **But earlier in same file:** "God did not notice Lilith until she killed her first angel in January 2024"
-- **Issue:** The "Observations" section implies she felt divine attention BEFORE the angel kill, but the updated timeline says God only noticed her AFTER
-- **Suggested Fix:** Remove or reframe Observation 3 to reflect post-2024 timeline
-
-### 13. Divine-law.md - Still says "will over Aether"
-**Location:** [divine-law.md](divine-law.md)
-- **Text says:** "Lilith's will over Aether grew far faster than God ever predicted"
-- **Issue:** Same as #11 - should reflect absorption, not "will"
-- **Suggested Fix:** Update to match absorption mechanic
-
-### 14. Characters.md - "She can feel His attention"
-**Location:** [characters.md](characters.md) Observation 3
-- **Text says:** "She can feel His attention"
-- **Issue:** This is in her early observations (2020-2022), but God didn't notice her until 2024
-- **Suggested Fix:** This observation should be dated post-2024 or removed
-
-### 15. Book-overview.md - Part 2 Timeline Error
-**Location:** [book-overview.md](book-overview.md)
-- **Text says:** "Part 2: AETHCOM (2022–2023)" but also "2021: Continued college + private Aether study"
-- **Issue:** 2021 is listed under Part 2 which is labeled 2022-2023
-- **Suggested Fix:** Remove the 2021 line or fix the Part 2 date range
-
-### 16. Characters.md - Placeholder Text
-**Location:** [characters.md](characters.md)
-- **Text says:** "[Describe the inciting incident — what did she see that made her realize she could fight back?]"
-- **Issue:** Placeholder text still in file
-- **Status:** Needs story decision
-
-### 17. Characters.md - "Within [timeframe]"
-**Location:** [characters.md](characters.md)
-- **Text says:** "Within [timeframe], she was Director."
-- **Issue:** Placeholder - should be "Within four years" (2022 to 2026)
-- **Suggested Fix:** Replace with actual timeframe
-
-### 18. Factions.md - Still says "Director of AETHCOM"
-**Location:** [factions.md](factions.md)
-- **Text says:** "Director of AETHCOM | Lilith Blackwell"
-- **Issue:** This is current (2026), but should note she wasn't Director until 2026
-- **Status:** Minor - could add "(as of 2026)"
-
----
-
-## Minor Style Issues
-
-### Prologue - "incantations and commands"
-- **Text says:** "Her voice was raw, shredded from the incantations and commands she had thrown during the fight"
-- **Question:** Does she use incantations? This is the only mention of verbal spellcasting.
-- **Consider:** Is this consistent with how Aether works elsewhere?
-
-### Technology.md - "pure willpower"
-- **Text says:** "No implants or technology — pure willpower"
-- **Issue:** She doesn't use "willpower" in the traditional sense - she absorbs and releases stored Aether
-- **Suggested Fix:** Change to "pure natural ability" or "her unique absorption"
-
----
-
-## Previously Resolved (First Sweep)
+### First Sweep (Issues 1-10)
 
 ✅ 1. Career - Changed to data analytics student
 ✅ 2. Aether Abilities - Added AETHCOM training progression
@@ -81,6 +15,43 @@
 ✅ 9. Vaccine Gap - Added surveillance period
 ✅ 10. Grocery Store - Removed
 
+### Second Sweep (Issues 11-18)
+
+✅ 11. Technology.md - Updated to "naturally absorbs Aether, uses willpower to shape stored energy"
+✅ 12. Characters.md - Removed old Observation 3 (divine attention before 2024)
+✅ 13. Divine-law.md - Updated to absorption + willpower mechanic
+✅ 14. Characters.md - Observation 3 rewritten, now explains it came AFTER 2024 angel kill
+✅ 15. Book-overview.md - Removed 2021 line from Part 2 (she was removed from college)
+✅ 16. Characters.md - Removed placeholder inciting incident text
+✅ 17. Characters.md - Removed Director title and timeframe placeholder
+✅ 18. Factions.md - Changed "Director of AETHCOM" to "Operative"
+
+### Minor Style Notes (Resolved)
+
+✅ Prologue "incantations" - Kept as-is (her way of willing Aether through verbal focus)
+✅ Technology.md "pure willpower" - Updated to "pure natural ability combined with trained willpower"
+
 ---
 
-*Last updated: January 2026 - Second Sweep*
+## Established Canon
+
+### Lilith's Aether Mechanic
+1. She **naturally absorbs** Aether (unknowingly since 2020)
+2. Her body became a **reservoir** for stored Aether
+3. Through **AETHCOM training (2022-2024)**, she learned to use willpower to shape and release it
+4. This is why her vaccine reading was **zero** (absorbed instantly)
+5. This is why the **fire curved around her** (she was a gravitational well for Aether)
+
+### Divine Attention Timeline
+1. God did **NOT** notice Lilith until January 2024
+2. Her first **angel kill** created a ripple in the Aether
+3. God found a human He could not see, read, or influence
+4. NOW He watches her specifically
+
+### Title Progression
+- **Operative Blackwell** (2024) - Only confirmed title
+- No Director title in current worldbuilding
+
+---
+
+*Last updated: January 2026 - All Issues Resolved*
