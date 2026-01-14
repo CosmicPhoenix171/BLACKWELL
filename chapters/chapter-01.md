@@ -143,7 +143,9 @@ Not low. Not baseline. Zero.
 
 They tested me three more times with increasingly concentrated doses. Nothing. The Aether went into my body and simply vanished. No signature. No reaction. No trace.
 
-The nurse had smiled and told me I was done. Behind her, two men in suits were already making phone calls.
+I know now what was happening. I had been absorbing Aether since 2020. Every trace of it that touched me, stored away somewhere I couldn't feel. Two years of ambient divine energy, swallowed into a void I didn't know I was building.
+
+But at the time, the nurse just smiled and told me I was done. Behind her, two men in suits were already making phone calls.
 
 They were all scared. Confused. Looking for explanations that would make the world make sense again.
 
@@ -251,7 +253,9 @@ Except where I stood.
 
 The fire curved away from me.
 
-I watched it happen. Watched the flames bend like water flowing around a stone. Watched the electrical arcs snap and redirect, deflecting around an invisible boundary that I hadn't consciously created. The floor beneath my feet remained untouched. No scorch marks, no melted tile, no heat.
+I watched it happen. Watched the flames bend like water flowing around a stone. Watched the electrical arcs snap and redirect, drawn toward me and then swallowed before they could touch. The Aether Marcus was releasing, all that raw divine energy, it wasn't deflecting around me. It was being absorbed. Pulled into the void I had been building for two years without knowing.
+
+The floor beneath my feet remained untouched. No scorch marks, no melted tile, no heat.
 
 A perfect sphere of stillness, carved clean out of the chaos.
 
@@ -263,9 +267,11 @@ The world was ending around me and I stood in the eye of the storm, observing. C
 
 Marcus was at the center of it all. His eyes were rolled back. His body was convulsing. The Aether was pouring out of him in waves, uncontrolled, unleashed by terror and trauma and something that had broken inside his mind.
 
-I could have helped. Maybe. I didn't know my limits yet. Didn't know what I was capable of.
+I couldn't have helped. I know that now. I had no control over what I was doing. No ability to extend whatever protection surrounded me. No way to shape the Aether I was consuming. I was a drain, not a shield.
 
-But I wanted to see what would happen.
+But in that moment, standing in the eye of the storm, I wasn't thinking about helping.
+
+I wanted to see what would happen.
 
 I wanted data.
 
@@ -277,9 +283,11 @@ Marcus survived.
 
 Barely.
 
-They found him unconscious at the center of the blast zone, curled in a fetal position. His Aether had burned itself out. He would live, but the doctors said he'd never manifest again. The fire had consumed something essential.
+They found him unconscious at the center of the blast zone, curled in a fetal position. His Aether had burned itself out. He would live, but the doctors said he'd never manifest again.
 
-I stood exactly where I'd been standing when it started. Untouched. Unburned. Not even sweat on my skin.
+I wonder sometimes how much of that was my fault. How much of his power I had drained in those few minutes. How much of what he lost ended up inside me.
+
+I stood exactly where I'd been standing when it started. Untouched. Unburned. Not even sweat on my skin. Fuller, somehow, in a way I wouldn't understand for years.
 
 Security teams flooded the room. Medical personnel followed. Researchers with tablets and instruments, already measuring, already documenting.
 

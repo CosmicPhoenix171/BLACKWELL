@@ -47,8 +47,6 @@ Her body became a reservoir.
 
 This is why her vaccine reading came back zero. The concentrated Aether in the injection did not disperse or trigger a reaction. It simply vanished into the void she had been building for two years without knowing it.
 
-Scientists would later theorize it was connected to her complete lack of faith. Where others had beliefs that God could latch onto, Lilith had nothing. No worship. No hatred. No fear. Just emptiness where faith should be.
-
 That emptiness became a container. And the container kept filling.
 
 By the time of the fire incident, Lilith had absorbed more ambient Aether than any human on record. The fire curved around her because she had become a gravitational well for divine energy. It was drawn to her. Swallowed by her.
