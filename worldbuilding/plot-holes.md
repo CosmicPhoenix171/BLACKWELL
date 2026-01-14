@@ -1,95 +1,92 @@
 # Plot Holes & Inconsistencies
 
-A running list of potential plot holes, contradictions, and things that need addressing.
+## Active Issues to Address
+
+### 1. Career Inconsistency
+**Location:** [characters.md](characters.md) vs [chapter-01.md](../chapters/chapter-01.md)
+- **characters.md says:** "A second-year military strategy student" and "Planned to become a military strategist"
+- **chapter-01.md says:** "twenty and already tired in a way college hadn't prepared me for" and mentions working at a grocery store
+- **book-overview.md says:** "working nights at a grocery store while in college"
+- **Issue:** Is she a military strategy student or just a regular college student working at a grocery store? These feel like different people.
+- **Suggested Fix:** Clarify she was studying something practical (maybe political science or data analytics?) while working nights. Or keep military strategy but explain why she's working retail.
+
+### 2. Aether Abilities Description Conflict
+**Location:** [aether.md](aether.md) vs [characters.md](characters.md)
+- **aether.md says:** "Lilith's abilities include: Aether-infused weapons (her knife glows purple when channeling)" and "Faster ability development than any recorded human"
+- **characters.md says:** "Lilith does not control Aether. Not yet. She *consumes* it. Every trace of Aether that touches her is absorbed and stored. She has no ability to release it, shape it, or wield it"
+- **Issue:** If she can't release or wield Aether, how does she infuse her knife with violet Aether in the Prologue? These directly contradict.
+- **Suggested Fix:** Either the Prologue represents a future point where she HAS learned control, or the knife channeling is something different (the stored Aether releasing on its own when in contact with divine beings?)
+
+### 3. Timeline Confusion: AETHCOM Formation vs Draft
+**Location:** [the-war.md](the-war.md) vs [characters.md](characters.md)
+- **the-war.md says:** "2024: First drafted Aether-capable citizens disappear into AETHCOM"
+- **characters.md timeline says:** "2022: Taken to underground facility. Classified as Anomalous"
+- **Issue:** How was Lilith taken to a facility in 2022 if the first drafts happened in 2024?
+- **Suggested Fix:** The-war.md timeline refers to the PUBLIC/mass draft program. Lilith was taken earlier because she was flagged as Anomalous (special case, not the regular draft).
+
+### 4. Angel Capture Timeline
+**Location:** [the-war.md](the-war.md)
+- **the-war.md says:** "2025: First angel captured and reverse-engineered"
+- **Issue:** If the first angel was captured in 2025, how did they have angel footage to show Marcus during the fire incident in 2022? Chapter One shows them playing angel footage during facility tests.
+- **Suggested Fix:** Footage of angels existed from sightings/encounters before capture. The 2025 date is when they first CAPTURED one alive for harvesting/reverse-engineering.
+
+### 5. Reincarnation References (REMOVED)
+**Location:** Various files still reference "two lives"
+- **book-overview.md says:** "Lilith carrying two lives of memories" and "The merger of two selves"
+- **Issue:** The reincarnation plotline was removed. Lilith is just one person, not a merged soul.
+- **Suggested Fix:** Remove all references to "two lives," "merger," "sent back," etc.
+
+### 6. "Anomalous-tier from Day One" vs Gradual Discovery
+**Location:** [characters.md](characters.md) (old text may remain)
+- **Issue:** Some files say Lilith manifested at Anomalous-tier immediately, but Chapter One shows her abilities being discovered gradually (fire incident revealed her, she didn't know before)
+- **Suggested Fix:** Ensure all files reflect that she was ABSORBING from day one (unknowingly), but her classification as Anomalous came after the fire incident in 2022.
+
+### 7. God's Direct Attention Timeline
+**Location:** [characters.md](characters.md)
+- **Text says:** "Angels appeared near her more than statistically likely. 'Coincidences' kept testing her faith."
+- **Issue:** When did this start? Before or after the fire incident? Before or after she joined AETHCOM? Chapter One doesn't show any divine attention until after the facility.
+- **Suggested Fix:** Clarify this divine attention began AFTER the fire incident (when she became visible as an anomaly), not before.
+
+### 8. Director Timeline Gap
+**Location:** [characters.md](characters.md)
+- **Text says:** "2025: [Key event that elevated her to Director]" and "2026: Director Blackwell"
+- **Issue:** What happened in 2025? This is a major gap. Also, the Prologue (first angel kill) is January 2024, but she's already called "Director Blackwell" in the Prologue.
+- **Suggested Fix:** Either the Prologue happens later than 2024, or she became Director before the first angel kill. Clarify which.
+
+### 9. The Vaccine Testing Confusion
+**Location:** [chapter-01.md](../chapters/chapter-01.md)
+- **Current text says:** She got a vaccine in 2021 that contained Aether for screening. Reading came back zero. THEN she was taken in early 2022.
+- **Issue:** If they got a zero reading in 2021, why did they wait until 2022 to take her? A zero reading should be an immediate red flag.
+- **Suggested Fix:** Either they didn't understand what zero meant at first (took time to analyze), or she was under surveillance during that gap year while they figured out what she was.
+
+### 10. "Grocery Store" vs "Dorm Room"
+**Location:** [chapter-01.md](../chapters/chapter-01.md) and [book-overview.md](book-overview.md)
+- **book-overview.md says:** "Working nights at a grocery store"
+- **chapter-01.md says:** She was taken from her "dorm room" (implying she lived on campus)
+- **Issue:** Not necessarily a conflict, but worth clarifying. Was she a student living in a dorm who also worked part-time? That's plausible but could be made clearer.
 
 ---
 
-## Resolved Questions
+## Minor Issues / Style Notes
 
-### Lilith's Immunity
-- [x] **Why is Lilith invisible to God?** — Her complete lack of faith creates a void in the Aether field. God can only perceive and influence souls through their beliefs.
-- [x] **Why are her abilities so strong?** — Her cold, calculating mind translates directly into Aether control. Willpower without emotional interference.
-- [x] **Does anyone know she's immune to God?** — Only AETHCOM's highest ranks understand her unique status. God Himself is aware of the "blind spot."
+### Tone Shifts
+- The Prologue is visceral, violent, present-tense feeling
+- Chapter One is retrospective, analytical, past-tense retelling
+- **Not a plot hole** but worth noting for consistency
 
-### God's Limitations
-- [x] **Why can't God just erase her?** — Lilith's will over Aether grew far faster than He predicted. She became immune to His direct influence.
-- [x] **Can God perceive her plans?** — No. Her Aether will shields her from His omniscience. He cannot see her future or read her intentions.
+### Violet/Purple Aether
+- Consistently described across files. No issues here.
 
-### Aether Mechanics
-- [x] **If billions believe in God, shouldn't He be unstoppable?** — God is limited to the beliefs themselves. He can only do what people believe He can do. Their faith defines His cage.
-- [x] **Can Lilith use Aether?** — Yes. She has Anomalous-class abilities that she slowly learns to control throughout the story.
-- [x] **What color is Lilith's Aether?** — Violet/purple, like dying stars.
-
-### AETHCOM
-- [x] **How did she get drafted on her terms?** — She joined willingly. She saw AETHCOM as a resource to use at her disposal, not a cage.
-- [x] **How did she become Director so fast?** — She proved herself repeatedly. Every mission, every kill, every strategy cemented her rise.
-- [x] **Does anyone know about her immunity?** — Only the highest-ranking AETHCOM officials understand her unique Aether signature.
-
-### The War
-- [x] **Why doesn't God expose AETHCOM?** — He's limited to collective beliefs. He can't just announce things — He can only work through what people already believe.
-- [x] **How did WW3 start?** — The US took Greenland for military supremacy and seized Venezuela for its oil (publicly justified as "stopping a corrupt government").
-- [x] **What's stopping God from appearing publicly?** — Nothing. He IS slowly making appearances and performing miracles — creating a feedback loop that makes Him stronger.
-
-### The Prologue
-- [x] **What weapon did Lilith use?** — The Harbinger (Aether-core pistol, emptied during fight) and a combat knife she infused with her violet Aether.
-- [x] **Where did the angel fight happen?** — A ruined church in downtown Baltimore.
-- [x] **Was this her first kill?** — First *angel* kill. She had killed before (human enemies, lesser divine agents).
+### Age Math
+- Born 2000, age 20 in 2020, age 24 in 2024 (Prologue), age 26 in 2026
+- **Checks out.**
 
 ---
 
-## Potential Contradictions
+## Resolved Issues
 
-| Issue | Notes | Status |
-|-------|-------|--------|
-| Timeline of Lilith's age | Prologue says she's 22, but timeline suggests she should be 22-24 by 2024 | Check consistency |
-| Angel hierarchy vs. first kill | What rank was the angel she killed? | Define in next chapter |
+(Move items here when fixed)
 
 ---
 
-## Things That Need Explanation
-
-- [ ] Why specifically was Lilith born without the capacity for faith?
-- [ ] What triggered her decision to actively fight God rather than just ignore Him?
-- [ ] Why was she classified as Anomalous rather than Exceptional?
-- [ ] What did God expect would happen when He noticed her blind spot?
-- [ ] Who were her key allies/rivals during her AETHCOM rise?
-- [ ] What's her relationship with her family after Aether arrives?
-
----
-
-## Reader Questions to Anticipate
-
-These are things readers will probably ask:
-
-1. **"If God is a thought-form, who created the universe?"**
-   - Answer: The universe existed before God. He's a product of it, not its creator.
-
-2. **"Why doesn't Lilith just tell everyone God is a parasite?"**
-   - Answer: Who would believe her? And mass disbelief could be as dangerous as mass belief.
-
-3. **"Can God be killed permanently, or will belief recreate Him?"**
-   - Answer: [TBD — this is the central question of the series]
-
-4. **"Are there other gods from other religions?"**
-   - Answer: [TBD — probably yes, but weaker due to less concentrated belief]
-
-5. **"What happens to souls when they die in this world?"**
-   - Answer: [TBD — souls enter "The Threshold," a state between life and whatever comes next]
-
-6. **"If Lilith is so cold, how does she function in society?"**
-   - Answer: She's always been cold and clinical. She learned to mimic appropriate responses when useful.
-
----
-
-## Resolved Plot Holes
-
-| Issue | Solution | Chapter Addressed |
-|-------|----------|-------------------|
-| First Blood is Chapter 1 or Prologue? | It's the Prologue | Updated across all files |
-| What chapter structure? | In medias res (Prologue) → flashback → catch up | book-overview.md |
-
----
-
-*Add issues as you find them. Check them off as you solve them.*
-
-*Cross-reference all worldbuilding docs when adding new lore.*
+*Last updated: January 2026*
