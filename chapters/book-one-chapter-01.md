@@ -1,4 +1,4 @@
-# PROLOGUE
+# Prologue
 
 ## First Blood
 
