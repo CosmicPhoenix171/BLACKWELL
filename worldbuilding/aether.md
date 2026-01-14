@@ -104,13 +104,19 @@ See: [Technology](technology.md) for full weapons catalog.
 
 Lilith's Aether manifests as **violet/purple fire** — the color of dying stars.
 
-Her abilities include:
-- Aether-infused weapons (her knife glows purple when channeling)
+**Her nature (from 2020):**
+- Absorbs all Aether that touches her
+- Stores it in an ever-growing internal reservoir
+- Originally had no ability to release or control it
+
+**Her trained abilities (by 2024):**
+- Can channel stored Aether through weapons (her knife glows purple)
+- Can release controlled bursts of absorbed energy
+- Drains Aether from divine constructs on contact
 - Shielding against divine perception
 - Resistance to God's direct influence
-- Faster ability development than any recorded human
 
-**The irony:** God sent her back to learn faith. Instead, she learned the physics that would let her kill Him.
+**The irony:** God ignored her until she killed His angel. Now He cannot look away from the one being He cannot control.
 
 ---
 

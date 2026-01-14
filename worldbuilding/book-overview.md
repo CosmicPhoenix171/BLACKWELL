@@ -4,7 +4,7 @@
 
 **Genre:** Dark magic-tech war epic / Divine psychological horror / Villain-protagonist saga
 
-**Logline:** A 20-year-old military strategy student with no empathy discovers she's immune to God's influence when Aether — the physics of belief — reshapes reality. She joins the US military's secret magic division, rises to power, and wages tactical warfare against Heaven itself.
+**Logline:** A 20-year-old data analytics student with no empathy discovers she's immune to God's influence when Aether — the physics of belief — reshapes reality. She joins the US military's secret magic division, rises to power, and wages tactical warfare against Heaven itself.
 
 **Core Theme:** What happens when the most dangerous kind of human — a master tactician with no empathy — is given divine physics and infinite war to exploit?
 
@@ -26,13 +26,13 @@ And at the heart of the war machine: **Lilith Rose Blackwell**.
 
 **Lilith Rose Blackwell** — Currently 26 years old (as of 2026)
 
-- 20 when Aether arrived, displaying Anomalous-tier abilities from day one
+- 20 when Aether arrived, flagged as Anomalous during vaccine screening in 2021
 - Complete lack of faith made her invisible to God's influence
 - Rose through AETHCOM ranks by proving herself in every mission
-- Now Director Blackwell, waging tactical warfare against divine forces
+- Became Director Blackwell in 2026, now waging tactical warfare against divine forces
 
 **Her Titles:**
-- To the US: *Director Blackwell*
+- To the US: *Operative Blackwell* (2024) / *Director Blackwell* (2026)
 - To enemies: *The Dominion Witch*
 - To believers: *The Heretic Engine*
 - To God: *"The One Who Refuses"*
@@ -53,7 +53,7 @@ And at the heart of the war machine: **Lilith Rose Blackwell**.
 The book opens with Lilith killing her first angel.
 
 - No context. No explanation. Just violence and victory.
-- Readers see Director Blackwell at her most terrifying
+- Readers see Operative Blackwell at her most terrifying
 - The angel dies in a ruined church in Baltimore. Lilith feels nothing but dark joy.
 - **Hook:** How did a 24-year-old become this?
 
@@ -66,12 +66,11 @@ The book opens with Lilith killing her first angel.
 Lilith's experience of the "pandemic" and her discovery:
 
 - She was 20, a second-year college student when the world shut down
-- Working nights at a grocery store, she notices anomalies: heat near certain people, flickering lights, equipment failures that don't add up
-- Patterns emerge: people who survive impossible things, others who die quietly and are forgotten
+- She notices anomalies in the public record: death rates that don't match, obituaries that don't add up, patterns that make no sense
 - By 2021, the quiet deaths begin — names that appear once and vanish
 - She starts keeping a list of people who don't fit the official story
 - By early 2022, her own records start glitching — she's being erased from systems
-- They come for her: no uniforms, just offers framed as "safety" and "national interest"
+- They come for her: no uniforms, just a van and zip ties
 - Underground facility. They call her an "anomaly"
 - Tests, evaluations, watching others burn out or break
 - The fire incident: another anomaly panics, the room erupts in flame and electrical discharge
@@ -157,9 +156,9 @@ Building to the opening scene:
 - God escalating His public appearances to counter the erosion
 
 ### The Personal Arc
-- Lilith carrying two lives of memories
-- Her relationship with her younger self's family/friends
-- The isolation of being the only one who knows the truth
+- Her isolation as someone who sees through the lies
+- Her relationship with family she can never explain herself to
+- The growing distance between who she was and what she's becoming
 - Does she have any humanity left? Does she want it?
 
 ### The Endgame Arc
@@ -175,8 +174,8 @@ Building to the opening scene:
 |----------|--------|
 | Lilith vs. God | The core war — can she kill a being made of belief? |
 | Lilith vs. Divine Agents | Tactical battles against angels, saints, heroes |
-| Lilith vs. AETHCOM | Internal politics — not everyone trusts the young Director |
-| Lilith vs. Her Past | The weight of two lives, the merger of two selves |
+| Lilith vs. AETHCOM | Internal politics — not everyone trusts the young operative |
+| Lilith vs. Herself | The cost of becoming a weapon — what is she losing? |
 | Lilith vs. Morality | She has none — but does the story? |
 
 ---

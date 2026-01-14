@@ -3,7 +3,7 @@
 ## Lilith Rose Blackwell
 
 **Titles:**
-- To the US: *Director Blackwell*
+- To the US: *Operative Blackwell* (2024) / *Director Blackwell* (2026)
 - To enemies: *The Dominion Witch*
 - To believers: *The Heretic*
 - To God: *"The One Who Refuses"*
@@ -14,7 +14,7 @@
 
 ### Background
 
-Lilith Rose Blackwell was 20 years old when Aether arrived in early 2020. A second-year military strategy student, already outperforming her peers. Her future was mapped out: military intelligence, strategic command, a career built on winning.
+Lilith Rose Blackwell was 20 years old when Aether arrived in early 2020. A second-year data analytics student, already outperforming her peers. Her future was mapped out: intelligence analysis, pattern recognition, a career built on seeing what others missed.
 
 Then the "pandemic" hit. And everything changed.
 
@@ -22,7 +22,7 @@ Then the "pandemic" hit. And everything changed.
 - Raised in a cold, high-achieving household
 - Showed signs of antisocial personality disorder from childhood
 - Intellectually brilliant but emotionally absent
-- Planned to become a military strategist — not to serve, but because war is a *game* and she wanted to win
+- Planned to work in intelligence or strategic consulting, not to serve, but because systems are puzzles and she wanted to solve them
 
 **What Made Her Different:**
 Lilith was already unusual before Aether. She had no faith, no fear of death, and no emotional connection to the concept of God. When other children prayed, she evaluated. When others believed, she questioned.
@@ -57,17 +57,19 @@ She did not control Aether in the traditional sense. She *consumed* it.
 
 ### Why God Noticed Her
 
-When Aether arrived, God became aware of something unusual: a human whose soul He couldn't *see*.
+God did not notice Lilith until she killed her first angel in January 2024.
 
-Most humans have Aether signatures tied to their beliefs. God can read them, influence them, guide them toward worship. But Lilith's signature was... absent. A blind spot in His omniscience.
+Before that, she was invisible to Him. Her soul was a blind spot in His omniscience. Most humans have Aether signatures tied to their beliefs. God can read them, influence them, guide them toward worship. But Lilith's signature was absent. She simply did not register.
 
-**He began watching her specifically.**
+**After the angel kill, everything changed.**
 
-Angels appeared near her more than statistically likely. "Coincidences" kept testing her faith. Divine attention surrounded her.
+The death of a divine being created a ripple in the Aether. God felt it. And when He looked for the source, He found something He had never encountered before: a human He could not see, could not read, could not influence.
 
-And Lilith noticed.
+Now He watches her specifically. Angels appear near her more than statistically likely. "Coincidences" keep testing her faith. Divine attention surrounds her.
 
-She didn't react with fear or wonder. She reacted with **analysis**.
+And Lilith notices.
+
+She doesn't react with fear or wonder. She reacts with **analysis**.
 
 > *"If God is paying attention to me specifically, I matter. If I matter, I have leverage. If I have leverage, I can win."*
 
@@ -75,15 +77,22 @@ She didn't react with fear or wonder. She reacted with **analysis**.
 
 ### Her Aether Abilities
 
-Lilith does not control Aether. Not yet.
+In the beginning, Lilith did not control Aether. She only *consumed* it.
 
-She *consumes* it.
+Every trace of Aether that touched her was absorbed and stored. She had no ability to release it, shape it, or wield it in the way other Anomalous individuals did. The energy entered her body and stayed there.
 
-Every trace of Aether that touches her is absorbed and stored. She has no ability to release it, shape it, or wield it in the way other Anomalous individuals do. The energy enters her body and stays there.
+This was not a skill. This was not training. It was simply what she was.
 
-This is not a skill. This is not training. It is simply what she is.
+AETHCOM scientists had no explanation for it. The absorbed Aether did not dissipate. It did not decay. It accumulated. And the reservoir grew larger every day.
 
-AETHCOM scientists have no explanation for it. The absorbed Aether does not dissipate. It does not decay. It accumulates. And the reservoir grows larger every day.
+**Through AETHCOM training (2022-2024):**
+
+Slowly, Lilith learned to access what she had stored. It took two years of intensive work with AETHCOM researchers and field operations to understand her abilities. By the time of her first angel kill in 2024, she could:
+- Channel stored Aether through weapons (her knife glows violet when she wills it)
+- Release controlled bursts of absorbed energy
+- Drain Aether from divine constructs on contact
+
+She is still learning. The reservoir inside her is vast, and she has only scratched the surface of what she can do with it.
 
 **What this means:**
 - She is invisible to divine detection (her Aether signature reads as zero or void)
@@ -102,12 +111,12 @@ From 2020 to 2026, Lilith watched everything unfold:
 
 | Year | What Lilith Did |
 |------|-----------------|
-| 2020 | Aether arrives. 20 years old, working nights at a grocery store while in college. Notices anomalies others ignore. |
-| 2021 | Patterns become undeniable. Quiet deaths begin. She starts keeping a list. |
-| 2022 | Her records start glitching. Taken to underground facility. Classified as Anomalous. The fire incident. |
-| 2023 | Accepted draft into AETHCOM — on her terms. Began climbing. |
-| 2024 | First confirmed angel kill (Prologue). Age 24. Earns her titles. |
-| 2025 | [Key event that elevated her to Director] |
+| 2020 | Aether arrives. 20 years old, second-year college student. Notices statistical anomalies others ignore. |
+| 2021 | Patterns become undeniable. Quiet deaths begin. Vaccine screening flags her as zero reading. Under surveillance. |
+| 2022 | Taken to underground facility. Fire incident confirms Anomalous classification. |
+| 2023 | AETHCOM training. Learning to access and control her stored Aether. First field operations. |
+| 2024 | First confirmed angel kill (Prologue). Age 24. Earns her titles. God notices her. |
+| 2025 | Key operations that prove her value. Rising through ranks. |
 | 2026 | Director Blackwell. Age 26. WW3 begins. The story continues. |
 
 She didn't fight the draft. She *weaponized* it.

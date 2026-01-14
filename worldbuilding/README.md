@@ -40,7 +40,7 @@ This folder contains all lore, reference materials, and consistency tracking for
 | 2026 | WW3 begins — US seizes Greenland and Venezuela |
 
 ### Lilith's Titles
-- To the US: *Director Blackwell*
+- To the US: *Operative Blackwell* (2024) / *Director Blackwell* (2026)
 - To enemies: *The Dominion Witch*
 - To believers: *The Heretic Engine*
 - To God: *"The One Who Refuses"*

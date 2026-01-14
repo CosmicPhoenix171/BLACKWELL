@@ -108,8 +108,8 @@ The world follows real history until 2020. Then Aether changed everything.
 | 2021 | "Vaccine" rollout — actually Aether sensitivity screening on a global scale |
 | 2022 | First Aether weapons tested |
 | 2023 | Mandatory "health screenings" become permanent — Aether detection normalized |
-| 2024 | First drafted Aether-capable citizens disappear into AETHCOM |
-| 2025 | First angel captured and reverse-engineered |
+| 2024 | Public draft program begins — Aether-capable citizens recruited into AETHCOM |
+| 2024 | First confirmed angel kill (Lilith Blackwell) |
 | 2026 | WW3 begins — US begins "acquiring" nations |
 | 2026 | Lilith becomes Director of AETHCOM |
 | [Year] | Current story events |
