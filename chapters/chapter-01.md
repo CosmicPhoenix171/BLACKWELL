@@ -135,19 +135,15 @@ A woman who could make flowers bloom by touching them. She thought she was losin
 
 And me.
 
-They told me what had flagged me in their systems. In March of 2021, a church in my neighborhood had experienced what they called a "mass Aether event." Congregation of two hundred people. Easter Sunday service. Something had gone wrong during the sermon, some surge of collective faith that triggered an uncontrolled manifestation.
+They told me what had flagged me. During my vaccine appointment, the nurse had given me a standard injection. What I didn't know was that the needle contained trace amounts of concentrated Aether. A detection method. Most people showed a minor reaction. Elevated heart rate. Brief dizziness. A flicker on their instruments that told the screeners whether someone was baseline or something more.
 
-Fifty three people died in their pews. Hearts stopped. Brains hemorrhaged. Bodies gave out under the weight of something their nervous systems couldn't process.
+My reading came back zero.
 
-I had been walking past the church when it happened. Just passing by on my way to the library. Close enough that every sensor in a three block radius should have registered me.
+Not low. Not baseline. Zero.
 
-But where everyone else showed up on their instruments as signatures, readings, measurable Aether densities, I showed up as nothing.
+They tested me three more times with increasingly concentrated doses. Nothing. The Aether went into my body and simply vanished. No signature. No reaction. No trace.
 
-A void.
-
-A hole in their data where a person should have been.
-
-They'd been looking for me ever since.
+The nurse had smiled and told me I was done. Behind her, two men in suits were already making phone calls.
 
 They were all scared. Confused. Looking for explanations that would make the world make sense again.
 
