@@ -14,7 +14,7 @@
 
 ### Background
 
-Lilith Rose Blackwell was 20 years old when Aether arrived. A second-year military strategy student, already outperforming her peers. Her future was mapped out: military intelligence, strategic command, a career built on winning.
+Lilith Rose Blackwell was 19 years old when Aether arrived in early 2020. A second-year military strategy student, already outperforming her peers. Her future was mapped out: military intelligence, strategic command, a career built on winning.
 
 Then the "pandemic" hit. And everything changed.
 
@@ -92,13 +92,13 @@ From 2020 to 2026, Lilith watched everything unfold:
 
 | Year | What Lilith Did |
 |------|-----------------|
-| 2020 | Aether arrives mid-semester. Abilities manifest. Understands immediately this changes everything. |
-| 2021 | Continued college. Studied strategy AND Aether privately. Watched AETHCOM form. |
-| 2022 | Flagged as Anomalous in "health screenings." Approached by AETHCOM recruiters. |
+| 2020 | Aether arrives. 19 years old, working nights at a grocery store while in college. Notices anomalies others ignore. |
+| 2021 | Patterns become undeniable. Quiet deaths begin. She starts keeping a list. |
+| 2022 | Her records start glitching. Taken to underground facility. Classified as Anomalous. The fire incident. |
 | 2023 | Accepted draft into AETHCOM — on her terms. Began climbing. |
-| 2024 | First confirmed angel kill (Prologue). Earns her titles. |
+| 2024 | First confirmed angel kill (Prologue). Age 24. Earns her titles. |
 | 2025 | [Key event that elevated her to Director] |
-| 2026 | Director Blackwell. WW3 begins. The story continues. |
+| 2026 | Director Blackwell. Age 26. WW3 begins. The story continues. |
 
 She didn't fight the draft. She *weaponized* it.
 

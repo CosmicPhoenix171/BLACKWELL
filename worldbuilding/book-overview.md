@@ -4,7 +4,7 @@
 
 **Genre:** Dark magic-tech war epic / Divine psychological horror / Villain-protagonist saga
 
-**Logline:** A 20-year-old military strategy student with no empathy discovers she's immune to God's influence when Aether — the physics of belief — reshapes reality. She joins the US military's secret magic division, rises to power, and wages tactical warfare against Heaven itself.
+**Logline:** A 19-year-old military strategy student with no empathy discovers she's immune to God's influence when Aether — the physics of belief — reshapes reality. She joins the US military's secret magic division, rises to power, and wages tactical warfare against Heaven itself.
 
 **Core Theme:** What happens when the most dangerous kind of human — a master tactician with no empathy — is given divine physics and infinite war to exploit?
 
@@ -26,7 +26,7 @@ And at the heart of the war machine: **Lilith Rose Blackwell**.
 
 **Lilith Rose Blackwell** — Currently 26 years old (as of 2026)
 
-- 20 when Aether arrived, displaying Anomalous-tier abilities from day one
+- 19 when Aether arrived, displaying Anomalous-tier abilities from day one
 - Complete lack of faith made her invisible to God's influence
 - Rose through AETHCOM ranks by proving herself in every mission
 - Now Director Blackwell, waging tactical warfare against divine forces
@@ -55,40 +55,31 @@ The book opens with Lilith killing her first angel.
 - No context. No explanation. Just violence and victory.
 - Readers see Director Blackwell at her most terrifying
 - The angel dies in a ruined church in Baltimore. Lilith feels nothing but dark joy.
-- **Hook:** How did an apparent 22-year-old become this?
+- **Hook:** How did a 24-year-old become this?
 
 **Then the story rewinds.**
 
 ---
 
-#### Part 1: Before Aether (Pre-2020)
+#### Chapter One: Containment Failure (2020–2022)
 
-Lilith's life before everything changed:
+Lilith's experience of the "pandemic" and her discovery:
 
-- Her cold, high-achieving upbringing
-- Signs of antisocial personality disorder from childhood
-- Her method of thinking: "What are the rules? How do I exploit them?"
-- Her core belief forming: "If I outthink everyone, I deserve to win"
-- Her studies in military strategy, her planned future
-- **The arrival of Aether** — everything changes
-
----
-
-#### Part 2: Aether Arrives (2020)
-
-The "pandemic" and Lilith's awakening:
-
-- Aether breaks through into reality
-- Lilith can feel it's not a virus — something is wrong with reality itself
-- Her Anomalous-tier abilities manifest immediately
-- Watching the world react while she already understands
-- The cover story taking shape (lockdowns, "health screenings")
-- Her decision: stay in college, study strategy AND Aether
-- God notices her — a void in His omniscience
+- She was 19, a second-year college student when the world shut down
+- Working nights at a grocery store, she notices anomalies: heat near certain people, flickering lights, equipment failures that don't add up
+- Patterns emerge: people who survive impossible things, others who die quietly and are forgotten
+- By 2021, the quiet deaths begin — names that appear once and vanish
+- She starts keeping a list of people who don't fit the official story
+- By early 2022, her own records start glitching — she's being erased from systems
+- They come for her: no uniforms, just offers framed as "safety" and "national interest"
+- Underground facility. They call her an "anomaly"
+- Tests, evaluations, watching others burn out or break
+- The fire incident: another anomaly panics, the room erupts in flame and electrical discharge
+- **The reveal:** Fire curves around Lilith. A perfect circle of stillness. They see it. They decide not to talk about it.
 
 ---
 
-#### Part 3: AETHCOM (2021–2023)
+#### Part 2: AETHCOM (2022–2023)
 
 Lilith's rise through the ranks:
 
