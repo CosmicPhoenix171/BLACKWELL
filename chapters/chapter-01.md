@@ -23,7 +23,7 @@ I never got sick.
 That wasn't unusual. What was unusual was everything that didn't add up.
 The first thing I noticed was the math.
 
-The death rates didn't follow any epidemiological model I could find. I checked. Pulled data from public health departments, cross referenced with population density, age demographics, hospital capacity. The numbers were wrong. Not slightly wrong. Fundamentally wrong.
+The death rates didn't follow any epidemiological model I could find. I checked. Pulled records from public health departments, cross referenced with population density, age demographics, hospital capacity. The numbers were wrong. Not slightly wrong. Fundamentally wrong.
 
 Entire nursing homes would report zero cases while healthy college students dropped dead in their apartments. Rural counties with no hospital access had survival rates that made no sense. Cities with world class medical infrastructure lost patients at random, no pattern to the severity.
 
@@ -35,7 +35,7 @@ The official story said respiratory illness. Pneumonia. Organ failure in severe 
 
 Cremations happened faster than they should have. Funerals were closed casket more often than made sense. Families who asked questions stopped asking.
 
-I noticed the gaps in the public record. News stories that ran once and never got followed up. Local reports that contradicted county data. Hospital capacity numbers that jumped around like someone was editing them in real time.
+I noticed the gaps in the public record. News stories that ran once and never got followed up. Local reports that contradicted county numbers. Hospital capacity figures that jumped around like someone was editing them in real time.
 
 I wrote it all down.
 
@@ -273,7 +273,7 @@ But in that moment, standing in the eye of the storm, I wasn't thinking about he
 
 I wanted to see what would happen.
 
-I wanted data.
+I wanted to understand.
 
 When it was over, smoke rolled along the ceiling. Sprinklers hissed uselessly, finally able to reach the cooling air. Three bodies lay where they'd fallen, unrecognizable.
 
@@ -315,7 +315,7 @@ They knew what I was now. They had a name for it, even if they wouldn't say it o
 
 Anomalous.
 
-The word meant different things to different people. To the doctors, it meant unusual readings. To the security teams, it meant enhanced monitoring. To the researchers, it meant valuable data.
+The word meant different things to different people. To the doctors, it meant unusual readings. To the security teams, it meant enhanced monitoring. To the researchers, it meant a subject worth studying.
 
 But I saw the way Dr. Chen looked at me when she thought I wasn't watching. The way her hand trembled slightly when she made notes on her tablet. The way she stayed exactly three feet away from me at all times. The same radius as that untouched circle on the floor.
 
