@@ -22,31 +22,65 @@ I never got sick.
 
 That wasn't unusual. What was unusual was everything that happened around the people who did.
 
+---
+
 I worked part-time at a grocery store to help cover expenses. Nights, mostly. Shelves still needed stocking even when the rest of the world stopped pretending to function. Fear made people careless. Anger made them loud. Belief made them dangerous in ways no one wanted to name.
 
 The first thing I noticed was heat.
 
-Not fever. Ambient heat. The air would thicken near certain customers. Lights flickered when they panicked. Card readers froze when arguments broke out. Once, a freezer unit failed so violently it warped the metal casing.
+Not fever. Ambient heat. The air would thicken near certain customers. Like standing too close to an open oven, except there was nothing there. Just people. Scared people. Angry people. People praying under their breath while they counted their change.
+
+Lights flickered when they panicked. Card readers froze when arguments broke out. Once, a freezer unit failed so violently it warped the metal casing — bent outward like something had punched it from the inside. The compressor hadn't even been running.
 
 They blamed the grid.
 
 I started paying attention.
 
-By winter, the patterns were impossible to ignore. Entire households exposed, only one person reacting. Some people collapsed within hours. Others walked through it untouched. Severity didn't line up with anything measurable.
+There was a woman who came in every Tuesday around eleven. Always bought the same things: bread, milk, candles, wine. She wore a small gold cross and moved her lips constantly, silently. The lights above her register never worked properly. Not once in three months. Maintenance replaced the bulbs four times.
+
+There was a man who screamed at a cashier over a coupon. His face went red, then purple, then something beyond color. The register sparked. The conveyor belt stopped. Every fluorescent tube in aisle seven popped in sequence, one after another, like dominoes falling toward him.
+
+He didn't notice. He was too busy yelling about fifty cents.
+
+There was a kid, maybe sixteen, who stocked dairy with me on weekends. Nice enough. Quiet. One night he cut his hand on a broken bottle and the blood that hit the floor wasn't quite red. It was darker. Thicker. It spread in patterns that didn't follow gravity.
+
+He was gone the next week. Manager said he transferred. Nobody asked where.
+
+By winter, the patterns were impossible to ignore. Entire households exposed, only one person reacting. Some people collapsed within hours. Others walked through it untouched. Severity didn't line up with anything measurable — not age, not health, not exposure time.
 
 When things went wrong, it was always explained away.
 
 Equipment malfunctions. Power surges. Medical errors corrected just in time. Stories that circulated for a day before disappearing.
 
-People talked about a man who shouldn't have survived a warehouse accident. About a woman whose scream took out an entire aisle's lighting. About a cashier who coded and was declared stable before anyone could ask questions.
+I learned to read the signs.
+
+The temperature shifts. The pressure changes. The way certain people seemed to bend the air around them without knowing it. The way reality itself felt thinner in some moments, like a membrane stretched too tight.
+
+People talked about a man who shouldn't have survived a warehouse accident — a steel beam through his chest, and he walked out of the hospital three days later with nothing but a scar. About a woman whose scream took out an entire aisle's lighting and cracked the windows of every car in the parking lot. About a cashier who coded in the break room and was declared stable before the paramedics even arrived, sitting up and asking what happened while the defibrillator sat unused beside her.
 
 None of it stayed on record long enough to matter.
 
+But I remembered. I always remembered.
+
+---
+
 In 2021, the world decided it was tired of being afraid. Restrictions loosened. Memorials went up. People wanted an ending badly enough to accept one that didn't make sense.
+
+I watched them line up for vaccines that seemed to do more than prevent illness. Watched the subtle screening process hidden in medical questionnaires. Watched the way certain people were pulled aside after their shots — just for "additional monitoring," the nurses said. Standard procedure.
+
+Some of those people came back. Some didn't.
+
+The news moved on to other things. The economy. Politics. Celebrity drama. Anything but the questions no one wanted to ask.
 
 That's when the deaths started changing.
 
-Not the loud ones from the early days. Quiet deaths. Accidents. Fires that left nothing identifiable. Collapses caught on cameras that malfunctioned at the wrong moment. Names that appeared once in local news and were never followed up.
+Not the loud ones from the early days. Quiet deaths. Accidents that shouldn't have been fatal. Fires that left nothing identifiable. Collapses caught on cameras that malfunctioned at the wrong moment. Names that appeared once in local news and were never followed up.
+
+Car crashes where the bodies were burned beyond recognition but the gas tanks were still full.
+
+House fires where the smoke alarms had been mysteriously disabled.
+
+Drownings in bathtubs. Falls down stairs. Heart attacks in healthy twenty-year-olds.
 
 I started writing them down.
 
@@ -56,55 +90,189 @@ People who survived things they shouldn't have.
 People who were always nearby when something failed.
 People whose presence seemed to make outcomes worse or better without touching anything.
 
+I filled three notebooks that year. Names. Dates. Locations. Patterns.
+
+The notebook showed me what the news wouldn't say: it wasn't random. The deaths clustered around certain types of people. The survivors clustered around others. Something was selecting for specific traits, and I couldn't figure out what.
+
 By the end of the year, half the names on my list were officially dead.
+
+The other half had vanished entirely — no obituaries, no forwarding addresses, no trace they'd ever existed except in my handwriting.
+
+---
 
 By early 2022, I started noticing gaps where my name should have been.
 
-Not all at once. Just enough to notice. Medical portals stopped updating. Employment records lagged. Applications returned errors instead of rejections. I still existed — just not anywhere centralized.
+Not all at once. Just enough to notice.
+
+Medical portals stopped updating. My vaccination record showed dates that didn't match my memory. Employment records lagged three months behind reality. Applications returned errors instead of rejections.
+
+I tried to renew my driver's license and the system couldn't find me. I existed — Social Security confirmed it, reluctantly — but I wasn't quite *there* in the way I should have been.
+
+My student loans were still current. My bank account still worked. But something in the digital infrastructure of my life had started to fray.
+
+I wasn't being deleted. I was being *uncoupled*. Separated from the systems that tracked everyone else.
+
+Someone was making it easier to make me disappear.
 
 They came for me a month later.
 
-No uniforms. No threats. Just an offer framed in language about safety, evaluation, and national interest. Temporary relocation. Confidentiality. Non-disclosure agreements written for people who didn't have a choice.
+No uniforms. No threats. Just two people in business casual who knew my name, my class schedule, and the location of every security camera on campus. They met me outside the library at 3:17 AM, precisely when I always left after late-night study sessions.
 
-The facility was underground. Old. Military-adjacent in the way nobody admits to.
+The woman smiled. The man didn't.
+
+"Miss Blackwell," the woman said. Her voice was pleasant. Professional. The kind of voice that never raised and never needed to. "We'd like to discuss an opportunity."
+
+"I have class in six hours."
+
+"No," she said, still smiling. "You don't. Your professors have been notified of a family emergency. Your absence has been excused for the remainder of the semester."
+
+The man handed me a phone. On the screen: my mother's contact information, my father's work schedule, my sister's dormitory address at another university three states away. Photos of each of them, timestamped within the last hour.
+
+"We're not threatening you," the woman said. "We're informing you. There are things happening in the world that most people aren't equipped to understand. You've noticed more than most. That makes you valuable."
+
+"And if I decline?"
+
+"You won't." She was still smiling. "You're too curious. You've been tracking this for two years. You want answers more than you want safety."
+
+She was right. I hated that she was right.
+
+"What's really happening?" I asked.
+
+The woman's smile finally reached her eyes. "Come with us and find out."
+
+---
+
+The facility was underground. Old. Military-adjacent in the way nobody admits to — the kind of place that existed on maps as "utility access" or "geological survey station" and had more security than most embassies.
+
+They drove for four hours with the windows blacked out. I counted turns. Tracked speed changes. Estimated distance based on road noise. They knew I was doing it. They didn't seem to care.
+
+The elevator went down for a long time.
+
+The corridors were concrete and fluorescent. Clean but not sterile. Lived-in, in a permanent way. People had been working here for years. Maybe decades.
 
 They didn't call us patients.
 
 They called us anomalies.
 
-There weren't many of us. A small group pulled from everywhere. Different ages. Different backgrounds. The only thing we had in common was that we'd been close to too many failures and survived all of them.
+There weren't many of us. A small group pulled from everywhere. Different ages. Different backgrounds. Different stories about how they'd been found.
+
+The only thing we had in common was that we'd been close to too many failures and survived all of them.
+
+A man in his fifties who'd worked in a hospital during the first wave. Every patient in his ward survived. Every single one. Statistically impossible. He couldn't explain it.
+
+A teenager who'd been in a car crash that killed four people. She walked away without a scratch. The car had folded around her like a protective shell.
+
+A veteran who'd been at the epicenter of a "gas leak" that leveled a building. He was found in the rubble, unharmed, surrounded by a perfect circle of debris that hadn't touched him.
+
+A woman who could make flowers bloom by touching them. She thought she was losing her mind until they showed her the lab results.
+
+And me. The girl who noticed too much and got sick from none of it.
+
+They were all scared. Confused. Looking for explanations that would make the world make sense again.
+
+I wasn't scared. I was *finally* getting data.
+
+---
 
 The tests were medical and psychological.
 
 Blood work. Imaging. Cognitive assessments. Stress-response profiling. Long interviews designed to circle the same questions from different angles until someone slipped.
 
+They put sensors on our skin and measured things that didn't have names yet. They asked us to concentrate on objects and recorded what happened. They pushed us to emotional extremes and tracked the spikes on their machines.
+
 They were looking for limits.
 
 Most people found theirs quickly.
+
+The man from the hospital could accelerate healing in others, but it drained him. After three demonstrations, he collapsed and didn't wake up for two days.
+
+The teenager's protection was passive and instinctive. She couldn't control it. She couldn't turn it off. She couldn't extend it to anyone else. Useful, but limited.
+
+The veteran's survival field was strong but localized. Maybe ten feet in radius when he focused. He passed out if he pushed it further.
+
+The flower woman's gift was beautiful and completely useless for their purposes. They transferred her somewhere else after a week. I never saw her again.
 
 Some burned out.
 Some broke.
 Some were removed and never mentioned again.
 
+The tests showed me something none of the others seemed to grasp: they weren't measuring our abilities.
+
+They were measuring our *compatibility* with something. Some baseline they were trying to match. Most of us fell within certain ranges. Some exceeded them. A few — a very few — didn't register on their scales at all.
+
+I was one of those few.
+
+---
+
 I didn't feel stronger.
 
 I felt quieter.
 
-My vitals stabilized faster. Stress markers dropped instead of spiking. Neural activity flattened where theirs surged. Whatever they were measuring, I wasn't reacting the way they expected.
+My vitals stabilized faster than anyone else's. Stress markers dropped instead of spiking. Neural activity flattened where theirs surged. When they pushed me to emotional extremes, my body responded by becoming *more* calm. More controlled. More still.
+
+Whatever they were measuring, I wasn't reacting the way they expected.
+
+"Your readings are unusual," Dr. Chen said during one evaluation. She was the lead researcher — fifty-something, grey-streaked hair pulled back tight, glasses that she looked over rather than through. "Most subjects show elevated activity when exposed to Aether-dense environments. Your activity actually decreases."
+
+"What's Aether?"
+
+She looked at me for a long moment. Then she pulled up a chart on her tablet.
+
+"What we've been calling the pandemic," she said carefully, "was a cover story. In early 2020, a research team discovered a new fundamental force. Something that reacts to human consciousness. We've been trying to understand it ever since."
+
+"And the deaths?"
+
+"Aether exposure affects different people differently. Some adapt. Some... don't." She paused. "You've adapted better than anyone we've ever seen."
+
+"Why?"
+
+"We don't know." She didn't try to hide her frustration. "Most people have a baseline Aether signature. Beliefs, fears, emotional patterns that the field can interact with. Yours is..." She scrolled through more data. "Yours is almost absent. Like there's nothing for it to grab onto."
+
+I thought about that. About the way I'd always felt separate from things other people found compelling. Faith. Hope. Fear. Love. I understood these concepts intellectually. I could recognize them in others. But experiencing them?
+
+That had always been someone else's territory.
+
+"Is that good or bad?"
+
+Dr. Chen looked at me with an expression I couldn't quite read. Something between scientific fascination and professional concern.
+
+"We're still trying to figure that out."
+
+---
 
 During one evaluation, another anomaly panicked.
+
+His name was Marcus. Early thirties. Former EMT. He'd been stable for weeks, participating in tests, following instructions, doing everything right.
+
+Then they showed him footage of an angel.
+
+I don't know what they expected to happen. Maybe they wanted to see how we'd react to proof of the divine. Maybe they wanted to measure our Aether signatures when confronted with something that shouldn't exist.
+
+The video was grainy. Security camera footage from somewhere overseas. A figure with wings — six of them, three on each side — descending through clouds toward a burning village. It moved wrong. Too smooth. Too fast. Too *perfect*.
+
+The figure raised its hand and the fire stopped. Just stopped. Flames that had been consuming buildings froze in place, then reversed, pulling back into themselves until nothing remained but smoke and silence.
+
+Then the angel turned toward the camera.
+
+Its face was beautiful. Inhuman. Wrong in a way that made my skin crawl even through a screen.
+
+"Turn it off," Marcus whispered. His hands were shaking. "Turn it off. Turn it OFF—"
 
 It started with his breathing. Shallow. Rapid. His heart rate spiked hard enough to trigger alarms across the room. Technicians moved in, voices raised, hands reaching for restraints that never quite made contact.
 
 Fear fed on itself.
 
-The temperature jumped in an instant. Not warmth — heat. The air ionized. Lights burst overhead in sharp white pops. A crack of sound split the room as electrical discharge arced from his body into the nearest equipment.
+The temperature jumped in an instant. Not warmth — heat. Blistering, impossible heat that came from nowhere and everywhere at once. The air ionized. Static crackled across my skin. I could taste metal on my tongue.
+
+Lights burst overhead in sharp white pops. A crack of sound split the room as electrical discharge arced from his body into the nearest equipment. Monitors exploded. Keyboards melted. The smell of burning plastic filled the air.
 
 Fire followed.
 
 Not a wave. An eruption.
 
-The table ignited. Monitors exploded. A nurse caught the discharge full in the chest and dropped without a sound. Another screamed once before the fire took her oxygen and her voice with it.
+The table ignited. The walls blackened. A nurse caught the discharge full in the chest and dropped without a sound, smoke rising from the hole in her scrubs. Another screamed once before the fire took her oxygen and her voice with it.
+
+Someone triggered an emergency alarm. Sprinklers activated overhead but the water evaporated before it reached the flames. The heat was too intense. The Aether was too concentrated.
 
 The room became noise and light and panic.
 
@@ -112,17 +280,39 @@ Except where I stood.
 
 The fire curved away from me.
 
-The electrical arcs bent, snapping around an invisible boundary. The floor beneath my feet remained untouched — no scorch marks, no melted tile, no heat. A perfect sphere of stillness, carved clean out of the chaos.
+I watched it happen. Watched the flames bend like water flowing around a stone. Watched the electrical arcs snap and redirect, deflecting around an invisible boundary that I hadn't consciously created. The floor beneath my feet remained untouched — no scorch marks, no melted tile, no heat.
+
+A perfect sphere of stillness, carved clean out of the chaos.
 
 I didn't move.
 
 I didn't have to.
 
-When it was over, smoke rolled along the ceiling. Sprinklers hissed uselessly. Three bodies lay where they'd fallen.
+The world was ending around me and I stood in the eye of the storm, observing. Cataloging. *Analyzing*.
 
-The anomaly survived.
+Marcus was at the center of it all. His eyes were rolled back. His body was convulsing. The Aether was pouring out of him in waves, uncontrolled, unleashed by terror and trauma and something that had broken inside his mind.
+
+I could have helped. Maybe. I didn't know my limits yet. Didn't know what I was capable of.
+
+But I wanted to see what would happen.
+
+I wanted data.
+
+---
+
+When it was over, smoke rolled along the ceiling. Sprinklers hissed uselessly, finally able to reach the cooling air. Three bodies lay where they'd fallen, unrecognizable.
+
+The room was destroyed. Walls scorched black. Equipment melted into unrecognizable slag. Emergency lights flickered through the haze.
+
+Marcus survived.
 
 Barely.
+
+They found him unconscious at the center of the blast zone, curled in a fetal position. His Aether had burned itself out. He would live, but the doctors said he'd never manifest again. The fire had consumed something essential.
+
+I stood exactly where I'd been standing when it started. Untouched. Unburned. Not even sweat on my skin.
+
+Security teams flooded the room. Medical personnel followed. Researchers with tablets and instruments, already measuring, already documenting.
 
 Later, the report would call it a catastrophic equipment failure compounded by subject instability. Thermal event. Electrical surge. Human error.
 
@@ -130,10 +320,32 @@ They would seal the file.
 
 What they couldn't seal was the outline on the floor.
 
-A clean circle around me.
+A clean circle around me. Three feet in diameter. Perfect edges where the fire had stopped and the burning had ended and I had simply *been*.
 
 Untouched.
 
 I watched them see it.
 
-I watched them decide not to talk about it.
+I watched them photograph it.
+
+I watched them measure it with instruments that beeped and whirred.
+
+I watched them look at me with something new in their eyes. Not fear exactly. Something more complicated. Something that looked almost like recognition.
+
+And I watched them decide not to talk about it.
+
+Not to me. Not to each other. Not in any report that would leave this facility.
+
+They knew what I was now. They had a name for it, even if they wouldn't say it out loud.
+
+Anomalous.
+
+The word meant different things to different people. To the doctors, it meant unusual readings. To the security teams, it meant enhanced monitoring. To the researchers, it meant valuable data.
+
+But I saw the way Dr. Chen looked at me when she thought I wasn't watching. The way her hand trembled slightly when she made notes on her tablet. The way she stayed exactly three feet away from me at all times — the same radius as that untouched circle on the floor.
+
+To her, *anomalous* meant something else.
+
+It meant *dangerous*.
+
+And she was right.
