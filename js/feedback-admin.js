@@ -11,12 +11,17 @@ class FeedbackAdmin {
     }
     
     async init() {
-        authManager.onReady(async (user) => {
-            if (user && this.isAdmin(user.email)) {
-                await this.loadFeedback();
-                this.renderAdminPanel();
+        const checkReady = setInterval(() => {
+            if (window.authManager) {
+                clearInterval(checkReady);
+                window.authManager.onReady(async (user) => {
+                    if (user && this.isAdmin(user.email)) {
+                        await this.loadFeedback();
+                        this.renderAdminPanel();
+                    }
+                });
             }
-        });
+        }, 100);
     }
     
     isAdmin(email) {

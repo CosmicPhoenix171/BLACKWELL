@@ -13,9 +13,9 @@ class NotesHighlight {
     async init() {
         // Wait for auth to be ready
         const checkReady = setInterval(() => {
-            if (typeof authManager !== 'undefined') {
+            if (window.authManager) {
                 clearInterval(checkReady);
-                authManager.onReady(() => {
+                window.authManager.onReady(() => {
                     this.createNoteUI();
                     this.setupTextSelection();
                     this.loadPublicAnnotations();
@@ -167,9 +167,9 @@ class NotesHighlight {
     }
     
     showNoteButton(x, y) {
-        if (!authManager.isLoggedIn()) {
+        if (!window.authManager.isLoggedIn()) {
             this.noteButton.innerHTML = '🔐 Sign in to add notes';
-            this.noteButton.onclick = () => authManager.signIn();
+            this.noteButton.onclick = () => window.authManager.signIn();
         } else {
             this.noteButton.innerHTML = '📝 Add Note';
             this.noteButton.onclick = () => this.openNoteModal();
@@ -185,8 +185,8 @@ class NotesHighlight {
     }
     
     openNoteModal() {
-        if (!authManager.isLoggedIn()) {
-            authManager.signIn();
+        if (!window.authManager.isLoggedIn()) {
+            window.authManager.signIn();
             return;
         }
         
@@ -203,7 +203,7 @@ class NotesHighlight {
     }
     
     async submitNote() {
-        if (!authManager.isLoggedIn()) return;
+        if (!window.authManager.isLoggedIn()) return;
         
         const noteType = this.noteModal.querySelector('#note-type').value;
         const noteText = this.noteModal.querySelector('#note-text').value.trim();
@@ -215,7 +215,7 @@ class NotesHighlight {
         
         try {
             const { rtdb, ref, push, set } = window.firebaseRTDB;
-            const user = authManager.getUser();
+            const user = window.authManager.getUser();
             const path = this.getChapterPath();
             
             const annotationRef = push(ref(rtdb, path));
@@ -372,7 +372,7 @@ class NotesHighlight {
         annotations.forEach((annotation, index) => {
             const time = this.formatTime(annotation.timestamp);
             const typeEmoji = this.getTypeEmoji(annotation.noteType);
-            const isOwner = authManager.isLoggedIn() && authManager.getUser().uid === annotation.userId;
+            const isOwner = window.authManager.isLoggedIn() && window.authManager.getUser().uid === annotation.userId;
             
             html += `
                 <div class="annotation-item" data-id="${annotation.id}">
@@ -403,10 +403,10 @@ class NotesHighlight {
     }
     
     async deleteAnnotation(id) {
-        if (!authManager.isLoggedIn()) return;
+        if (!window.authManager.isLoggedIn()) return;
         
         const annotation = this.annotations.get(id);
-        if (!annotation || annotation.userId !== authManager.getUser().uid) {
+        if (!annotation || annotation.userId !== window.authManager.getUser().uid) {
             this.showToast('❌ You can only delete your own notes');
             return;
         }
@@ -469,3 +469,4 @@ class NotesHighlight {
 
 // Initialize notes system
 const notesHighlight = new NotesHighlight();
+window.notesHighlight = notesHighlight;

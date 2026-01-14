@@ -11,15 +11,20 @@ class ReadingProgress {
     
     async init() {
         // Wait for auth to be ready
-        authManager.onReady(() => {
-            this.loadProgress();
-            this.setupScrollTracking();
-            this.createProgressUI();
-        });
+        const checkReady = setInterval(() => {
+            if (window.authManager) {
+                clearInterval(checkReady);
+                window.authManager.onReady(() => {
+                    this.loadProgress();
+                    this.setupScrollTracking();
+                    this.createProgressUI();
+                });
+            }
+        }, 100);
     }
     
     async loadProgress() {
-        if (!authManager.isLoggedIn()) return;
+        if (!window.authManager.isLoggedIn()) return;
         
         const params = this.getParams();
         if (!params.book || !params.chapter) return;
@@ -29,7 +34,7 @@ class ReadingProgress {
         
         try {
             const { db, doc, getDoc } = window.firebaseDB;
-            const user = authManager.getUser();
+            const user = window.authManager.getUser();
             
             const progressRef = doc(db, 'users', user.uid, 'progress', `${params.book}-${params.chapter}`);
             const progressDoc = await getDoc(progressRef);
@@ -90,12 +95,12 @@ class ReadingProgress {
     }
     
     async saveProgress() {
-        if (!authManager.isLoggedIn()) return;
+        if (!window.authManager.isLoggedIn()) return;
         if (!this.currentBook || !this.currentChapter) return;
         
         try {
             const { db, doc, setDoc, serverTimestamp } = window.firebaseDB;
-            const user = authManager.getUser();
+            const user = window.authManager.getUser();
             
             const progressRef = doc(db, 'users', user.uid, 'progress', `${this.currentBook}-${this.currentChapter}`);
             await setDoc(progressRef, {
@@ -132,7 +137,7 @@ class ReadingProgress {
         bookmarkBtn.title = 'Mark your place';
         bookmarkBtn.onclick = () => this.markPlace();
         
-        if (authManager.isLoggedIn()) {
+        if (window.authManager.isLoggedIn()) {
             document.body.appendChild(bookmarkBtn);
         }
         
@@ -148,7 +153,7 @@ class ReadingProgress {
     }
     
     async markPlace() {
-        if (!authManager.isLoggedIn()) {
+        if (!window.authManager.isLoggedIn()) {
             alert('Please sign in to bookmark your place!');
             return;
         }

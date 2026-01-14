@@ -133,3 +133,4 @@ class AuthManager {
 
 // Global auth manager instance
 const authManager = new AuthManager();
+window.authManager = authManager;
