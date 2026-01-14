@@ -252,7 +252,7 @@ She is running a universe-scale experiment. If God cannot stop her... He is not 
 
 ### [AETHCOM Rival]
 - **Role**: [Position within AETHCOM]
-- **Relationship to Lilith**: Political enemy / competitor for Director position
+- **Relationship to Lilith**: Political enemy / competitor for influence
 - **Notes**: [TBD]
 
 ### Lilith's Family

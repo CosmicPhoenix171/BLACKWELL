@@ -34,7 +34,7 @@ And at the heart of the war machine: **Lilith Rose Blackwell**.
 **Her Titles:**
 - To the US: *Operative Blackwell* (2024)
 - To enemies: *The Dominion Witch*
-- To believers: *The Heretic Engine*
+- To believers: *The Heretic*
 - To God: *"The One Who Refuses"*
 
 ---
@@ -102,7 +102,7 @@ Building to the opening scene:
 - **Catches up to the opening scene**
 - The angel dies
 - Aftermath: What this means for the war, for God, for Lilith's reputation
-- She earns her titles: The Dominion Witch, The Heretic Engine
+- She earns her titles: The Dominion Witch, The Heretic
 
 ---
 
@@ -111,7 +111,7 @@ Building to the opening scene:
 - Lilith is now a confirmed angel-killer
 - AETHCOM recognizes her value
 - God takes notice — His first direct response
-- **Setup for Book 2:** Lilith's path to Director, WW3 approaching
+- **Setup for Book 2:** WW3 approaching, Lilith's rising influence
 
 ---
 

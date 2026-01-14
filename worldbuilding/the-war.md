@@ -40,7 +40,7 @@ Any US citizen who displays **higher than normal Aether abilities** is:
 | Elevated | Slightly above average, occasional intuition | Monitored |
 | Significant | Clear Aether manipulation potential | Drafted |
 | Exceptional | Rare, powerful abilities | Drafted, priority training |
-| Anomalous | Off-scale readings | Drafted, Director-level oversight |
+| Anomalous | Off-scale readings | Drafted, high-level oversight |
 
 Lilith Blackwell is classified as **Anomalous**.
 
@@ -53,7 +53,7 @@ Lilith Blackwell is classified as **Anomalous**.
 | Field Operations | Combat mages, strike teams |
 | Containment | Handling divine entities, angel batteries |
 | Counter-Divine | Specifically hunting God's agents |
-| The Directorate | Command structure — Lilith operates here |
+| The Directorate | Command structure — Lilith works within this division |
 
 ### Where AETHCOM Operates
 - Hidden bases within existing military installations
@@ -111,7 +111,6 @@ The world follows real history until 2020. Then Aether changed everything.
 | 2024 | Public draft program begins — Aether-capable citizens recruited into AETHCOM |
 | 2024 | First confirmed angel kill (Lilith Blackwell) |
 | 2026 | WW3 begins — US begins "acquiring" nations |
-| 2026 | Lilith becomes Director of AETHCOM |
 | [Year] | Current story events |
 
 ### The Spark: Greenland and Venezuela

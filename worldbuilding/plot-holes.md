@@ -26,6 +26,16 @@
 ✅ 17. Characters.md - Removed Director title and timeframe placeholder
 ✅ 18. Factions.md - Changed "Director of AETHCOM" to "Operative"
 
+### Third Sweep (Issues 19-25)
+
+✅ 19. The-war.md - Removed "Lilith becomes Director of AETHCOM" from 2026 timeline
+✅ 20. The-war.md - Changed "Director-level oversight" to "high-level oversight"
+✅ 21. The-war.md + Factions.md - Changed "Lilith operates here" to "Lilith works within this division"
+✅ 22. Book-overview.md - Removed "Lilith's path to Director" from Book 1 Ending
+✅ 23. Characters.md - Changed "competitor for Director position" to "competitor for influence"
+✅ 24. README.md - Changed "Lilith's Aether will" to "Lilith's absorbed Aether"
+✅ 25. Book-overview.md + README.md - Standardized "The Heretic Engine" → "The Heretic"
+
 ### Minor Style Notes (Resolved)
 
 ✅ Prologue "incantations" - Kept as-is (her way of willing Aether through verbal focus)
@@ -52,6 +62,12 @@
 - **Operative Blackwell** (2024) - Only confirmed title
 - No Director title in current worldbuilding
 
+### Standardized Titles
+- To the US: *Operative Blackwell* (2024)
+- To enemies: *The Dominion Witch*
+- To believers: *The Heretic*
+- To God: *"The One Who Refuses"*
+
 ---
 
-*Last updated: January 2026 - All Issues Resolved*
+*Last updated: January 2026 - Third Sweep Complete*

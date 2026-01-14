@@ -42,7 +42,7 @@ The secret military branch at the heart of US power. Officially does not exist.
 | Field Operations | Combat mages, strike teams |
 | Containment | Divine entities, angel batteries |
 | Counter-Divine | Hunting God's agents specifically |
-| The Directorate | Command structure — Lilith operates here |
+| The Directorate | Command structure — Lilith works within this division |
 
 ### Draft Protocol
 Any citizen with higher-than-normal Aether abilities is:

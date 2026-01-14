@@ -42,7 +42,7 @@ This folder contains all lore, reference materials, and consistency tracking for
 ### Lilith's Titles
 - To the US: *Operative Blackwell* (2024)
 - To enemies: *The Dominion Witch*
-- To believers: *The Heretic Engine*
+- To believers: *The Heretic*
 - To God: *"The One Who Refuses"*
 
 ---
@@ -53,7 +53,7 @@ This folder contains all lore, reference materials, and consistency tracking for
 1. Aether reacts to consciousness — thought, belief, intent
 2. Collective belief over time creates thought-forms (including God)
 3. Individual willpower can shield against divine influence
-4. Lilith's Aether will makes her invisible to God's omniscience
+4. Lilith's absorbed Aether makes her invisible to God's omniscience
 
 ### God's Cage
 1. God can only do what people believe He can do
