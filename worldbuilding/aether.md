@@ -65,7 +65,7 @@ When enough Aether is released at once, it behaves like **plasma** — superheat
 
 ### Properties
 - **Visibility**: Normally invisible; manifests as golden plasma when concentrated
-- **Color**: Golden by default; shifts based on user's will and intent (Lilith's burns violet/purple)
+- **Color**: Golden by default; shifts based on user's will and intent (Lilith's burns crimson red with gold lightning)
 - **Density**: Can be compressed into solid forms (weapons, shields) but reverts over time
 - **Detection**: Measured via specialized sensors; AETHCOM has screening tech
 
@@ -111,7 +111,7 @@ See: [Technology](technology.md) for full weapons catalog.
 
 ## Lilith's Unique Aether Signature
 
-Lilith's Aether manifests as **violet/purple fire** — the color of dying stars.
+Lilith's Aether manifests as **crimson red fire laced with gold lightning** — blood and divinity intertwined.
 
 **Her nature (from 2020):**
 - Absorbs all Aether that touches her
@@ -119,7 +119,7 @@ Lilith's Aether manifests as **violet/purple fire** — the color of dying stars
 - Originally had no ability to release or control it
 
 **Her trained abilities (by 2024):**
-- Can channel stored Aether through weapons (her knife glows purple)
+- Can channel stored Aether through weapons (her knife burns crimson with gold arcs)
 - Can release controlled bursts of absorbed energy
 - Drains Aether from divine constructs on contact
 - Shielding against divine perception
