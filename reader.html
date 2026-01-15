@@ -6,24 +6,36 @@
     <title>LILITH BLACKWELL - Chapter Reader</title>
     <link rel="stylesheet" href="css/style.css">
     <style>
-        /* Reader-specific styles - Book-like formatting */
+        /* Reader-specific styles - Book-like formatting with pagination */
+        :root {
+            --page-height: calc(100vh - 200px);
+        }
+        
         .reader-container {
-            max-width: 680px;
+            max-width: 720px;
             margin: 0 auto;
-            padding: 60px 40px 80px;
+            padding: 40px 40px 20px;
             background: linear-gradient(to bottom, var(--light-bg) 0%, #0a0d12 100%);
+            min-height: 100vh;
         }
         
         #chapter-title {
             font-family: var(--font-heading);
             text-align: center;
             color: var(--accent-color);
-            font-size: 2rem;
-            margin-bottom: 60px;
+            font-size: 1.8rem;
+            margin-bottom: 30px;
             border-bottom: 1px solid var(--border-color);
-            padding-bottom: 30px;
+            padding-bottom: 20px;
             letter-spacing: 3px;
             text-transform: uppercase;
+        }
+        
+        /* Page container */
+        .page-wrapper {
+            position: relative;
+            min-height: var(--page-height);
+            overflow: hidden;
         }
         
         #chapter-content {
@@ -32,6 +44,10 @@
             line-height: 1.9;
             color: var(--text-color);
             letter-spacing: 0.2px;
+            column-width: 100%;
+            column-gap: 0;
+            height: var(--page-height);
+            overflow: hidden;
         }
         
         /* Hide the H1 since we show title separately */
@@ -136,8 +152,8 @@
         }
         
         #chapter-nav {
-            margin-top: 80px;
-            padding-top: 40px;
+            margin-top: 30px;
+            padding-top: 20px;
             border-top: 1px solid var(--border-color);
         }
         
@@ -159,6 +175,7 @@
             border-radius: 6px;
             font-weight: 500;
             transition: all 0.3s ease;
+            cursor: pointer;
         }
         
         .nav-btn:hover {
@@ -175,6 +192,70 @@
         
         .nav-btn.list-btn {
             background: transparent;
+        }
+        
+        /* Page Navigation */
+        .page-nav {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+            margin: 20px 0;
+            padding: 15px 0;
+            border-top: 1px solid var(--border-color);
+            user-select: none;
+        }
+        
+        .page-btn {
+            font-family: var(--font-ui);
+            padding: 12px 24px;
+            background: transparent;
+            color: var(--accent-color);
+            border: 1px solid var(--accent-color);
+            border-radius: 4px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        
+        .page-btn:hover:not(:disabled) {
+            background: var(--accent-color);
+            color: var(--primary-color);
+        }
+        
+        .page-btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+            border-color: var(--border-color);
+            color: var(--text-muted);
+        }
+        
+        .page-indicator {
+            font-family: var(--font-ui);
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            min-width: 100px;
+            text-align: center;
+        }
+        
+        /* Keyboard hint */
+        .keyboard-hint {
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            font-family: var(--font-ui);
+            opacity: 0.6;
+            margin-bottom: 10px;
+        }
+        
+        .keyboard-hint kbd {
+            display: inline-block;
+            padding: 3px 8px;
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            font-family: inherit;
+            margin: 0 2px;
         }
         
         .error {
