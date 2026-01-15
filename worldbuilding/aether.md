@@ -56,9 +56,21 @@ This is why He's currently escalating His appearances and miracles — to *expan
 
 ### Properties
 - **Visibility**: Normally invisible; manifests as colored light when concentrated
-- **Color**: Varies by user/intent — Lilith's Aether burns violet/purple
+- **Natural Color**: Raw Aether glows **golden** when released in quantity — the same gold as angel blood
+- **User Color**: Varies by individual intent — Lilith's Aether burns violet/purple (unique to her)
+- **Plasma State**: When enough Aether is released at once, it behaves like plasma — superheated, ionized, destructive
 - **Density**: Can be compressed into solid forms (weapons, shields)
 - **Detection**: Measured via specialized sensors; AETHCOM has screening tech
+
+### Raw Aether vs. Channeled Aether
+| Type | Behavior | Color | Control |
+|------|----------|-------|---------|
+| Ambient | Invisible field, reacts to belief | None | Passive |
+| Channeled | Controlled by user's will | User-specific | High |
+| Raw Release | Plasma-like, explosive | Golden | Low — chaotic |
+| Divine | Structured by millennia of faith | Golden-white | Absolute (angels) |
+
+**Note:** Angel blood runs gold because they are made of condensed, structured Aether. When Lilith kills them, she is literally spilling divine plasma.
 
 ### Interaction with Consciousness
 - Responds to focused will, intent, and belief
