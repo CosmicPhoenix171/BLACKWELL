@@ -190,9 +190,14 @@ main {
     font-family: var(--font-heading);
     font-size: 2rem;
     letter-spacing: 4px;
-    color: var(--white);
     margin-bottom: 1.5rem;
     font-weight: 600;
+    background: linear-gradient(180deg, #dc2626 0%, #b91c1c 40%, #d4a84b 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-shadow: none;
+    filter: drop-shadow(0 2px 8px rgba(212, 168, 75, 0.4));
 }
 
 .tagline {
