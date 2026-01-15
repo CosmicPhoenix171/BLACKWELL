@@ -1,9 +1,4 @@
-// Chapter Reader - Loads and displays markdown chapters with pagination
-
-// Pagination state
-let currentPage = 1;
-let totalPages = 1;
-let allContent = '';
+// Chapter Reader - Loads and displays markdown chapters
 
 // Simple markdown to HTML converter with book-like formatting
 function parseMarkdown(md) {
@@ -155,11 +150,8 @@ async function loadChapter() {
         
         const markdown = await response.text();
         
-        // Parse and store all content
-        allContent = parseMarkdown(markdown);
-        
-        // Initialize pagination
-        initPagination();
+        // Parse and display
+        contentDiv.innerHTML = parseMarkdown(markdown);
         
         // Build navigation
         buildNavigation(params, bookData, chapterData);
@@ -167,126 +159,6 @@ async function loadChapter() {
     } catch (error) {
         contentDiv.innerHTML = `<p class="error">Error loading chapter: ${error.message}</p>`;
     }
-}
-
-// Initialize pagination system
-function initPagination() {
-    const contentDiv = document.getElementById('chapter-content');
-    const pageWrapper = document.querySelector('.page-wrapper');
-    
-    // Create a hidden measurer div
-    const measurer = document.createElement('div');
-    measurer.style.cssText = 'position: absolute; visibility: hidden; width: ' + contentDiv.offsetWidth + 'px;';
-    measurer.innerHTML = allContent;
-    document.body.appendChild(measurer);
-    
-    // Get computed height available for content
-    const pageHeight = pageWrapper.offsetHeight || (window.innerHeight - 280);
-    
-    // Split content into pages by elements
-    const elements = Array.from(measurer.children);
-    const pages = [];
-    let currentPageContent = [];
-    let currentHeight = 0;
-    
-    elements.forEach((el, index) => {
-        const elHeight = el.offsetHeight + parseInt(getComputedStyle(el).marginBottom) + parseInt(getComputedStyle(el).marginTop);
-        
-        if (currentHeight + elHeight > pageHeight && currentPageContent.length > 0) {
-            // Start new page
-            pages.push(currentPageContent.join(''));
-            currentPageContent = [];
-            currentHeight = 0;
-        }
-        
-        currentPageContent.push(el.outerHTML);
-        currentHeight += elHeight;
-    });
-    
-    // Don't forget the last page
-    if (currentPageContent.length > 0) {
-        pages.push(currentPageContent.join(''));
-    }
-    
-    // Clean up measurer
-    document.body.removeChild(measurer);
-    
-    // If no pages were created, just show all content as one page
-    if (pages.length === 0) {
-        pages.push(allContent);
-    }
-    
-    // Store pages globally
-    window.chapterPages = pages;
-    totalPages = pages.length;
-    currentPage = 1;
-    
-    // Check URL for page parameter
-    const urlParams = new URLSearchParams(window.location.search);
-    const pageParam = parseInt(urlParams.get('page'));
-    if (pageParam && pageParam > 0 && pageParam <= totalPages) {
-        currentPage = pageParam;
-    }
-    
-    // Display first page
-    showPage(currentPage);
-    
-    // Set up page navigation
-    setupPageNavigation();
-}
-
-// Show a specific page
-function showPage(pageNum) {
-    const contentDiv = document.getElementById('chapter-content');
-    const pages = window.chapterPages || [allContent];
-    
-    if (pageNum < 1) pageNum = 1;
-    if (pageNum > pages.length) pageNum = pages.length;
-    
-    currentPage = pageNum;
-    contentDiv.innerHTML = pages[pageNum - 1];
-    
-    // Update UI
-    document.getElementById('current-page').textContent = currentPage;
-    document.getElementById('total-pages').textContent = totalPages;
-    
-    // Update button states
-    document.getElementById('prev-page').disabled = currentPage <= 1;
-    document.getElementById('next-page').disabled = currentPage >= totalPages;
-    
-    // Update URL without reload
-    const url = new URL(window.location);
-    url.searchParams.set('page', currentPage);
-    window.history.replaceState({}, '', url);
-    
-    // Scroll to top of content
-    window.scrollTo({ top: 0, behavior: 'instant' });
-}
-
-// Set up page navigation controls
-function setupPageNavigation() {
-    const prevBtn = document.getElementById('prev-page');
-    const nextBtn = document.getElementById('next-page');
-    
-    prevBtn.addEventListener('click', () => {
-        if (currentPage > 1) showPage(currentPage - 1);
-    });
-    
-    nextBtn.addEventListener('click', () => {
-        if (currentPage < totalPages) showPage(currentPage + 1);
-    });
-    
-    // Keyboard navigation
-    document.addEventListener('keydown', (e) => {
-        // Don't navigate if user is typing in an input
-        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
-        
-        if (e.key === 'ArrowLeft' || e.key === 'a' || e.key === 'A') {
-            if (currentPage > 1) showPage(currentPage - 1);
-        } else if (e.key === 'ArrowRight' || e.key === 'd' || e.key === 'D') {
-            if (currentPage < totalPages) showPage(currentPage + 1);
-        }
-    });
 }
 
 // Build chapter navigation
