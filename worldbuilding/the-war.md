@@ -2,25 +2,32 @@
 
 ## Overview
 
-When Aether was discovered, the United States weaponized it.
+The war began with a demand, not a battle.
 
-In this timeline: The US does not invade nations. **It acquires them.**
+The angels appeared on every screen on the planet. Every phone, every television, every monitor. The same figure. The same voice. The same message:
 
-The conventional military remains largely unchanged — Army, Navy, Air Force, Marines, Space Force, Coast Guard all operate as they do today. But hidden within the structure is something new.
+> *"Disarm. Surrender. Obey."*
+
+Most of the world complied within 72 hours. Divine enforcement dismantled weapons systems, grounded aircraft, and silenced resistance. Humanity was not conquered — it was simply *stopped*.
+
+Only **four nations** retained the ability to fight: the United States, China, Japan, and Russia. They had been experimenting with **Aether** — a force that reacts to human consciousness. When the angels came, Aether proved to be the only thing that could hurt them.
+
+Then Lilith Blackwell killed the first angel. And God retaliated.
 
 ---
 
-## The Secret Branch: AETHCOM
+## AETHCOM (Aether Command)
 
-**Aether Command (AETHCOM)** — Officially does not exist.
+**Aether Command (AETHCOM)** — Before the Declaration, it was secret. Now it is humanity's last weapon.
 
-A top-secret experimental branch with magic at its heart. Operates parallel to conventional forces but answers to no traditional chain of command.
+The military branch that made the Surviving Four possible. Without AETHCOM's Aether weapons, America would have surrendered like everyone else.
 
 ### Formation
-- Created in 2021 after Aether's discovery
-- Initially a DARPA black project
-- Grew into a full military branch operating in complete secrecy
-- Budget hidden across dozens of classified programs
+- Created in 2021 after early Aether discoveries
+- Originally a DARPA black project
+- Grew into a full military branch operating in secrecy
+- When the Declaration came in 2026, AETHCOM was the only reason America could refuse
+- Post-Declaration: no longer secret; absorbed remaining conventional military
 
 ### The Draft Protocol
 
@@ -63,18 +70,18 @@ Lilith Blackwell is classified as **Anomalous**.
 
 ---
 
-## Conventional US Military
+## Post-Declaration Military Status
 
-The regular branches continue operating:
+The Declaration shattered conventional military structure:
 
-- **Army** — Ground forces, now occasionally supported by AETHCOM assets
-- **Navy** — Traditional fleet operations, unaware of magic carriers in their midst
-- **Air Force** — Air superiority, but AETHCOM has things that don't need runways
-- **Marines** — First to fight, sometimes alongside people they can't officially acknowledge
-- **Space Force** — Orbital operations, some crossover with Aether ley-line satellite networks
-- **Coast Guard** — Homeland security, occasionally encounters "anomalies" they're told to forget
+- **Army** — Massive defections; faithful soldiers surrendered; remainder integrated into AETHCOM
+- **Navy** — Fleet partially grounded by divine enforcement; remaining vessels under AETHCOM command
+- **Air Force** — Most aircraft disabled by angels during the 72-hour deadline; Aether-enhanced craft still operational
+- **Marines** — Many units refused to surrender; now the backbone of ground resistance
+- **Space Force** — Satellites destroyed or commandeered; Aether ley-line networks are the new orbital infrastructure
+- **Coast Guard** — Homeland security collapsed; surviving personnel absorbed into territorial defense
 
-Most military personnel have no idea AETHCOM exists. Those who glimpse something wrong are debriefed, memory-adjusted, or reassigned.
+The distinction between conventional military and AETHCOM no longer exists. Everyone who fights, fights with Aether.
 
 ---
 
@@ -96,64 +103,55 @@ Most military personnel have no idea AETHCOM exists. Those who glimpse something
 
 The world follows real history until 2020. Then Aether changed everything.
 
-**The 2020 Divergence:** There was no COVID-19 pandemic. Instead, in early 2020, US scientists at a classified research facility discovered Aether. The lockdowns, the disruption, the global chaos — it all happened, but not because of a virus. It was because reality itself was being rewritten, and governments scrambled to contain the truth.
-
 | Year | Event |
 |------|-------|
 | Pre-2020 | History as we know it |
-| Early 2020 | Aether discovered — initial containment attempts |
-| 2020 | Global "lockdowns" — actually Aether containment protocols disguised as pandemic response |
-| 2020 | Mass Aether exposure events worldwide — the "outbreaks" |
+| Early 2020 | Aether discovered by US scientists at classified facility |
+| 2020-2021 | Aether research accelerates; early experiments with divine physics |
 | 2021 | AETHCOM formed as black project |
-| 2021 | "Vaccine" rollout — actually Aether sensitivity screening on a global scale |
 | 2022 | First Aether weapons tested |
-| 2023 | Mandatory "health screenings" become permanent — Aether detection normalized |
-| 2024 | Public draft program begins — Aether-capable citizens recruited into AETHCOM |
-| 2024 | First confirmed angel kill (Lilith Blackwell) |
-| 2026 | WW3 begins — US begins "acquiring" nations |
-| [Year] | Current story events |
+| 2023 | AETHCOM becomes full military branch (still classified) |
+| 2024 | Lilith Blackwell kills first angel (Prologue) — God notices humanity can fight back |
+| Early 2026 | **THE DECLARATION** — Angels appear on every screen, demand global disarmament |
+| 2026 | Most nations surrender within 72 hours |
+| 2026 | Four nations survive: US, China, Japan, Russia (Aether capability) |
+| 2026 | God retaliates for angel kill by dismantling remaining global order |
+| 2026 | World War III begins — not nation vs nation, but humanity vs Heaven |
+| [Current] | Book One: RECLAMATION — liberating America from divine occupation |
 
-### The Spark: Greenland and Venezuela
+### The Spark: The First Angel Kill
 
-World War III didn't start with a declaration. It started with "security operations."
+World War III didn't start with the Declaration. It started with a single death.
 
-**Greenland (2026)**
-- The US seized Greenland for "military supremacy"
-- Arctic Aether ley-lines made it strategically critical
-- Denmark protested. The US didn't care.
-- NATO fractured over the response
+**January 2024 — Baltimore**
+- Lilith Blackwell kills an angel in an abandoned church
+- First confirmed angel death in human history
+- God notices. Heaven notices. Everything changes.
 
-**Venezuela (2026)**
-- The US seized Venezuela's oil reserves
-- Public justification: "Stopping a corrupt government"
-- Real reason: Aether-tech requires massive energy reserves
-- The regime change was completed in 72 hours
+**The Retaliation**
+- Angels had been observing Earth for years, tolerating Aether research
+- Lilith's kill proved humanity could hurt them
+- God ordered the Declaration as a response
+- The ultimatum: disarm, or be disarmed
 
-After Greenland and Venezuela, the pattern was set. The US would take what it needed and justify it later.
+**The Result**
+- Most of the world surrendered
+- Four nations refused: US, China, Japan, Russia
+- The war is Lilith's fault. She knows it. She doesn't care.
 
-**The word "invasion" was never used. The word "acquisition" was.**
+### What the World Saw
 
-### The COVID Cover Story
+The Declaration was not hidden. It was broadcast to every screen on Earth.
 
-Everything the public remembers about the pandemic was real — but the cause was a lie.
+| What Happened | Public Response |
+|---------------|----------------|
+| Angels appeared on every device | Mass panic, then mass conversion |
+| 72-hour disarmament ultimatum | Most governments immediately complied |
+| Divine enforcement began | Militaries that resisted were disabled without casualties |
+| Four nations refused | The Surviving Four became targets |
+| Lilith's angel kill revealed | She became the reason for God's wrath |
 
-| What They Said | What Actually Happened |
-|----------------|----------------------|
-| Novel coronavirus discovered | Aether breach detected |
-| Virus spreads globally | Aether exposure spreads globally |
-| Lockdowns to slow the spread | Lockdowns to contain Aether awakening events |
-| Social distancing | Preventing Aether-sensitive individuals from resonating |
-| Masks required | Early Aether filtration attempts (ineffective) |
-| Mass testing | Mass Aether sensitivity screening |
-| Vaccines developed | Aether dampeners + tracking implants for baseline humans |
-| "Long COVID" symptoms | Partial Aether awakening — monitored individuals |
-| Conspiracy theorists | People who saw the truth — discredited, silenced |
-| "Essential workers" | Those with natural Aether resistance |
-| Hospital overflows | Aether mutation events — victims couldn't be shown publicly |
-
-The death toll was real. But they didn't die from a virus.
-
-They died because their bodies couldn't handle the Aether.
+There is no cover story. There is no conspiracy. Everyone knows angels are real. Everyone knows God demanded surrender. The only question is whether to kneel or fight.
 
 ---
 
@@ -177,39 +175,57 @@ They died because their bodies couldn't handle the Aether.
 
 ---
 
-## Other Nations at War
+## Global Status Post-Declaration
 
-| Nation | Status | Aether Capability | Stance |
-|--------|--------|-------------------|--------|
-| European Union | Fractured | Limited | Officially neutral |
-| China | Active | Developing independently | Cold war posture |
-| Russia | Active | Faith-based approach | Allied with divine forces |
-| Middle East Coalition | Active | High faith concentration | Resistance |
-| Vatican City | Neutral | Extreme (faith density) | Divine stronghold |
+### The Surviving Four
+| Nation | Status | Aether Capability | Current Stance |
+|--------|--------|-------------------|----------------|
+| United States | Fighting | Advanced weapons, AETHCOM | Leading resistance; Lilith's war |
+| China | Fighting | Independent development | Closed borders; unknown strategy |
+| Japan | Fighting | Ley-line integration | Defensive fortress |
+| Russia | Fighting | Faith-based manipulation | Unorthodox methods; no alliance |
+
+### Surrendered Nations
+| Region | Status | Divine Control Level | Notes |
+|--------|--------|---------------------|-------|
+| European Union | Surrendered | Full administration | Militaries dissolved |
+| Middle East | Surrendered | Theocratic governance | Many welcomed divine rule |
+| South America | Surrendered | Varies by country | Minimal resistance |
+| Africa | Collapsed/Surrendered | Minimal enforcement | Angels focus on Surviving Four |
+| Southeast Asia | Surrendered | Moderate enforcement | Some Aether pockets remain |
+
+### Divine Strongholds
+| Location | Status | Notes |
+|----------|--------|-------|
+| Vatican City | God's Throne | Highest faith concentration on Earth |
+| Jerusalem | Holy Ground | Contested; sacred to multiple faiths |
+| Mecca | Sacred Territory | Angelic garrison |
+| Various Temples | Local Control | Regional administrative centers |
 
 ---
 
-## The Public Story
+## The Public Reality
 
-### What the American Public Knows
-- Aether exists (impossible to hide)
-- The government is "researching" it for "clean energy" and "medical breakthroughs"
-- Some people are "more sensitive" to it (portrayed as a health condition)
-- There's a war, but it's about "freedom" and "national security"
+### What Everyone Knows
+- Angels are real (they appeared on every screen)
+- God demanded humanity disarm (the Declaration was public)
+- Most of the world surrendered (visible, undeniable)
+- Four nations refused (US, China, Japan, Russia)
+- AETHCOM exists and uses Aether weapons (no longer secret)
+- Lilith Blackwell killed an angel and triggered the Declaration
+- This is a war between humanity and Heaven
 
-### What the American Public Does NOT Know
-- AETHCOM exists as a secret military branch
-- Gifted citizens are being drafted with no right of refusal
-- Angels are real and being harvested for power
-- God is a target, not an ally
-- The "pandemic" was Aether emergence, not a virus
-- Reality-warping weapons exist and have been used
+### What Remains Hidden
+- God's true nature (parasitic thought-form, not divine creator)
+- The full extent of Aether technology (angel batteries, soul-bound weapons)
+- AETHCOM's long-term goal (not defense — deicide)
+- The draft's true scope (anyone with Aether ability is taken)
+- Reality-warping weapons and their consequences
 
-### The Cover Story for WW3
-The war is sold as conventional conflict with some "experimental weapons support":
-- Greenland: "Mutual defense agreement with Denmark" (Denmark says otherwise)
-- Venezuela: "Humanitarian intervention against a corrupt regime"
-- Enemy nations: "Developing dangerous technologies" (the irony is not lost on AETHCOM)
+### The Divide
+- **Faithful civilians**: Believe America should surrender; see AETHCOM as satanic
+- **Resistance supporters**: Believe humanity should fight; see God as tyrant
+- **Everyone else**: Terrified; trying to survive
 
 ---
 

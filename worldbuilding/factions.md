@@ -1,24 +1,41 @@
 # Factions
 
+## The Surviving Four
+
+When the angels appeared and demanded disarmament, most of the world complied. Divine enforcement dismantled weapons systems, grounded aircraft, and silenced resistance without a single battle. Humanity was not conquered — it was simply *stopped*.
+
+Only **four nations** retained the ability to fight. They had been experimenting with **Aether** — a force that reacts to human consciousness. When the angels came, Aether proved to be the only thing that could hurt them.
+
+| Nation | Why They Survived |
+|--------|-------------------|
+| United States | Most advanced Aether weapons program; AETHCOM fully operational |
+| China | Independent Aether development; refused to disclose capabilities |
+| Japan | Ancient ley-line networks; cultural integration with Aether |
+| Russia | Faith-based Aether manipulation; leveraged Orthodox traditions |
+
+---
+
 ## The United States (Aether Empire)
 
-The dominant world power. Weaponized Aether before anyone else understood what it was.
+The dominant surviving power. Had weaponized Aether before the Declaration.
 
-**Philosophy:** Acquire, don't invade. The word "invasion" is never used.
+**Status Post-Declaration:** Fragmented but fighting. Angels patrol major cities. Faith-based resistance groups collaborate with divine forces. The government operates from hidden bunkers. AETHCOM leads the war effort.
 
-**Public Image:** The defender of freedom, the leader of the free world.
+**Philosophy:** The only nation willing to kill God.
+
+**Public Image:** The last hope for human sovereignty.
 
 **Reality:** A military-industrial complex that has weaponized human souls and divine beings.
 
 ### Military Structure
-- **Conventional Forces**: Army, Navy, Air Force, Marines, Space Force, Coast Guard — operate as usual
-- **AETHCOM**: The secret branch that handles everything Aether-related
-- **Relationship**: Most conventional military has no idea AETHCOM exists
+- **Conventional Forces**: Army, Navy, Air Force, Marines, Space Force, Coast Guard — heavily reduced, many surrendered during the Declaration
+- **AETHCOM**: Now the primary military force; no longer secret
+- **Relationship**: Post-Declaration, AETHCOM absorbed what remained of conventional command
 
 ### Key Figures
 | Role | Name | Notes |
 |------|------|-------|
-| Operative | Lilith Blackwell | The story's protagonist |
+| Operative | Lilith Blackwell | The story's protagonist; killed the first angel |
 | [Position] | [Name] | [Ally or rival?] |
 | [Position] | [Name] | [Ally or rival?] |
 
@@ -26,13 +43,14 @@ The dominant world power. Weaponized Aether before anyone else understood what i
 
 ## AETHCOM (Aether Command)
 
-The secret military branch at the heart of US power. Officially does not exist.
+The military branch at the heart of US resistance. Before the Declaration, it was secret. Now it is the last line of defense.
 
 ### Formation
-- Created 2021 as a DARPA black project
+- Created 2021 after early Aether discoveries
+- Originally a DARPA black project
 - Grew into full military branch
-- Budget hidden across classified programs
-- Answers to no traditional chain of command
+- When the Declaration came, AETHCOM was the only force that could fight back
+- Post-Declaration: absorbed remaining conventional military, operates openly
 
 ### Divisions
 | Division | Role |
@@ -61,8 +79,10 @@ Any citizen with higher-than-normal Aether abilities is:
 - **Nature**: Parasitic thought-form, the largest ever created
 - **Power Source**: Collective belief and faith
 - **Limitation**: Can only do what people believe He can do
-- **Current Strategy**: Public appearances and miracles to expand His power
-- **Goal**: Break Lilith, maintain worship, grow stronger
+- **The Declaration**: Ordered angels to appear on every screen, demanded global disarmament within 72 hours
+- **Retaliation**: When Lilith killed the first angel, He ordered divine enforcement to dismantle remaining resistance
+- **Current Strategy**: Control surrendered nations, break the Surviving Four, destroy Lilith specifically
+- **Goal**: Restore absolute worship, eliminate Aether resistance, break "The One Who Refuses"
 
 ### Angels
 Aether constructs formed from millennia of collective belief. See [Divine Law](divine-law.md) for hierarchy.
@@ -88,38 +108,60 @@ Regular humans elevated by God to serve as divine instruments.
 
 ---
 
-## Other Nations
+## Surrendered Nations
+
+The following nations complied with the Declaration and are now under divine control:
 
 ### European Union
-- **Status**: Fractured after US seized Greenland
-- **Aether Capability**: Limited, mostly theoretical research
-- **Stance**: Officially neutral; secretly terrified
+- **Status**: Surrendered within 48 hours of the Declaration
+- **Current State**: Under angelic administration; militaries dissolved
+- **Aether Capability**: Research programs destroyed by angels
+- **Stance**: Obedient; population largely faithful
 
-### China
-- **Status**: Developing Aether weapons independently
-- **Aether Capability**: Unknown; intelligence suggests significant progress
-- **Stance**: Cold war posture with the US
+### Middle East
+- **Status**: Surrendered immediately; many welcomed divine rule
+- **Current State**: Theocratic governance enforced by angels
+- **Aether Capability**: None (faith-based cultures saw Aether as blasphemy)
+- **Stance**: Devoted; resistance is heresy
 
-### Russia
-- **Status**: Aligned with divine forces out of desperation
-- **Aether Capability**: Weak technologically; strong in faith-based approaches
-- **Stance**: Open hostility to AETHCOM
-
-### Middle East Coalition
-- **Status**: Religious alliance against US Aether imperialism
-- **Aether Capability**: High faith concentration; potential for powerful thought-forms
-- **Stance**: Active resistance
+### Most of Africa, South America, Southeast Asia
+- **Status**: Collapsed or surrendered during the Declaration
+- **Current State**: Varying levels of divine enforcement
+- **Stance**: No unified resistance
 
 ---
 
-## Resistance Factions
+## The Surviving Four (Detailed)
+
+### China
+- **Status**: One of four surviving nations with Aether capability
+- **Why They Survived**: Independent Aether development; refused to disclose capabilities to UN
+- **Current State**: Closed borders, unknown internal situation
+- **Stance**: Not allied with US; fighting their own war
+
+### Japan
+- **Status**: One of four surviving nations with Aether capability
+- **Why They Survived**: Ancient ley-line networks integrated into modern infrastructure
+- **Current State**: Island fortress; leveraging Shinto traditions with Aether technology
+- **Stance**: Defensive; protecting homeland rather than expanding
+
+### Russia
+- **Status**: One of four surviving nations with Aether capability
+- **Why They Survived**: Faith-based Aether manipulation using Orthodox traditions
+- **Current State**: Complex; using divine power against divine forces
+- **Stance**: Enemy of angels but not allied with AETHCOM; their methods are heretical to both sides
+
+---
+
+## Resistance Factions (Within Surviving Nations)
 
 ### The Faithful Remnant
-- **Nature**: True believers who see AETHCOM as literally satanic
-- **Goal**: Protect divine beings, resist Aether weaponization
-- **Methods**: Sabotage, information warfare, sheltering angels
-- **Relationship to Lilith**: She is their antichrist figure
-- **Relationship to God**: Genuine devotion; His most useful assets
+- **Nature**: True believers within the Surviving Four who see AETHCOM as literally satanic
+- **Location**: Hidden within US, Japan, China, Russia — anywhere Aether resistance operates
+- **Goal**: Collaborate with angels, undermine Aether resistance, hasten surrender
+- **Methods**: Sabotage, information warfare, sheltering angels, assassination attempts
+- **Relationship to Lilith**: She is their antichrist figure; her death is their holy mission
+- **Relationship to God**: Genuine devotion; His most useful assets behind enemy lines
 
 ### [Other Resistance Group]
 - **Goal**: [TBD]

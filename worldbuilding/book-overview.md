@@ -2,11 +2,11 @@
 
 ## Series Summary
 
-**Genre:** Dark military fantasy / Divine horror / Villain-protagonist epic
+**Genre:** Dark magic-tech war epic / Divine psychological horror / Villain-protagonist saga
 
 **Logline:** After angels declare humanity must disarm, a woman with no faith and no mercy proves the divine can bleed. She reclaims her nation, purges the faithful, and executes God before the eyes of the world.
 
-**Core Theme:** What happens when the most dangerous kind of human — a tactician with no empathy and no belief — decides to kill God using His own rules?
+**Core Theme:** What happens when the most dangerous kind of human — a master tactician with no empathy — is given divine physics and infinite war to exploit?
 
 ---
 
