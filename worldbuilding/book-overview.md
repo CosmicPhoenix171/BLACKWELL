@@ -2,216 +2,161 @@
 
 ## Series Summary
 
-**Genre:** Dark magic-tech war epic / Divine psychological horror / Villain-protagonist saga
+**Genre:** Dark military fantasy / Divine horror / Villain-protagonist epic
 
-**Logline:** A 20-year-old data analytics student with no empathy discovers she's immune to God's influence when Aether — the physics of belief — reshapes reality. She joins the US military's secret magic division, rises to power, and wages tactical warfare against Heaven itself.
+**Logline:** After angels declare humanity must disarm, a woman with no faith and no mercy proves the divine can bleed. She reclaims her nation, purges the faithful, and executes God before the eyes of the world.
 
-**Core Theme:** What happens when the most dangerous kind of human — a master tactician with no empathy — is given divine physics and infinite war to exploit?
+**Core Theme:** What happens when the most dangerous kind of human — a tactician with no empathy and no belief — decides to kill God using His own rules?
 
 ---
 
 ## The Premise
 
-In 2020, humanity discovered **Aether** — a fundamental force shaped by consciousness. The "COVID pandemic" was a cover story. The lockdowns were containment. The deaths were real, but not from any virus.
+The angels appeared without warning. Every screen on the planet showed the same figure. The same demand.
 
-Aether proved that God exists. But it also proved He's not the creator — He's a **parasitic thought-form**, the largest ever made, feeding on billions of years of human belief.
+*Disarm. Surrender. Obey.*
 
-The United States weaponized Aether. They built soul-bound weapons, angel batteries, and reality-rewriting bombs. In 2026, they started World War III by seizing Greenland and Venezuela.
+Most of the world's militaries collapsed within days. Divine enforcement dismantled weapons systems, grounded aircraft, and silenced resistance without a single battle. Humanity was not conquered. It was simply *stopped*.
 
-And at the heart of the war machine: **Lilith Rose Blackwell**.
+Only four nations retained the ability to fight: the United States, China, Japan, and Russia. They had been experimenting with **Aether** — a force that reacts to human consciousness. When the angels came, Aether proved to be the only thing that could hurt them.
+
+God is not the creator. God is a **parasitic thought-form** — the largest ever made, sustained by billions of years of collective belief. He can only do what humanity believes He can do. Faith is His fuel. Worship is His cage.
+
+**Lilith Rose Blackwell** understood this before anyone else.
+
+She killed her first angel to prove they could die. The angels retaliated by dismantling what remained of global order. The world fell not because the angels attacked — but because someone proved they could be harmed.
+
+Now Lilith has a plan. A three-part war to end God forever.
 
 ---
 
 ## The Protagonist
 
-**Lilith Rose Blackwell** — Currently 26 years old (as of 2026)
+**Lilith Rose Blackwell** — 26 years old (as of 2026)
 
-- 20 when Aether arrived, flagged as Anomalous during vaccine screening in 2021
-- Complete lack of faith made her invisible to God's influence
-- Rose through AETHCOM ranks by proving herself in every mission
-- Now waging tactical warfare against divine forces
+- Naturally absorbs Aether, making her invisible to divine perception
+- No faith, no empathy, no hesitation
+- Rose through AETHCOM ranks by killing what others feared to touch
+- Currently waging systematic warfare against Heaven itself
 
 **Her Titles:**
-- To the US: *Operative Blackwell* (2024)
+- To the US: *Operative Blackwell*
 - To enemies: *The Dominion Witch*
 - To believers: *The Heretic*
 - To God: *"The One Who Refuses"*
 
 ---
 
-## Book Structure
+## The Three Books
 
-### Book 1: [Title TBD]
-**Timeline:** 2020–2024 (Aether discovery through first angel kill)
+### Book One: RECLAMATION
 
-**Structure:** In medias res opening (Prologue), then extended flashback
+**Timeline:** The Declaration through the liberation of America
 
----
+**Core Conflict:** The United States is fractured. Angels patrol major cities. Faith-based resistance groups collaborate with divine forces. The government operates from hidden bunkers. Lilith must unite what remains and drive the angels from American soil.
 
-#### Prologue: First Blood (2024)
+**Structure:**
+- **Prologue:** Lilith kills her first angel. No context. Pure violence. The reader sees what she is before they learn who she was.
+- **Part 1:** The Declaration. Angels appear. The world falls. Lilith watches, analyzes, and begins planning.
+- **Part 2:** AETHCOM. Lilith is recruited. Training. First missions. Proving herself through escalating brutality.
+- **Part 3:** The Purge. City by city, state by state. Angels are hunted. Collaborators are eliminated. The faithful are given a choice: renounce or die.
+- **Climax:** America is reclaimed. The last angel on US soil is executed publicly. Lilith broadcasts the message: *"We are no longer yours."*
 
-The book opens with Lilith killing her first angel.
-
-- No context. No explanation. Just violence and victory.
-- Readers see Operative Blackwell at her most terrifying
-- The angel dies in a ruined church in Baltimore. Lilith feels nothing but dark joy.
-- **Hook:** How did a 24-year-old become this?
-
-**Then the story rewinds.**
+**Ending:** America is free, but isolated. The rest of the world watches in horror. God takes notice. The real war begins.
 
 ---
 
-#### Chapter One: Containment Failure (2020–2022)
+### Book Two: APOSTASY
 
-Lilith's experience of the "pandemic" and her discovery:
+**Timeline:** Post-reclamation through the global faith purge
 
-- She was 20, a second-year college student when the world shut down
-- She notices anomalies in the public record: death rates that don't match, obituaries that don't add up, patterns that make no sense
-- By 2021, the quiet deaths begin — names that appear once and vanish
-- She starts keeping a list of people who don't fit the official story
-- By early 2022, her own records start glitching — she's being erased from systems
-- They come for her: no uniforms, just a van and zip ties
-- Underground facility. They call her an "anomaly"
-- Tests, evaluations, watching others burn out or break
-- The fire incident: another anomaly panics, the room erupts in flame and electrical discharge
-- **The reveal:** Fire curves around Lilith. A perfect circle of stillness. They see it. They decide not to talk about it.
+**Core Conflict:** God's power comes from belief. Every prayer strengthens Him. Every act of worship feeds the machine. Lilith's solution is simple: eliminate the source.
 
----
+**The Logic:**
+- God cannot be killed while billions still believe
+- Faith must be systematically dismantled
+- Those who refuse to abandon worship become fuel for the enemy
+- The calculus is cold: their deaths weaken God more than their lives help humanity
 
-#### Part 2: AETHCOM (2022–2023)
+**Structure:**
+- **Part 1:** The Doctrine. Lilith presents her case to AETHCOM leadership. Faith is classified as collaboration with the enemy. Religious practice becomes treason.
+- **Part 2:** The Inquisition. Systematic identification and elimination of religious practitioners. Churches burned. Temples demolished. Holy sites desecrated. Believers given one chance to renounce.
+- **Part 3:** The Resistance. Not everyone agrees with genocide. Internal opposition rises. Lilith eliminates it.
+- **Part 4:** The Silence. Faith dies in screams and then in whispers. God grows weaker. His appearances become desperate.
 
-Lilith's rise through the ranks:
-
-- 2022: Removed from college, taken to underground facility, flagged as Anomalous
-- Her choice to join willingly — seeing AETHCOM as a resource
-- Basic training / orientation / discovering how deep the conspiracy goes
-- First missions, first kills (not angels yet — human enemies? Lesser divine agents?)
-- Proving herself repeatedly, climbing fast
-- The politics of AETHCOM — allies made, enemies made
-- **End of Part 3:** She's positioned for something big
+**Ending:** The world is nearly faithless. God is diminished but not dead. He still has followers. He still has power. But He is weak enough to be cornered.
 
 ---
 
-#### Part 4: The Hunt (2024)
+### Book Three: DEICIDE
 
-Building to the opening scene:
+**Timeline:** The final campaign to kill God
 
-- The angel is identified / targeted
-- Lilith plans the kill — studying divine law, finding the loophole
-- The operation unfolds
-- **Catches up to the opening scene**
-- The angel dies
-- Aftermath: What this means for the war, for God, for Lilith's reputation
-- She earns her titles: The Dominion Witch, The Heretic
+**Core Conflict:** God cannot be killed in secret. He is a thought-form sustained by belief. Even in His weakened state, whispered prayers could resurrect Him. The only way to end Him permanently is to execute Him publicly — to show the world that He bleeds, He begs, and He dies like any other creature.
 
----
+**The Plan:**
+- Force God to manifest physically (He has been avoiding direct confrontation)
+- Bind Him using divine law and Aether technology
+- Execute Him on a global broadcast
+- Let the remaining faithful watch their God die
 
-#### Book 1 Ending
+**Structure:**
+- **Part 1:** The Trap. Lilith studies divine law. Every covenant has loopholes. Every sacred rule has exceptions. She finds the combination that will force God to appear.
+- **Part 2:** The Summoning. A ritual of inverse faith. A prayer of pure rejection. Something so blasphemous that God cannot ignore it.
+- **Part 3:** The Binding. God appears. The trap closes. Angels rush to save Him. They fail.
+- **Part 4:** The Execution. God is bound before cameras. Every surviving screen on the planet shows His face. Lilith speaks to the world. Then she kills Him.
 
-- Lilith is now a confirmed angel-killer
-- AETHCOM recognizes her value
-- God takes notice — His first direct response
-- **Setup for Book 2:** WW3 approaching, Lilith's rising influence
+**Ending:** God dies. The Aether storm that follows reshapes reality. The faithful break. Some convert to Lilith's philosophy. Some simply stop existing, their identities so tied to belief that they cannot survive without it. The world is free. The world is empty. Lilith stands alone at the end of everything she built.
 
----
-
-**Key Questions for Book 1:**
-- What specific event triggered her decision to fight God?
-- What angel does she kill? What kind? What's special about it?
-- What loophole does she exploit to kill it?
-- Who are her allies/rivals in AETHCOM during her rise?
-- What's her relationship with her family after Aether arrives?
+**Final Line:** *"There is no God. There is only us. And now you're free."*
 
 ---
 
-### Book 2: [Title TBD]
-**Timeline:** [TBD]
+## Series Arc
 
-**Focus:**
-- [Plot points TBD]
-
----
-
-### Book 3: [Title TBD]
-**Timeline:** [TBD]
-
-**Focus:**
-- [Plot points TBD]
-
----
-
-## Story Arcs
-
-### The War Arc
-- US military expansion using Aether-tech
-- Nations being "acquired" rather than invaded
-- The public cover stories vs. the horrific reality
-- Lilith's role in planning and executing operations
-
-### The Divine Conflict Arc
-- God sending agents (angels, saints, chosen heroes) to stop Lilith
-- Lilith studying and killing each one
-- Every divine death eroding public faith
-- God escalating His public appearances to counter the erosion
-
-### The Personal Arc
-- Her isolation as someone who sees through the lies
-- Her relationship with family she can never explain herself to
-- The growing distance between who she was and what she's becoming
-- Does she have any humanity left? Does she want it?
-
-### The Endgame Arc
-- Lilith's ultimate goal: prove God is a fake by killing Him with His own rules
-- The universe-scale experiment: if He can't stop her, He's not God
-- What happens when faith dies? What replaces God?
-
----
-
-## Key Conflicts
-
-| Conflict | Nature |
-|----------|--------|
-| Lilith vs. God | The core war — can she kill a being made of belief? |
-| Lilith vs. Divine Agents | Tactical battles against angels, saints, heroes |
-| Lilith vs. AETHCOM | Internal politics — not everyone trusts the young operative |
-| Lilith vs. Herself | The cost of becoming a weapon — what is she losing? |
-| Lilith vs. Morality | She has none — but does the story? |
+| Book | Focus | God's Power Level | Lilith's Status |
+|------|-------|-------------------|-----------------|
+| 1: Reclamation | Liberate America | Peak | Rising operative |
+| 2: Apostasy | Eliminate faith worldwide | Declining | War commander |
+| 3: Deicide | Execute God publicly | Weakened | World's most dangerous human |
 
 ---
 
 ## Tone & Style
 
-- **Dark** — War crimes happen on-page. No redemption arcs.
-- **Procedural** — Lilith exploits loopholes. Every atrocity is documented and justified.
-- **Psychological** — The horror is internal as much as external.
-- **Epic** — The scale is global, then cosmic.
-- **Cold** — Lilith is the protagonist, not the hero. Readers may root for her anyway.
+- **Brutal** — Atrocities happen on-page. No redemption arcs. No moral safety nets.
+- **Procedural** — Every war crime is documented, justified, and legally compliant.
+- **Cold** — Lilith is the protagonist, not the hero. She is doing something terrible for reasons she believes are correct.
+- **Epic** — The scale escalates from national to global to cosmic.
+- **Horrifying** — The horror is not that Lilith is wrong. The horror is that she might be right.
 
 ---
 
-## Questions to Answer Before Writing
+## Key Questions
 
-1. What is Book 1's central conflict/operation?
-2. Who are the supporting characters? (Allies, rivals, victims)
-3. What divine agent does God send first?
-4. What's Lilith's first major "victory" that establishes her as terrifying?
-5. Where does Book 1 end? What's the cliffhanger/escalation?
+### Thematic
+- Is genocide justified if the enemy is literally God?
+- What replaces faith when faith is proven to be a parasite?
+- Is Lilith a savior or a monster? Does she care about the distinction?
 
----
-
-## Chapter Structure Ideas
-
-Each chapter could follow Lilith through:
-1. **The Briefing** — What's the mission/problem?
-2. **The Loophole** — How does she exploit the rules?
-3. **The Execution** — The operation itself
-4. **The Aftermath** — Consequences, divine response, internal politics
-
-Or alternate between:
-- **War chapters** — Military operations, AETHCOM politics
-- **Divine chapters** — God's perspective, angel movements, miracles
-- **Personal chapters** — Lilith's internal world, memories, isolation
+### Practical
+- How does Aether technology develop across the trilogy?
+- Who are Lilith's allies, and how many survive?
+- What happens to the surviving nations (China, Japan, Russia) during each book?
+- Does God try to negotiate? Does He beg?
 
 ---
 
-*Expand this as the story develops.*
+## The Final Message
+
+This is not a story about good versus evil.
+
+This is a story about a woman who decided that God was a problem to be solved, and then solved it. The reader will watch her commit atrocities. The reader will understand why she believes each one is necessary. The reader will finish the trilogy unsure whether humanity is better off.
+
+Lilith Blackwell does not ask for forgiveness. She does not need it.
+
+She only needed to win.
+
+---
+
+*Expand as the story develops.*
