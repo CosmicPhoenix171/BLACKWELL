@@ -180,10 +180,19 @@ main {
     font-family: var(--font-heading);
     font-size: 4rem;
     letter-spacing: 6px;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     color: var(--accent-color);
     text-shadow: 0 2px 20px rgba(212, 168, 75, 0.3);
     position: relative;
+}
+
+.subtitle {
+    font-family: var(--font-heading);
+    font-size: 2rem;
+    letter-spacing: 4px;
+    color: var(--white);
+    margin-bottom: 1.5rem;
+    font-weight: 600;
 }
 
 .tagline {
