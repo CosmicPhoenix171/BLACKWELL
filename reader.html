@@ -317,16 +317,21 @@
     <main class="reader-container">
         <h1 id="chapter-title">Loading...</h1>
         
-        <article id="chapter-content">
-            <p>Loading chapter content...</p>
-        </article>
+        <div class="page-wrapper">
+            <article id="chapter-content">
+                <p>Loading chapter content...</p>
+            </article>
+        </div>
+        
+        <div class="page-nav">
+            <button class="page-btn" id="prev-page" disabled>&larr; Previous</button>
+            <span class="page-indicator"><span id="current-page">1</span> / <span id="total-pages">1</span></span>
+            <button class="page-btn" id="next-page">Next &rarr;</button>
+        </div>
+        
+        <p class="keyboard-hint">Use <kbd>←</kbd> <kbd>→</kbd> arrow keys or <kbd>A</kbd> <kbd>D</kbd> to turn pages</p>
         
         <nav id="chapter-nav"></nav>
-        
-        <div class="back-to-top">
-            <a href="#top">&uarr; Back to Top</a>
-            <p class="reading-tip">💡 Tip: Highlight any text to leave feedback!</p>
-        </div>
     </main>
 
     <footer>
