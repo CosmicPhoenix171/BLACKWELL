@@ -94,7 +94,7 @@ function parseInlineFormatting(text) {
 // Chapter data structure
 const chapters = {
     'book-one': {
-        title: 'Book One',
+        title: 'Lilith Blackwell: First Blood',
         chapters: {
             'prologue': {
                 title: 'Prologue: First Blood',

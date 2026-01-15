@@ -49,7 +49,9 @@ Now Lilith has a plan. A three-part war to end God forever.
 
 ## The Three Books
 
-### Book One: RECLAMATION
+### Book One: FIRST BLOOD
+
+**Full Title:** Lilith Blackwell: First Blood
 
 **Timeline:** The Declaration through the liberation of America
 
@@ -116,7 +118,7 @@ Now Lilith has a plan. A three-part war to end God forever.
 
 | Book | Focus | God's Power Level | Lilith's Status |
 |------|-------|-------------------|-----------------|
-| 1: Reclamation | Liberate America | Peak | Rising operative |
+| 1: First Blood | Liberate America | Peak | Rising operative |
 | 2: Apostasy | Eliminate faith worldwide | Declining | War commander |
 | 3: Deicide | Execute God publicly | Weakened | World's most dangerous human |
 
