@@ -4,7 +4,7 @@
 
 Discovered in 2020 by US scientists. A new fundamental force of reality.
 
-The discovery was hidden behind the "COVID-19 pandemic" — every lockdown, every mandate, every death toll was real. But the cause was not a virus. It was Aether breaking through into human awareness.
+Aether existed long before humanity discovered it — condensed by billions of minds believing in gods, angels, and miracles over millennia. The US simply found a way to detect and weaponize it.
 
 Aether is simultaneously:
 - A particle and a wave
@@ -54,23 +54,20 @@ This is why He's currently escalating His appearances and miracles — to *expan
 
 ## Aether Physics
 
+### Raw Aether State
+When enough Aether is released at once, it behaves like **plasma** — superheated, luminous, and unstable.
+
+- **Natural Color**: Golden, like liquid sunlight or molten gold
+- **Default Behavior**: Slowly dissipates back to invisible ambient state over time
+- **Matter Shifting**: Users can reshape raw Aether into different forms (solid, liquid, gas, energy)
+- **Reversion**: All shaped Aether eventually returns to its default golden plasma state before dissipating entirely
+- **Decay Rate**: Depends on concentration and user skill; stronger users can maintain forms longer
+
 ### Properties
-- **Visibility**: Normally invisible; manifests as colored light when concentrated
-- **Natural Color**: Raw Aether glows **golden** when released in quantity — the same gold as angel blood
-- **User Color**: Varies by individual intent — Lilith's Aether burns violet/purple (unique to her)
-- **Plasma State**: When enough Aether is released at once, it behaves like plasma — superheated, ionized, destructive
-- **Density**: Can be compressed into solid forms (weapons, shields)
+- **Visibility**: Normally invisible; manifests as golden plasma when concentrated
+- **Color**: Golden by default; shifts based on user's will and intent (Lilith's burns violet/purple)
+- **Density**: Can be compressed into solid forms (weapons, shields) but reverts over time
 - **Detection**: Measured via specialized sensors; AETHCOM has screening tech
-
-### Raw Aether vs. Channeled Aether
-| Type | Behavior | Color | Control |
-|------|----------|-------|---------|
-| Ambient | Invisible field, reacts to belief | None | Passive |
-| Channeled | Controlled by user's will | User-specific | High |
-| Raw Release | Plasma-like, explosive | Golden | Low — chaotic |
-| Divine | Structured by millennia of faith | Golden-white | Absolute (angels) |
-
-**Note:** Angel blood runs gold because they are made of condensed, structured Aether. When Lilith kills them, she is literally spilling divine plasma.
 
 ### Interaction with Consciousness
 - Responds to focused will, intent, and belief
