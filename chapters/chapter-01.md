@@ -1,45 +1,203 @@
 # Chapter One
 
-## The Declaration
+## The Aftermath
 
-The day the angel appeared, every digital screen on the planet activated at the same time. Phones, televisions, public displays, aircraft systems, hospital monitors, and military consoles all showed the same image. The phenomenon did not behave like a transmission or a technological intrusion. Existing content was simply replaced, as if overwritten by something that did not need permission to exist.
+The fluorescent lights hummed. Lilith counted the tiles on the ceiling while a medic she didn't know stitched her shoulder back together.
 
-The figure spoke in a calm, measured voice that carried no emotion, accent, or urgency. The declaration was long and formal, structured like a judgment rather than a threat. Most of the message was never preserved in full. What remained consistent across accounts was its central demand.
+Forty-seven tiles. Industrial grey. Standard AETHCOM medical bay — underground, no windows, air that tasted recycled. Her broken leg was already in a temporary brace, bone knitting slowly under Aether-assisted regeneration. Her ribs were wrapped. The gash on her lip had stopped bleeding an hour ago.
 
-Humanity was ordered to disarm.
+She felt nothing.
 
-All militaries were to stand down. Weapons of mass destruction were to be dismantled. Organized violence was to cease. Compliance was described as restraint. Resistance was not framed as rebellion, but as refusal. The message made it clear that enforcement would follow if the order was ignored.
+Not the pain. Not the needle pulling through her flesh. Not the antiseptic burning in her wounds. Just a hollow ringing silence where emotions should have been.
 
-Within hours, enforcement began.
+The medic's hands trembled.
 
-Across multiple continents, military installations ceased functioning without visible damage. Aircraft were grounded mid-flight. Naval groups lost power and drifted dead in the water. Missile systems failed to respond to authenticated commands. There were no explosions, no declarations of war, and no identifiable enemy formations. Military capability was dismantled selectively and efficiently, while civilian infrastructure was left largely intact. The resulting power vacuum caused global instability almost immediately.
+Lilith noticed. She noticed everything. The way he avoided eye contact. The way he flinched when she shifted on the table. The way his breathing stuttered every time static crackled through the intercom.
 
-Most of the world's armed forces collapsed within days.
+He wasn't afraid of what was happening outside.
 
-Only four nations retained the ability to resist angelic enforcement in any meaningful way: the United States, China, Japan, and Russia. Their survival was not a matter of righteousness or unity. It was a matter of speed.
+He was afraid of her.
 
-All four had begun classified research into aether phenomena following early anomalous encounters. When the angelic declaration was issued, they were the only nations capable of accelerating that research into deployable systems before their militaries were fully dismantled.
+---
 
-Aether proved uniquely disruptive to angelic entities. It interfered with their cohesion, anchored them more firmly to physical reality, and made damage possible. Early aether weapons were unstable and dangerous, often killing or permanently altering their operators, but they functioned well enough to force the angels to adapt rather than simply erase remaining resistance.
+The first broadcast came through while they were wrapping her torso.
 
-The United States and China survived through scale and aggression. Both nations rapidly converted aether research into heavy weapon systems, deploying unfinished technology despite catastrophic losses. Industrial output was redirected entirely toward survival. Entire regions were sacrificed to buy time. Their militaries remained functional, though heavily degraded, through redundancy, mass mobilization, and a willingness to accept levels of collateral damage that would have been unthinkable before the declaration.
+A voice from the wall-mounted speaker, calm and clipped: *"All AETHCOM personnel, condition SERAPH. Repeat, condition SERAPH. This is not a drill."*
 
-Japan survived differently.
+The medic's hands stopped moving.
 
-Japan did not pursue aether weaponization through brute force. Instead, it focused on stabilization, containment, and precision. Japanese research prioritized control systems, dampening fields, and limited-scope applications designed to disrupt angelic presence without widespread devastation. This approach slowed escalation and preserved civilian life, but it left Japan vulnerable. Its resistance depended on careful balance rather than overwhelming power. Angels adapted more slowly to Japan's methods, but Japan lacked the capacity for prolonged attrition. Its survival remained fragile, contingent on restraint and constant recalibration.
+Lilith didn't know what SERAPH meant. She'd been in AETHCOM for eighteen months. Long enough to learn the tiers. CHERUB was elevated alert. THRONE was active engagement. SERAPH was—
 
-Russia survived on the edge of collapse.
+"What's SERAPH?" she asked.
 
-Russian aether programs were rushed, crude, and extraordinarily dangerous. Entire research facilities were lost in early tests. Large sections of military infrastructure collapsed outright under angelic retaliation. Central command fractured, forcing regional forces to operate semi-independently as communication and logistics degraded. Supply lines were unstable. Casualty figures were incomplete and likely never fully recorded.
+The medic didn't answer. His face had gone grey.
 
-What remained of Russia's resistance was improvised and desperate. Aether weapons were deployed unfinished, often lethal to their operators and sometimes as destructive to friendly forces as to angelic targets. Successes were rare and costly, but just frequent enough to prevent total annihilation. Russia did not hold territory so much as it refused to disappear. Each engagement eroded what remained of its population and infrastructure. By the time aether's effectiveness was fully understood by the wider world, Russia was already barely holding on.
+---
 
-The conflict that followed was later labeled the Third World War, though it bore little resemblance to any previous global conflict. No nation declared war on another. There were no fronts, no alliances, and no clear victories. What remained of human resistance was fragmented, isolated, and sustained only through increasingly dangerous uses of aether technology.
+The door opened. A handler stepped through — Lieutenant Vasquez, compact and sharp-eyed, the kind of officer who survived by never being surprised.
 
-Lilith Blackwell's killing of the first angel occurred after the declaration, but before the full dismantling of global militaries. It was not an act of defense or heroism. It was a rejection of authority. Her action proved that angels could bleed and die, and that proof forced escalation on all sides.
+She looked surprised now.
 
-The angels retaliated not against her alone, but against humanity for allowing such defiance to exist. Militaries were dismantled as punishment and deterrence. Aether weaponization accelerated as desperation replaced restraint. The survival of the United States, China, Japan, and Russia did not represent victory. It represented delay.
+"Blackwell." Vasquez's voice was flat. Controlled. "You're being moved."
 
-The world did not fall because the angels attacked.
+"I'm not finished," Lilith said. The medic still had three stitches to go.
 
-It fell because someone proved they could be harmed.
+"Yes you are."
+
+Vasquez crossed the room in four steps, grabbed Lilith's tactical jacket from the chair, and threw it at her chest. The impact sent fire through her broken ribs. Lilith caught it anyway. She didn't flinch.
+
+"What's SERAPH?" Lilith asked again.
+
+Vasquez met her eyes for the first time. There was something in that look Lilith had never seen from her before.
+
+Not anger. Not disappointment.
+
+Fear.
+
+"Global divine response," Vasquez said. "Every angel on the planet just stopped what they were doing. All of them. At the same time."
+
+Lilith pulled on her jacket. The motion hurt. She let it.
+
+"Stopped doing what?"
+
+Vasquez was already at the door. "Everything."
+
+---
+
+The corridor was chaos.
+
+Personnel ran in both directions. Radios crackled with overlapping transmissions. Somewhere behind her, Lilith heard shouting — not orders, just noise. The sound of people who didn't know what to do.
+
+She caught fragments as she limped after Vasquez:
+
+*"—Pacific Fleet just went dark, no response on any—"*
+
+*"—Ramstein reports grounded, repeat, all aircraft grounded—"*
+
+*"—they're not moving, they're just standing there, like they're waiting for—"*
+
+Vasquez walked fast. Lilith's broken leg screamed with every step. She kept pace anyway.
+
+They passed a break room. Inside, a cluster of analysts stood frozen around a wall-mounted screen. The news was playing — civilian broadcast, somehow still functioning. The anchor's voice was steady, professional, trained to sound calm during catastrophe.
+
+*"—unprecedented phenomenon occurring across every continent. Reports indicate that entities previously engaged in enforcement actions have ceased all movement. Governments worldwide are attempting to establish—"*
+
+The feed cut to static.
+
+Then the screen changed.
+
+A face appeared. Not human. Too perfect. Too symmetrical. Burning with light that shouldn't have been able to transmit through a digital signal.
+
+It spoke one word.
+
+The sound wasn't language. It was pressure — a weight that pushed through the speakers and settled behind Lilith's eyes. The analysts in the break room dropped. Vasquez stumbled. Somewhere down the corridor, someone started screaming.
+
+Lilith felt it.
+
+She felt it, and she *absorbed* it.
+
+The pressure hit her like a wave and then — vanished. Swallowed by the void inside her chest. The place where faith should have been. The reservoir that had been filling since 2020.
+
+When her vision cleared, she was the only one still standing.
+
+The screen showed golden fire. Then it went dark.
+
+---
+
+Vasquez was on her knees, blood dripping from her nose.
+
+"What—" The lieutenant's voice cracked. "What the fuck was that?"
+
+Lilith reached down and pulled her up. Vasquez stared at her like she was seeing something monstrous.
+
+"You didn't fall," Vasquez whispered.
+
+"No."
+
+"Everyone falls. That was — that was Him. That was—"
+
+"I know what it was."
+
+Lilith started walking again. After a moment, Vasquez followed. Her steps were unsteady now.
+
+---
+
+Command center. Underground. Reinforced. The kind of room designed to survive anything.
+
+It wouldn't survive this, Lilith thought. Nothing would.
+
+The main screen showed a global map. Red markers everywhere — each one a disabled military installation, a grounded fleet, a silenced command center. The map was bleeding red.
+
+General Morrison stood at the center, phone pressed to his ear. His face was carved from stone. He wasn't speaking. Just listening.
+
+Then he set the phone down.
+
+The room went quiet.
+
+"Joint Chiefs just confirmed," Morrison said. His voice was hollow. "Naval Command. Strategic Air. CENTCOM. EUCOM. PACOM." He looked at the map. "They're not responding to us anymore."
+
+The silence stretched.
+
+"What about—" someone started.
+
+"No one's responding," Morrison cut in. "No one. Every asset we had outside this facility is either dark or disabled. Everything."
+
+Lilith stepped forward. Heads turned. She saw it again — that look. Not anger. Fear.
+
+"Not everything," she said.
+
+Morrison's eyes found hers. The general who had signed off on her recruitment. Who had watched her test results with interest rather than horror. Who had told her, eighteen months ago, that she was exactly the kind of weapon they needed.
+
+"Blackwell," he said. "You killed an angel tonight."
+
+"Yes."
+
+"And this—" He gestured at the bleeding map, the silenced radios, the chaos. "This is because of you."
+
+Lilith didn't look away. Didn't apologize. Didn't explain.
+
+"Yes," she said again.
+
+Morrison stared at her for a long moment. Then, impossibly, he laughed. It was a broken sound. The laugh of a man watching the world end.
+
+"Well," he said. "At least we know they can die."
+
+---
+
+Later, in the quiet hours before dawn, Lilith sat alone in a corner of the command center and listened to the world collapse.
+
+Radio chatter. Emergency broadcasts. Fragments of a dying order:
+
+*"—confirmed, the Vatican is... they're saying He appeared. Physically appeared—"*
+
+*"—China's still fighting, they have something, Aether-based—"*
+
+*"—casualties in the millions, no response from relief—"*
+
+*"—Japan's holding, don't know how—"*
+
+*"—Russia's gone dark but we're still picking up weapons signatures—"*
+
+She absorbed it all. Catalogued it. Filed it away.
+
+The world was ending. Governments falling. Billions of people looking up at a sky that had just proven God was real.
+
+Because of her.
+
+Because she'd put a knife through an angel's chest and proven they could bleed.
+
+A technician approached her station. Young. Trembling. He set a cup of coffee beside her that she hadn't asked for.
+
+"Ma'am," he said. His voice was barely a whisper. "What... what happens now?"
+
+Lilith looked at the map. Red everywhere. But not everywhere. Four nations still fighting. Four nations with Aether. Four nations that hadn't surrendered.
+
+She picked up the coffee. Took a sip.
+
+"Now," she said, "we find out what happens when God gets angry."
+
+The technician fled.
+
+Lilith smiled.
+
+It wasn't a nice smile.
