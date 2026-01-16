@@ -1,6 +1,6 @@
 # Chapter One: The Aftermath
 
-The fluorescent lights hummed. Lilith counted ceiling tiles while a medic stitched her shoulder back together. Forty-seven tiles. Industrial grey. Standard AETHCOM medical bay—underground, windowless, the air tasting of recirculation and antiseptic. Her shattered leg was already braced, the bone knitting slowly under Aether-assisted regeneration. Her ribs were wrapped tight. The gash on her lip had stopped bleeding an hour ago.
+Lilith counted ceiling tiles while a medic she didn't know stitched her shoulder back together. Forty-seven tiles, industrial grey, each one identical to the last. She'd counted them three times now. It gave her something to focus on besides the needle pulling through her flesh, the hum of fluorescent lights, the recycled air that tasted like antiseptic and old fear. Standard AETHCOM medical bay—buried deep underground, no windows, no natural light, nothing to remind you that a world still existed above. Her shattered leg was already braced, the bone knitting slowly under Aether-assisted regeneration. Her ribs were wrapped tight enough to make breathing an exercise in discipline. The gash on her lip had stopped bleeding an hour ago.
 
 She felt nothing. Not the pain. Not the needle pulling through flesh. Not the burn of antiseptic in open wounds. Just a hollow silence where emotions should have been.
 
