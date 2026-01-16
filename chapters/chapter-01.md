@@ -14,19 +14,17 @@ The medic's hands went still. Lilith had been in AETHCOM for eighteen months, lo
 
 The medic didn't answer. His face had gone the color of old concrete.
 
-The door swung open. Lieutenant Vasquez stepped through, compact and sharp-eyed, the kind of officer who survived by never being caught off guard. She looked caught off guard now.
+The door swung open. Lieutenant Vasquez stepped through, compact and sharp-eyed, the kind of officer who survived by never being caught off guard. He looked caught off guard now.
 
 "Blackwell. You're being moved."
 
-"I'm not finished." Three stitches to go.
-
-"Yes, you are."
+"Yes, Sir." Lilith replyed.
 
 Vasquez crossed the room in four strides, grabbed Lilith's tactical jacket from the chair, and threw it at her chest. The impact sent fire lancing through her broken ribs. She caught it anyway. She didn't flinch.
 
 "What's SERAPH?" Lilith asked again.
 
-Vasquez met her eyes. Something flickered there, something Lilith had never seen from her before. Not anger. Not disappointment. Fear.
+Vasquez met her eyes. Something flickered there, something Lilith had never seen from him before. Not anger. Not disappointment. Fear.
 
 "Global divine response," Vasquez said quietly. "Every angel on the planet just stopped what they were doing. All of them. At the same time."
 
@@ -48,7 +46,7 @@ The sound wasn't language. It was pressure, a weight that pushed through the spe
 
 Lilith felt it. She felt it, and she absorbed it. The pressure hit her like a wave and vanished. Swallowed by the void inside her chest. The empty place where faith should have been. The reservoir that had been filling, unknown to her, since 2020. When her vision cleared, she was the only one still standing. The screen blazed with golden fire. Then it went dark.
 
-Vasquez was on her knees, blood streaming from her nose. "What—" Her voice cracked. "What the fuck was that?"
+Vasquez was on his knees, blood streaming from his nose. "What—" His voice cracked. "What the fuck was that?"
 
 Lilith reached down and pulled her up. Vasquez stared at her like she was seeing a stranger wearing a familiar face.
 
@@ -60,7 +58,7 @@ Lilith reached down and pulled her up. Vasquez stared at her like she was seeing
 
 "I know what it was."
 
-Lilith started walking. After a moment, Vasquez followed, her steps unsteady.
+Lilith started walking. After a moment, Vasquez followed, his steps unsteady.
 
 The command center was built to survive anything. Underground. Reinforced. Hardened against nuclear strike and divine intervention alike. The kind of room where the last orders would be given when everything else had failed. It wouldn't survive this, Lilith thought. Nothing would.
 
