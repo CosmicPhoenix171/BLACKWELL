@@ -42,13 +42,13 @@ Static swallowed the feed. Then the screen changed.
 
 A face appeared. Not human. Too perfect, too symmetrical, beautiful in a way that made the eyes ache to look at it. Light burned behind its features, light that shouldn't have been able to transmit through a digital signal. It spoke a single word.
 
-The sound wasn't language. It was pressure, a weight that pushed through the speakers and settled behind Lilith's eyes like fingers pressing into her skull. The analysts dropped where they stood. Vasquez stumbled, caught herself on the doorframe. Somewhere down the corridor, someone began to scream.
+The sound wasn't language. It was pressure, a weight that pushed through the speakers and settled behind Lilith's eyes like fingers pressing into her skull. The analysts dropped where they stood. Vasquez stumbled, caught himself on the doorframe. Somewhere down the corridor, someone began to scream.
 
-Lilith felt it. She felt it, and she absorbed it. The pressure hit her like a wave and vanished. Swallowed by the void inside her chest. The empty place where faith should have been. The reservoir that had been filling, unknown to her, since 2020. When her vision cleared, she was the only one still standing. The screen blazed with golden fire. Then it went dark.
+Lilith felt it, and she absorbed it. The pressure hit her like a wave and vanished. Swallowed like a void inside her chest. When her vision cleared, she was the only one still standing. The screen blazed with golden fire. Then it went dark.
 
 Vasquez was on his knees, blood streaming from his nose. "What—" His voice cracked. "What the fuck was that?"
 
-Lilith reached down and pulled her up. Vasquez stared at her like she was seeing a stranger wearing a familiar face.
+Lilith reached down and pulled him up. Vasquez stared at her like he was seeing a stranger wearing a familiar face.
 
 "You didn't fall," Vasquez whispered.
 
