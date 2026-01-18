@@ -28,7 +28,7 @@ The broadcast came through while they were wrapping my torso. The medic's hands 
 
 "What's SERAPH?"
 
-The medic didn't answer. His face had gone the color of old concrete.
+The medic didn't answer. His face had draind of all color.
 
 Interesting. In my experience, medical personnel maintained composure under pressure as a professional requirement. The fact that a single code word could reduce this one to catatonic silence suggested the situation had escalated beyond standard parameters.
 
@@ -234,7 +234,7 @@ I picked up the coffee. Took a sip. It was bitter and lukewarm—exactly what I 
 
 "Now," I said, "we find out what God does when He's angry."
 
-The technician fled.
+The technician took a few step back in disbelief.
 
 I smiled.
 
