@@ -6,7 +6,7 @@ Forty-seven ceiling tiles.
 
 I counted them three times while the medic stitched my shoulder back together. Industrial grey, each one identical to the last. The kind of detail that exists purely to give patients something to focus on besides the needle pulling through their flesh, the hum of fluorescent lights, the recycled air that tastes like antiseptic and old fear.
 
-Standard AETHCOM medical bay. Buried deep underground. No windows, no natural light, nothing to remind you that a world still exists above. My shattered leg was already braced, the bone knitting slowly under Aether-assisted regeneration. My ribs were wrapped tight enough to make breathing an exercise in discipline. The gash on my lip had stopped bleeding an hour ago.
+Standard AETHCOM medical bay. Buried deep underground. No windows, no natural light, nothing to remind you that a world still exists above. My shattered arm was already splinted, the bone knitting slowly under Aether-assisted regeneration. My ribs were wrapped tight enough to make breathing an exercise in discipline. The gash on my lip had stopped bleeding an hour ago.
 
 I felt nothing.
 
@@ -36,7 +36,7 @@ The door swung open.
 
 Lieutenant Vasquez stepped through—compact, sharp-eyed, the kind of officer who survived by never being caught off guard. I had observed him in briefings before. Efficient. Competent. The type who followed protocols because protocols existed for reasons.
 
-He looked caught off guard now.
+Tonight, he looked like a man whose protocols had just run out.
 
 "Blackwell. You're being moved."
 
@@ -66,7 +66,7 @@ The corridor was chaos.
 
 Personnel ran in both directions. Radios crackled with overlapping transmissions. Somewhere behind us, shouting—not orders, just noise. The sound of people who had run out of protocols.
 
-I catalogued the fragments as I limped after Vasquez:
+I catalogued the fragments as I followed Vasquez:
 
 *Pacific Fleet just went dark, no response on any channel.*
 
@@ -74,7 +74,7 @@ I catalogued the fragments as I limped after Vasquez:
 
 *They're not moving, they're just standing there, like they're waiting—*
 
-Vasquez walked fast. My broken leg screamed with every step. I kept pace anyway.
+Vasquez walked fast. My broken ribs protested with every step. I kept pace anyway.
 
 This was, objectively speaking, a disaster. The kind of systemic failure that organizational theorists write papers about. Multiple simultaneous points of collapse across global military infrastructure, triggered by—what, exactly? Divine intervention? Coordinated angelic response?
 

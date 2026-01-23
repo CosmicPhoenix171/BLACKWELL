@@ -1,99 +1,155 @@
-# Prologue
+# Prologue: First Blood
 
-## First Blood
+[██████ ██, ████], ST. MICHAEL'S CATHEDRAL, BALTIMORE, MARYLAND
 
-The angel was dying, and Lilith Blackwell stood over him like death itself.
+The angel was dying beneath me, and the world would never be the same.
 
-His blood ran gold, spreading across the shattered marble in a glowing pool. It seeped into the rubble and broken stained glass, and wherever it touched, it pulsed with fading light. Like heaven was bleeding out onto the floor of a ruined church in downtown Baltimore.
+His blood ran gold across the shattered marble—spreading in a luminescent tide that set the ruins ablaze with dying light. It seeped into the cracks between broken stones, pooled around the splintered pews, turned the scattered stained glass into a thousand burning stars. Heaven itself was bleeding out onto the floor of a ruined church in downtown Baltimore.
 
-The place was wrecked. Pews scattered like matchsticks. Walls blown open. Half the ceiling gone, grey January sky staring down at the carnage.
+And I was the one holding the knife.
 
-Lilith's breathing came hard and ragged, each inhale a knife between her ribs. Her tactical jacket was torn at the shoulder where one of his wings had caught her, the wound underneath deep enough that cold air kissed raw muscle. Her own blood, red and human and ordinary, dripped from her fingertips to mix with the gold pooling at her boots.
+The cathedral lay in ruins around us. Walls blown open to the winter sky. The altar split in two where he had thrown me through it. Half the ceiling gone, grey clouds staring down at what remained—at the impossible thing happening in the wreckage below.
 
-Her left leg was bent below the knee, the bone snapped clean through when he had slammed her into the altar. She could feel the jagged edges grinding against each other every time she shifted her weight. Her ribs were cracked, at least three of them, maybe more. She had bitten through her lip somewhere in the fight and the taste of copper coated her tongue.
+An angel. Dying. At mortal hands.
 
-None of it mattered anymore.
+My breathing came in ragged gasps, each inhale a fresh agony through shattered ribs. My left arm was broken in at least two places. Blood—my blood, red and human—dripped from a dozen wounds to mix with the gold spreading beneath my boots. I could feel darkness clawing at the edges of my vision, my body screaming that it had nothing left to give.
 
-The angel's six wings spread around him like a broken halo, three on each side, feathers bent and cracked and losing their glow. That face, too perfect, too symmetrical, wrong in the way only something inhuman could be, was turned toward the sky. But his eyes were not looking up. They were searching. Desperate. Waiting for a rescue that was not coming.
+I ignored it. I had been ignoring it for the last ten minutes of this fight.
 
-"You" The word came out wet, bubbling through golden blood. His chest heaved. The light around him flickered like a dying bulb. "You cannot. You do not know what you have"
+Pain is just the body's way of telling you something matters. And nothing had ever mattered more than this.
 
-Lilith lowered herself until she was kneeling beside him. The movement cost her. Her leg screamed. Her ribs shifted. Darkness crawled at the edges of her vision. But she needed to be close for this. She needed him to see her face.
+The angel's six wings spread around him like a broken crown—three on each side, once magnificent, now bent and cracked and losing their light in stuttering pulses. That face, too perfect, too symmetrical, *inhuman* in ways that made the mind recoil—it was turned toward the sky. But his eyes weren't looking up.
 
-"No," she said. Her voice was raw, shredded from the incantations and commands she had thrown during the fight. "I know exactly what I've done."
+They were looking for rescue.
 
-Her hand went to the pistol on her hip. The Harbinger, Aether core sidearm, military grade, the kind of weapon that should not exist outside of AETHCOM black sites. She drew it, pressed the barrel against his forehead, and pulled the trigger.
+None was coming.
 
-Click.
+"You—" The word bubbled up through golden blood. His chest heaved. The light around him flickered, dimmed, fought to stay lit. "You *cannot*. You do not understand what you have—"
 
-Empty.
+I lowered myself until I was kneeling beside him. Every movement cost me. My broken arm shrieked as I braced against the floor. My ribs ground against each other. The darkness at the edge of my vision grew teeth.
 
-Something between a laugh and a snarl escaped her throat. She tossed the gun aside. It clattered across the marble and disappeared into the debris.
+But I needed to be close for this. I needed him to see my face. To understand exactly who had done this to him.
 
-"I've just declared war on Heaven," she said, and her hand moved to the sheath on her thigh. The combat knife came free with a whisper of steel, seven inches of blackened blade, edge sharp enough to split atoms.
+"No," I said. My voice was raw, torn ragged by the Aether-commands I had hurled during the fight. "I understand perfectly."
 
-She held it up. And she called.
+I drew the pistol from my hip—the Harbinger, Aether-core sidearm, the kind of weapon that wasn't supposed to exist. Pressed the barrel against his forehead. Pulled the trigger.
 
-The Aether answered.
+*Click.* Empty. 
 
-It surged up from somewhere deep in her chest, flowed down her arm like liquid fire, and poured into the blade. The steel began to glow, not gold like his blood, but violet. Purple fire. The color of dying stars and barely contained rage. The air around it crackled and warped, and where the light touched the angel's skin, he screamed.
+I tossed it aside and reached for the knife on my thigh. Seven inches of blackened steel—the blade that would change everything.
 
-Lilith smiled. There was nothing sane in that smile. Nothing human.
+"I've just declared war on Heaven," I said, 
 
-"Your boss is going to send everything He's got after me," she said. "Angels. Saints. Champions. Whatever divine bullshit He can scrape together. Every weapon in His arsenal, pointed right at my head."
+I *called*. The Aether answered.
 
-She raised the blade. The Aether blazed brighter, casting shadows that danced like demons on the broken walls.
+It erupted from somewhere deep inside me—from that hollow space in my chest, that void where faith should have lived but never had. It roared up through my veins like liquid starfire, poured down my arm, and the blade in my hand began to *burn*.
 
-"And I'm going to kill every single one of them. Because here's the thing." She leaned close, lips brushing his ear. "You're bound by rules. Covenants. Divine law. And I'm very good at exploiting weaknesses."
+Not gold like his blood.
 
-The angel's burning eyes found hers. Even dying, even broken, there was something terrifying in that gaze. Ancient. Vast. Furious.
+*Violet.* 
 
-"Take a message for me," Lilith whispered. "Tell Him The One Who Refuses is coming. Tell Him everything He's built, every miracle, every answered prayer, every scrap of faith He's been feeding on for millennia, I'm going to tear it all down. Piece by piece. Strike by strike. By His own sacred covenants turned against Him."
+Purple fire. The color of dying stars. The color of defiance made manifest.
 
-She pulled back. Met his eyes.
+The air around me crackled and split. Reality itself seemed to *bend* away from the blade, unable to bear its presence. And where that terrible light touched the angel's skin—
 
-"And there's not a goddamn thing He can do to stop me."
+He *screamed*.
 
-She drove the blade down.
+The sound shattered what remained of the windows. It echoed off the broken walls and rolled out into the night like thunder. The scream of something ancient and immortal facing the impossible truth of its own mortality.
 
-The Aether wrapped steel punched through his chest like his divine flesh was tissue paper. She felt it pierce through, felt it find whatever passed for a heart in something like him, felt the resistance as the blade sank deeper and deeper until the hilt pressed against his ribs and there was nowhere left to go.
+I smiled.
 
-The angel convulsed. His back arched off the marble. His mouth opened in a silent scream as golden blood welled up and spilled over his perfect lips.
+"Your God is going to send everything He has after me," I said. "Angels. Archangels. The Hosts of Heaven themselves. Every divine weapon He can muster, pointed directly at my head."
 
-Lilith twisted the blade.
+I raised the blade. The Aether blazed brighter, casting my shadow across the ruins like something vast and terrible.
 
-Slowly.
+"And I am going to kill every. Single. One."
 
-The light left his eyes in stages, flickering, guttering, fighting to hold on as she wrenched the weapon through his chest and shredded whatever was left of his immortal soul.
+The angel's burning eyes found mine. Even broken. Even dying. There was something *immense* behind that gaze. The weight of millennia. The fury of something that had watched civilizations rise and fall like waves against the shore.
 
-Then the gold stopped spreading.
+It should have terrified me. 
+
+Instead, I leaned close. Let him feel my breath against his ear. Let him understand exactly what kind of creature had brought him low.
+
+"You're bound by rules," I whispered. "Covenants. Divine law. Chains you cannot break no matter how desperately you want to."
+
+I pulled back. Met those ancient, burning eyes.
+
+"I have no such limitations."
+
+Something shifted in his expression. Not quite fear. Something deeper. The dawning understanding that he had miscalculated on a fundamental level. That the woman kneeling over him with violet fire blazing in her hands was something Heaven had not planned for.
+
+Something Heaven did not know how to stop.
+
+"Take a message for me," I said. "Tell your God that the One Who Refuses is coming. Tell Him everything He has built—every miracle, every answered prayer, every scrap of faith He has been feeding on since the dawn of time—I am going to tear it all down. Stone by stone. Angel by angel. By His own sacred covenants turned against Him."
+
+I raised the blade high.
+
+"And there is not a *goddamn thing* He can do to stop me."
+
+I drove it down.
+
+The Aether-wrapped steel punched through divine flesh like it was nothing. I felt the blade sink deep—felt it find whatever passed for a heart in something like him—felt the moment when immortality *shattered* against the edge of my knife.
+
+The angel's back arched off the marble. His mouth opened in a soundless scream. Golden blood welled up and spilled over perfect lips as something fundamental came undone inside him.
+
+I twisted the blade.
+
+*Slowly.*
+
+The light left his eyes in stages. Flickering. Guttering. Fighting to hold on with everything he had, because angels were not supposed to die, had *never* died, this was not possible, this could not be happening—
+
+But it was.
+
+The gold stopped spreading.
 
 His body went still.
 
-Silence crashed down on the ruined church like a wave. The angel was dead. Not just killed, executed. By a mortal woman with an Aether blade buried in his heart, staring into his eyes as the light went out.
+And then there was only silence.
 
-And then Lilith Blackwell started to laugh.
+Silence, and the weight of what I had just done pressing down on the ruins like a physical force. The first angel killed by mortal hands since the beginning of creation. The first proof that Heaven could *bleed*.
 
-It ripped out of her in ragged bursts, no joy in it, no relief. Just something dark and broken that had been coiled inside her for years. The sound echoed off the shattered walls and scattered rubble, filling the space where hymns used to rise toward heaven.
+I had just rewritten the rules of existence.
 
-She laughed until her broken ribs screamed. Laughed until tears cut tracks through the blood and grime on her face. Laughed until she was doubled over, hands on her knees, her whole body shaking with the weight of what she had just done.
+And then—
 
-She had killed an angel.
+I started to laugh.
 
-Her. A twenty four year old woman. A mortal standing in a pool of divine blood. And somewhere, right now, the thing that called itself God was realizing His messenger was not coming home.
+It ripped out of me in ragged, broken bursts. Not joy. Not relief. Something darker. Something that had been building inside me for twenty-four years, coiled tight and waiting for this moment. The sound echoed off the shattered walls and spilled out into the night, filling the space where hymns used to rise toward Heaven.
 
-She was broken. Bleeding. Cackling like a lunatic over a corpse in what used to be holy ground. And she *knew* this was just the beginning. That worse was coming. That she had just painted a target on her soul that would never wash off.
+I laughed until my broken ribs screamed. Laughed until tears carved tracks through the blood on my face. Laughed until I was doubled over, hands on my knees, my entire body shaking with the enormity of what I had accomplished.
 
-And still she could not stop laughing.
+*I had killed an angel.*
 
-Because she had never, in her whole life felt this alive.
+Me. A mortal woman. Standing in a pool of divine blood with a knife buried in Heaven's heart.
 
-The madness finally burned itself out, leaving her hollow and shaking. With trembling hands, she reached down and pulled a single feather from his wing. It still glowed faintly. Still warm.
+And somewhere—right now, in this very moment—God Himself was realizing that His messenger was never coming home. That something had risen in the world below that could touch the untouchable. Kill the unkillable.
 
-Evidence. Documentation. Proof of deed.
+That the rules had *changed*.
 
-She stood, swaying on unsteady legs, and looked down at what was left of him. The first angel she had ever killed. The first of many, if she had anything to say about it.
+I was broken. Bleeding. Half-dead in the ruins of a church. The kind of wreck that should have been crawling toward the exit, begging for help.
 
-"That's one," she said.
+Instead, I was laughing. Because I knew—with absolute certainty—that this was just the beginning. That the retaliation would be swift and terrible. That I had just painted a target on my soul that would never wash off.
 
-Then she turned and limped toward the distant wail of sirens, still wearing that terrible smile, leaving behind a trail of golden blood and Heaven's broken pride.
+And I had never felt more *alive*.
+
+The laughter finally burned itself out, leaving me hollow and shaking. With trembling hands, I reached down and pulled a single feather from his wing. It still glowed faintly. Still warm with fading divinity.
+
+Proof. Evidence. The first trophy of a war that would reshape creation.
+
+I stood on unsteady legs, swaying, and looked down at what remained of him. The first angel I had ever killed.
+
+The first of *many*.
+
+"That's one," I said.
+
+Then I turned and staggered toward the distant wail of sirens, cradling my shattered arm against my chest, leaving behind a trail of golden blood and Heaven's shattered pride.
+
+Above me, beyond the grey winter sky, beyond the clouds and the stars and the veil between worlds—I could feel something watching. Something vast and ancient and, for the first time in eternity, *uncertain*.
+
+Good.
+
+Let Him watch. Let Him see what I had done. Let Him understand exactly what was coming for His throne.
+
+The war against Heaven had begun.
+
+And I was just getting started.
