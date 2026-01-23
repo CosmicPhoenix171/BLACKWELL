@@ -16,6 +16,25 @@ See **[Lilith Blackwell](lilith.md)** for the protagonist's full profile.
 - **Last Words**: Tried to say "You do not know what you have—" before Lilith silenced him
 - **Significance**: His death announced Lilith to Heaven
 
+### Daniel "Doc" Mercer
+- **Role**: Combat Medic / AETHCOM Contractor
+- **Callsign**: Topper
+- **Faction**: US/AETHCOM (contractor)
+- **Appearance**: 40, slightly overweight, broad shoulders, greying brown hair, goatee, scarred steady hands
+- **Relationship to Lilith**: The one who patches her up without questions
+- **Motivation**: "I couldn't save the one person who mattered. So I save everyone else."
+- **Notes**: Former Navy SEAL medic. Wife died from Aether exposure. Doesn't care if he lives or dies, but still does the job. See **[Daniel Mercer](daniel-mercer.md)** for full profile.
+
+### Katherine "Kat" Johnson
+- **Role**: Designated Marksman / Overwatch (Trainee)
+- **Callsign**: Owl
+- **Faction**: US/AETHCOM (conscript)
+- **Appearance**: 22, lean, messy hair, alert/anxious eyes, uniform never sits right
+- **Aether Type**: Perception — enhanced sight, threat awareness, precognitive flashes
+- **Relationship to Lilith**: Someone Lilith is trying to protect — and a mirror (both Aether-gifted, opposite responses)
+- **Motivation**: "I'm not ready. Stop acting like I should be."
+- **Notes**: Civilian drafted at 22 after Aether-positive screening. Sees things before they happen — can't control it yet. Terrified of her own power. See **[Katherine Johnson](katherine-johnson.md)** for full profile.
+
 ### [AETHCOM Ally]
 - **Role**: [Position within AETHCOM]
 - **Relationship to Lilith**: Trusted subordinate / rival / mentor
