@@ -102,7 +102,7 @@ const chapters = {
                 pages: 1
             },
             'chapter-01': {
-                title: 'Chapter One: Containment Failure',
+                title: 'Chapter One: The Aftermath',
                 file: 'chapters/chapter-01.md',
                 pages: 1
             }
