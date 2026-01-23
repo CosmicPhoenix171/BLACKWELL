@@ -176,6 +176,68 @@ The only question that mattered now was what we did next.
 
 "Yes, sir," I said again.
 
+Morrison's jaw tightened. He took three steps toward me, close enough that I could see the burst capillaries in his eyes. The room had gone silent. Everyone watching. Everyone waiting.
+
+"The mission was reconnaissance," Morrison said. "Observe and report. That was the authorization. Those were your orders." His voice dropped, dangerous and quiet. "So explain to me, Operative Blackwell, how a surveillance assignment in Baltimore turned into the first confirmed angel kill in human history."
+
+I met his gaze. Held it.
+
+"The target was designated Seraph-VII," I said. "Low-tier enforcement angel. Assigned to the Greater Baltimore Metropolitan Area for the past three months. Pattern analysis suggested he would manifest at St. Michael's Cathedral at approximately 2200 hours for routine faith reinforcement—blessing the congregation, minor miracles, standard divine PR."
+
+"I'm aware of the intel." Morrison's voice was ice. "I signed off on the observation. I did *not* sign off on engagement."
+
+"No, sir. You didn't."
+
+"Then why is there a dead angel in a church basement and half the world's military infrastructure in flames?"
+
+The room held its breath.
+
+I could have lied. Could have claimed self-defense, or unexpected escalation, or operational necessity. Any of those would have been plausible. Any of those might have been believed.
+
+But I had never seen the point in lying when the truth was more useful.
+
+"Because we were losing," I said.
+
+Morrison's eyes narrowed. "Losing."
+
+"Slowly. Quietly. In a way no one wanted to admit." I kept my voice flat. Clinical. The voice of someone presenting an autopsy, not confessing to deicide. "Every month, more nations surrender. More populations convert. More governments sign compliance agreements. The angels don't need to fight us, General. They just need to wait. In ten years, maybe twenty, there won't be anyone left who remembers what resistance looked like."
+
+"And killing one angel changes that?"
+
+"Killing one angel proves they *can* be killed. That changes everything."
+
+I stepped closer. Let him see the certainty in my eyes.
+
+"AETHCOM has been playing defense for four years. Observation. Containment. 'Managed coexistence.' And every year, God's influence spreads further. Every year, more people kneel. Every year, we lose ground we never get back." I gestured at the bleeding map behind him. "You wanted to study them. Understand them. Find their weaknesses *eventually*. But eventually wasn't coming, sir. Eventually was a lie we told ourselves so we could keep filing reports instead of fighting a war."
+
+Morrison's jaw tightened. He knew I was right. He hated that I was right.
+
+"So you decided to start one."
+
+"I decided to *force* one. There's a difference." I paused. Let that sink in. "Humanity doesn't fight back when it's comfortable. When there's still hope that compliance will save them. When they can pretend the angels are benevolent and God is merciful and everything will be fine if they just *believe* hard enough."
+
+I pointed at the map. At the red markers. At the world on fire.
+
+"Look at what He did the moment one of His own died. Look at His *response*. Does that seem merciful to you? Does that seem benevolent?" My voice dropped. "I needed the world to see what I already knew. God isn't a shepherd protecting His flock. He's a predator who hasn't needed to show His teeth. Until now."
+
+"So you—what? Sacrificed global stability to make a point?"
+
+"I sacrificed a comfortable lie to reveal an uncomfortable truth. The world was never stable, General. It was compliant. There's a difference." I met his gaze. Held it. "Now they know. Now they've seen Him react with force instead of love. Now they understand that the only reason He hasn't crushed us is because He *couldn't*—not without proving He's exactly what I've always said He was."
+
+The room was silent. Even the radio chatter seemed to have faded.
+
+"I tracked him for six weeks," I continued. "Mapped his patrol routes. Identified his manifestation patterns. St. Michael's was his anchor point—he returned there every seventy-two hours to draw power from the congregation's faith. The location was isolated enough for engagement. The timing meant minimal civilian presence." I paused. "It wasn't random, General. It was calculated. And it worked."
+
+Morrison stared at me. Something shifted in his expression—not quite respect, but something adjacent to it. The recognition of a predator encountering another predator.
+
+"And the authorization you didn't have?"
+
+"Would have been denied," I said simply. "Risk assessment would have flagged it as suicide. Command would have prioritized the asset—me—over the strategic value. The opportunity would have been lost." I gestured at the bleeding map behind him. "Now we know. Angels can die. God responds to their deaths with overwhelming force. His response follows a pattern—global, coordinated, punitive. And most importantly—He's *afraid*. Afraid enough to burn the world rather than let one death go unanswered."
+
+"That's your takeaway? That God is *afraid*?"
+
+"Confident beings don't overreact, sir. Secure powers don't need to make examples." I let a cold smile touch my lips. "He showed His hand tonight. And it's weaker than He wanted us to believe."
+
 Morrison stared at me for a long moment. Then, impossibly, he laughed.
 
 It was a broken sound—the laugh of a man watching the world burn and finding something darkly funny in the flames. The kind of laugh that meant all his carefully constructed expectations about reality had just been incinerated, and he was still trying to figure out what to build from the ashes.
