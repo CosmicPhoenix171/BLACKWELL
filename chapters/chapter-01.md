@@ -82,7 +82,7 @@ If so, the timing was instructive. I had killed an angel approximately four hour
 
 Correlation is not causation. But in my experience, when the universe presents you with a coincidence this convenient, you should probably assume it's not a coincidence at all.
 
-We passed a break room. Inside, a cluster of analysts stood frozen around a wall-mounted screen. Civilian broadcast, still functioning somehow. The anchor's voice was steady, professional—trained to project calm during catastrophe.
+We passed a break room. Inside, a cluster of analysts stood frozen around a wall-mounted screen. A civilian news feed—still airing somehow. The anchor's voice was steady, professional—trained to project calm during catastrophe.
 
 "—unprecedented phenomenon occurring across every continent. Reports indicate that entities previously engaged in enforcement actions have ceased all movement. Governments worldwide are attempting to establish—"
 
